@@ -1,0 +1,1 @@
+print(('NO', 'YES')[not set(input()).isdisjoint(input())])

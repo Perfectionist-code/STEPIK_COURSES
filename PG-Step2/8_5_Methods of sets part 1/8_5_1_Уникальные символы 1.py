@@ -1,0 +1,1 @@
+print(*tuple(len(set(x)) for x in (input().lower() for _ in range(int(input())))), sep = '\n')

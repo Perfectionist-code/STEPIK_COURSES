@@ -1,0 +1,23 @@
+# Подвиг 3. На вход программе подается натуральное число N. Прочитайте его и с помощью list comprehension сформируйте двумерный список размером N x N, состоящий из нулей, а по главной диагонали - единицы. (Главная диагональ - это элементы, идущие по диагонали от верхнего левого угла матрицы до ее нижнего правого угла). Полученный двумерный список отобразите в виде таблицы чисел, как показано в примере ниже.
+#
+# Тесты: https://github.com/selfedu-rus/test-python-base/tree/main/5/5.8.3
+#
+# Sample Input:
+#
+# 4
+# Sample Output:
+#
+# 1 0 0 0
+# 0 1 0 0
+# 0 0 1 0
+# 0 0 0 1
+
+N = int(input())
+lst = [[1 if i == j else 0 for j in range(N)] for i in range(N)]
+for i in range(N):
+    print(*lst[i])
+
+# n = int(input())
+# mtx = [[int(i == j) for j in range(n)] for i in range(n)]
+# for row in mtx:
+#     print(*row)

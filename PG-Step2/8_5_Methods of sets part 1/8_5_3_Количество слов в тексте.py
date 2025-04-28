@@ -1,0 +1,1 @@
+print(len(set([x.strip('.,;:-?!') for x in input().lower().split()])))

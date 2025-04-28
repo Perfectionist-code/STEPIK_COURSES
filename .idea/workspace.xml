@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Stepik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/.idea/EGE_iformat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/1_1_15619 РАЗБОР.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Jura/ostatok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript courses/.ipynb_checkpoints/ex1-checkpoint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript courses/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/5_1_7_Ход коня.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/BEEGEEK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Good password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Google search - 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Merge lists 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Next Prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/mach_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/p-g_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/p-g_ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Аве, Цезарь.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Автомобильный_номер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Валидный номер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Виселица.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Волшебное число.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Задача Эйлера.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Задача про коров.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Звёздный треугольник.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Змеиный регистр.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Искомый месяц.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Кодирование_Цезаря_проект_русск.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Кодирование_Цезаря_проект_русск_НЕ_МОЙ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Магические даты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Накручиваем стоимость ответа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Необычное сравнение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Палиндром.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Панграммы_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Панграммы_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Порядок книг.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Правильная скобочная последовательность.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Простые числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Решение уравнения.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Самое тяжёлое слово.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Сбой в системе.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Стоимость ответа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Строковые минимум и максимум.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Тимур и его числа .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Функция reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Числа Рамануджана.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Число словами.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step1/Шифр Цезаря.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_4_Строковое представление.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_5_Информация об учебных курсах.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_6_Набор сообщений.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_2_Basics of working with a dictionary/10_2_7_Код Морзе.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_3_Dictionary methods/10_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_3_Dictionary methods/10_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_3_Dictionary methods/10_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_3_Dictionary methods/10_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_1_Словарь программиста.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_2_Анаграммы 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_3_Анаграммы 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_4_Словарь синонимов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_5_Страны и города.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_6_Телефонная книга.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_4_Dictionary tasks/10_4_7_Секретное слово.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_6_Генератор в генераторе словаря.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/10_5_Nested dictionaries and dictionary generators/10_5_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_1_Final work on dictionaries part 1/11_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_1_Final work on dictionaries part 1/11_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_1_Минутка генетики.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_2_Порядковый номер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_3_Scrabble game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_4_Строка запроса.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_5_Слияние словарей.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_6_Опасный вирус.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/11_2_Final work on dictionaries part 2/11_2_7_Покупки в интернет-магазине.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_1_The Random Module Part 1/12_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_1_The Random Module Part 1/12_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_1_The Random Module Part 1/12_1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_1_The Random Module Part 1/12_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_3_Перемешивание матрицы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_4_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_5_sample 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_6_Bingo card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_7_Тайный друг.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_8_Генератор паролей 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_2_The Random Module Part 2/12_2_9_Генератор паролей 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_3_The Monte Carlo method/12_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/12_3_The Monte Carlo method/12_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_1_The decimal module/13_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_1_The decimal module/13_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_1_The decimal module/13_1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_1_The decimal module/13_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_7_Юный математик.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_2_The fractions module/13_2_8_Упорядоченные дроби.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_3_Compex data type/13_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_3_Compex data type/13_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/13_3_Compex data type/13_3_3_Сопряженные числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/14_1_The Turtle Module/14_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/14_1_The Turtle Module/14_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/14_1_The Turtle Module/14_1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/14_1_The Turtle Module/14_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/14_1_The Turtle Module/14_1_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_1_Optional and named arguments/15_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_2_Functions with a variable number of arguments/15_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_2_Functions with a variable number of arguments/15_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_2_Functions with a variable number of arguments/15_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_2_Functions with a variable number of arguments/15_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_2_Functions with a variable number of arguments/15_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_2_Functions with a variable number of arguments/15_2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_4_Functions as objects/15_4_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_5_Higher-order functions/15_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_5_Higher-order functions/15_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_5_Higher-order functions/15_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_5_Higher-order functions/15_5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_5_Higher-order functions/15_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_7_Anonymous functions. Part 1/15_7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_7_Anonymous functions. Part 1/15_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/15_8_Anonymous functions. Part 2/15_8_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_1_Final work on the function Part 1/16_1_1_Письмо для экзамена.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_1_Final work on the function Part 1/16_1_2_Pretty print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_10_Гематрия слова.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_11_Сортировка IP-адресов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/16_3_Final work on the function Part 3/16_3_9_В одну строку.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_1_Содержимое файла.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_2_Предпоследняя строка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_3_lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_3_Случайная строка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_4_numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_4_Сумма двух-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_5_nums.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_5_Сумма двух-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_6_prices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_2_Working with text files Part 1/17_2_6_Общая стоимость.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_1_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_1_Переворот строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_2_Обратный порядок.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_3_Длинные строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_4_Сумма чисел в строках.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_5_Сумма чисел в файле.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_6_Статистика по файлу.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_7_Random name and surname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_8_Необычные страны.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/17_3_9_CSV-файл.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/first_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/last_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/nums.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_3_Working with text files Part 2/population.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_1_Входная строка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_2_Случайные числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_3_Нумерация строк.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_4_Подарок на новый год.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_5_Загадка от Жака Фреско.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_6_Конкатенация файлов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/17_4_7_Лог файл.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/class_scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/file_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/file_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/file_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/logfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/17_4_Working with text files Part 3/random.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_1_Количество строк в файле.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_3_Goooood students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_4_Самое длинное слово в файле.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_5_Tail of a File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/18_1_6_Forbidden words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/beegeek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/forbidden_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/forbidden_words_copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/stepik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_6_Forbidden words/stepik_copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_7_Транслитерация/18_1_7_Транслитерация.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_7_Транслитерация/cyrillic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_7_Транслитерация/transliteration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/18_1_8_Пропущенные комменты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/grades.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/input_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/ledger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/18_1_Final work on working with files/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_1_На easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_2_Индекс массы тела.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_3_Стоимость строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_4_Количество слов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_5_Зодиак.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_6_Переворот числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_7_Standard American Convention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_1/2_1_8_Задача Иосифа Флавия.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_10_Кремниевая долина.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_11_Роскомнадзор запретил букву а.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_1_Координатные четверти.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_2_Больше предыдущего.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_3_Назад, вперед и наоборот.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_4_Сдвиг в развитии.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_5_Различные элементы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_7_Камень, ножницы, бумага.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_8_Камень, ножницы, бумага, ящерица, Спок.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/1_1_Repeat_the_basics_of_Python_construction/Part_2/2_2_9_Орел и решка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_3_Nested lists/4_3_3_Треугольник Паскаля 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_3_Nested lists/4_3_5_Упаковка дубликатов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_3_Nested lists/4_3_6_Разбиение на чанки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_3_Nested lists/4_3_7_Подсписки списка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_1_Вывести матрицу 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_2_Вывести матрицу 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_3_След матрицы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_4_Больше среднего.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_5_Максимальный в области 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_6_Максимальный в области 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_4_Matrix_part_1/4_4_7_Суммы четвертей.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_1_Таблица умножения.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_2_Максимум в таблице.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_3_Обмен столбцов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_4_Симметричная матрица.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_5_Обмен диагоналей.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_6_Зеркальное отображение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_7_Поворот матрицы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_8_Ходы коня.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_5_Matrix_part_2/4_5_9_Магический квадрат.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_10_Заполнение спиралью.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_1_Шахматная доска.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_2_Побочная диагональ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_3_Заполнение 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_4_Заполнение 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_5_Заполнение 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_6_Заполнение 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_7_Заполнение 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_8_Заполнение змейкой.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_6_Matrix_part_3/4_6_9_Заполнение диагоналями_НЕ ЗАКОНЧЕНО.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_7_operations on matrices/4_7_1_Сложение матриц.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_7_operations on matrices/4_7_2_Умножение матриц.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/4_7_operations on matrices/4_7_3_Возведение матрицы в степень.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_1_Каждый n-ый элемент.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_2_Максимальный в области 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_3_Транспонирование матрицы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_4_Снежинка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_5_Симметричная матрица.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_6_Латинский квадрат.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_7_Ходы ферзя 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/5_1_Exam/5_1_8_Диагонали, параллельные главной.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_2_Introduction to tuples/6_2_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_3_Basics of working with tuples/6_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_3_Basics of working with tuples/6_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_3_Basics of working with tuples/6_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_3_Basics of working with tuples/6_3_5_Вершина параболы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_3_Basics of working with tuples/6_3_6_Конкурсный отбор.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/6_3_Basics of working with tuples/6_3_7_Последовательность Трибоначчи.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_2_Operations on sets/8_2_1_Тимур и его команда.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_2_Operations on sets/8_2_2_Книги на прочтение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_5_Methods of sets part 1/8_5_1_Уникальные символы 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_5_Methods of sets part 1/8_5_2_Уникальные символы 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_5_Methods of sets part 1/8_5_3_Количество слов в тексте.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_5_Methods of sets part 1/8_5_4_Встречалось ли число раньше.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_5_Methods of sets part 1/8_5_5_Счетчик верных решений.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_6_Methods of sets part 2/8_6_1_Количество совпадающих.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_6_Methods of sets part 2/8_6_2_Общие числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_6_Methods of sets part 2/8_6_3_Числа первой строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_6_Methods of sets part 2/8_6_4_Общие цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_7_Methods of sets part 3/8_7_1_Одинаковые цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_7_Methods of sets part 3/8_7_2_Все цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_7_Methods of sets part 3/8_7_3_Урок информатики.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_7_Methods of sets part 3/8_7_4_Урок математики.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_7_Methods of sets part 3/8_7_5_Урок физики.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_7_Methods of sets part 3/8_7_6_Урок биологии.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_8_Set generators and frozenset/8_8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_8_Set generators and frozenset/8_8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_8_Set generators and frozenset/8_8_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_8_Set generators and frozenset/8_8_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/8_8_Set generators and frozenset/8_8_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_10_Онлайн-школа BEEGEEK 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_11_Онлайн-школа BEEGEEK 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_1_Восход.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_1_Домашнее задание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_3_Города.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_4_Книги на прочтение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_5_Странное увлечение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_6_Онлайн-школа BEEGEEK 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_7_Онлайн-школа BEEGEEK 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_8_Онлайн-школа BEEGEEK 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/9_2_Final work on sets Part 2/9_2_9_Онлайн-школа BEEGEEK 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/goats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/p-g_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/p-g_ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/Книга1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/Оценка времени выполнения функции_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/Оценка времени выполнения функции_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/Оценка времени выполнения функции_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG-Step2/Поиск делителей числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/.ipynb_checkpoints/2-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1 (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.3 Classes and objects. Attributes of classes and objects/1_3_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.4 Class methods. The self parameter/1_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.4 Class methods. The self parameter/1_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.4 Class methods. The self parameter/1_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.4 Class methods. The self parameter/1_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.4 Class methods. The self parameter/1_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.5 Initializer __init__ and finalizer __del__/1_5_9_ САПЁР.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1_5_9_ САПЁР.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/Сортировка вставками.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/Ходы шахматных фигур.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/1.1 - 3.1/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex6_Задача с расшифровкой слова по ключу.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.2 Битовые операции И, ИЛИ, НЕ, XOR/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.3 Модуль random стандартной библиотеки/Проба.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.4 Конструкция match_case_1/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.4 Конструкция match_case_1/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.4 Конструкция match_case_1/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.5 Конструкция match_case_2/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.5 Конструкция match_case_2/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.6 Конструкция match_case_/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/10.6 Конструкция match_case_/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.2 Индексы и срезы строк/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.3 Основные методы строк/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.3 Основные методы строк/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.3 Основные методы строк/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.3 Основные методы строк/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.3 Основные методы строк/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.3 Основные методы строк/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.4 Спецсимволы и экранирование символов/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.4 Спецсимволы и экранирование символов/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.4 Спецсимволы и экранирование символов/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.4 Спецсимволы и экранирование символов/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.4 Спецсимволы и экранирование символов/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.5 Форматирование строк и F-строки/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.5 Форматирование строк и F-строки/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.5 Форматирование строк и F-строки/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.5 Форматирование строк и F-строки/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.5 Форматирование строк и F-строки/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.6 Списки и операции над ними/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.7 Срезы списков. Операторы сравнения списков/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.7 Срезы списков. Операторы сравнения списков/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.7 Срезы списков. Операторы сравнения списков/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.7 Срезы списков. Операторы сравнения списков/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.7 Срезы списков. Операторы сравнения списков/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.8 Методы списков/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.9 Вложенные списки/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.9 Вложенные списки/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.9 Вложенные списки/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/3.9 Вложенные списки/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.1 Условный оператор if. Конструкция if-else/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.2 Вложенные условия и множественный выбор/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.3 Тернарный условный оператор/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.3 Тернарный условный оператор/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.3 Тернарный условный оператор/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.3 Тернарный условный оператор/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.3 Тернарный условный оператор/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/4.3 Тернарный условный оператор/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.1 Оператор цикла while/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.2 Операторы break, continue и else/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.3 Оператор цикла for и функция range/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex6-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex6-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.4 Примеры работы оператора цикла for. Функция enumerate/ex_from_lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.5 Итератор и итерируемые объекты. Функции iter и next/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.5 Итератор и итерируемые объекты. Функции iter и next/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.5 Итератор и итерируемые объекты. Функции iter и next/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex2-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex8-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.6 Вложенные циклы/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.7 Треугольник Паскаля/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.8 Генераторы списков (List comprehension)/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.9 Вложенные циклы и вложенные генераторы списков/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.9 Вложенные циклы и вложенные генераторы списков/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.9 Вложенные циклы и вложенные генераторы списков/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.9 Вложенные циклы и вложенные генераторы списков/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.9 Вложенные циклы и вложенные генераторы списков/Транспонирование матрицы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.1 Введение в словари/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.2 Методы словаря. Перебор его элементов в цикле/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.2 Методы словаря. Перебор его элементов в цикле/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.2 Методы словаря. Перебор его элементов в цикле/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.2 Методы словаря. Перебор его элементов в цикле/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.2 Методы словаря. Перебор его элементов в цикле/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.3 Кортежи (tuple) и их методы/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.4 Множества (set) и их методы/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.4 Множества (set) и их методы/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.4 Множества (set) и их методы/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.4 Множества (set) и их методы/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.4 Множества (set) и их методы/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.4 Множества (set) и их методы/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.5 Операции над множествами. Сравнение множеств/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.6 Генераторы множеств и словарей/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.6 Генераторы множеств и словарей/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.6 Генераторы множеств и словарей/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.6 Генераторы множеств и словарей/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/6.6 Генераторы множеств и словарей/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.1 Что такое функции. Их объявление и вызов/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.1 Что такое функции. Их объявление и вызов/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.1 Что такое функции. Их объявление и вызов/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.1 Что такое функции. Их объявление и вызов/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.1 Что такое функции. Их объявление и вызов/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.1 Что такое функции. Их объявление и вызов/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.10 Замыкания в Python. Вложенные функции/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.10 Замыкания в Python. Вложенные функции/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.10 Замыкания в Python. Вложенные функции/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.10 Замыкания в Python. Вложенные функции/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/lesson_part_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/lesson_part_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/lesson_part_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.11 Декораторы функций/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.12 Передача аргументов декораторам/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.12 Передача аргументов декораторам/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.12 Передача аргументов декораторам/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.12 Передача аргументов декораторам/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.12 Передача аргументов декораторам/Оченка времени выполнения кода.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.2 Оператор return/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.3 Алгоритм Евклида для нахождения НОД/Euclid's algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.4 Именованные аргументы. Фактические и формальные параметры/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.4 Именованные аргументы. Фактические и формальные параметры/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.4 Именованные аргументы. Фактические и формальные параметры/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.4 Именованные аргументы. Фактические и формальные параметры/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.4 Именованные аргументы. Фактические и формальные параметры/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.5 Функции с произвольным числом параметров/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.5 Функции с произвольным числом параметров/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.5 Функции с произвольным числом параметров/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.5 Функции с произвольным числом параметров/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.5 Функции с произвольным числом параметров/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.6 Операторы упаковки и распаковки коллекций/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.6 Операторы упаковки и распаковки коллекций/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.6 Операторы упаковки и распаковки коллекций/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.6 Операторы упаковки и распаковки коллекций/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.6 Операторы упаковки и распаковки коллекций/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex6.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/p-g_ex-2_4-step_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/p-g_ex-2_5-step_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.7 Рекурсивные функции/p-h_ex-2_6-step.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.8 Анонимные (lambda) функции/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.8 Анонимные (lambda) функции/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.8 Анонимные (lambda) функции/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.8 Анонимные (lambda) функции/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.8 Анонимные (lambda) функции/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.9 Области видимости. Ключевые слова global и nonlocal/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.9 Области видимости. Ключевые слова global и nonlocal/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/7.9 Области видимости. Ключевые слова global и nonlocal/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.1 Импорт стандартных модулей. Команды import и from/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.1 Импорт стандартных модулей. Команды import и from/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.1 Импорт стандартных модулей. Команды import и from/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.1 Импорт стандартных модулей. Команды import и from/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.1 Импорт стандартных модулей. Команды import и from/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27421.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27421.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27686.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27686.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27689.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27689.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27690.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27690.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27694.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_27694.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_29672.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_29672.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_33196.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_33196.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_33526.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_33526.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_33769.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_33769.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_35482.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/24_35482.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.5 Функция open. Чтение данных из файла/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.6 Обработка исключения FileNotFoundError и менеджер контекста/24_27694.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.6 Обработка исключения FileNotFoundError и менеджер контекста/24_27694.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.6 Обработка исключения FileNotFoundError и менеджер контекста/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.7 Запись данных в файл/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/8.7 Запись данных в файл/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.1 Выражения-генераторы/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.2 Функция-генератор. Оператор yield/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.2 Функция-генератор. Оператор yield/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.2 Функция-генератор. Оператор yield/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.2 Функция-генератор. Оператор yield/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.2 Функция-генератор. Оператор yield/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.3 Функция map/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.3 Функция map/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.3 Функция map/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.3 Функция map/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.3 Функция map/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.3 Функция map/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.4 Функция filter/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.4 Функция filter/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.4 Функция filter/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.4 Функция filter/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.4 Функция filter/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.5 Функция zip/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.5 Функция zip/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.5 Функция zip/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.5 Функция zip/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.5 Функция zip/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.6 Сортировка с помощью sort и sorted/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.6 Сортировка с помощью sort и sorted/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.6 Сортировка с помощью sort и sorted/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.6 Сортировка с помощью sort и sorted/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.6 Сортировка с помощью sort и sorted/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.7 Аргумент key для сортировки по ключу/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.7 Аргумент key для сортировки по ключу/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.7 Аргумент key для сортировки по ключу/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.7 Аргумент key для сортировки по ключу/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.7 Аргумент key для сортировки по ключу/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.8 Функция isinstance для проверки типов данных/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.8 Функция isinstance для проверки типов данных/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.8 Функция isinstance для проверки типов данных/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.8 Функция isinstance для проверки типов данных/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.9 Функции all и any/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.9 Функции all и any/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.9 Функции all и any/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.9 Функции all и any/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/9.9 Функции all и any/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/Оценка времени выполнения функции_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Perfectionist-code"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Perfectionist-code/STEPIK_COURSES.git",
+    "accountId": "45252d5d-2bbc-4574-9b0c-fff5203f42fb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2wMRTOXwHjVLYcAGPzGyaAJat5P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="" />
+      <created>1745849462271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745849462271</updated>
+    </task>
+    <servers />
+  </component>
+</project>
