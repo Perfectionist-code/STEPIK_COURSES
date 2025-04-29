@@ -15,3 +15,5 @@ for i, val_m in enumerate(lst_m):
         except TypeError:
             continue
 print(cnt)
+#Данный файл был изменён
+print('Go')
