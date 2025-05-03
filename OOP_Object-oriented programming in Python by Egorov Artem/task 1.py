@@ -12,27 +12,24 @@ class File:
         print(f'Файл {self.name} был удален')
         self.is_deleted = True
 
+    def __print_message(self, massage):
+        if self.is_deleted:
+            print(f'Error{massage}FileDeleted({self.name})')
+            return None
+        elif self.in_trash:
+            print(f'Error{massage}FileTrashed({self.name})')
+            return None
+        return True
 
     def read(self):
-        if self.is_deleted:
-            print(f'ErrorReadFileDeleted({self.name})')
-            return None
-        elif self.in_trash:
-            print(f'ErrorReadFileTrashed({self.name})')
-            return None
-        print(f'Прочитали все содержимое файла {self.name}')
+        if self.__print_message('Read'):
+            print(f'Прочитали все содержимое файла {self.name}')
 
     def write(self, content):
-        if self.is_deleted:
-            print(f'ErrorWriteFileDeleted({self.name})')
-            return None
-        elif self.in_trash:
-            print(f'ErrorWriteFileTrashed({self.name})')
-            return None
-        print(f'Записали значение {content} в файл {self.name}')
+        if self.__print_message('Write'):
+            print(f'Записали значение {content} в файл {self.name}')
 
 # Ниже код для проверки класса File
-
 
 
 f1 = File('puppies.jpg')
