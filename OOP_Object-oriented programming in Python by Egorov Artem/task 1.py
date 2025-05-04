@@ -1,69 +1,54 @@
-class File:
-    def __init__(self, name):
+class Product:
+    def __init__(self, name, price):
         self.name = name
-        self.in_trash = False
-        self.is_deleted = False
-
-    def restore_from_trash(self):
-        print(f'Файл {self.name} восстановлен из корзины')
-        self.in_trash = False
-
-    def remove(self):
-        print(f'Файл {self.name} был удален')
-        self.is_deleted = True
-
-    def __print_message(self, massage):
-        if self.is_deleted:
-            print(f'Error{massage}FileDeleted({self.name})')
-            return None
-        elif self.in_trash:
-            print(f'Error{massage}FileTrashed({self.name})')
-            return None
-        return True
-
-    def read(self):
-        if self.__print_message('Read'):
-            print(f'Прочитали все содержимое файла {self.name}')
-
-    def write(self, content):
-        if self.__print_message('Write'):
-            print(f'Записали значение {content} в файл {self.name}')
-
-# Ниже код для проверки класса File
+        self.price = price
 
 
-f1 = File('puppies.jpg')
-assert f1.name == 'puppies.jpg'
-assert f1.in_trash is False
-assert f1.is_deleted is False
+class User:
+    def __init__(self, login, balance=0):
+        self.login = login
+        self.balance = balance
 
-f1.read()  # Прочитали все содержимое файла puppies.jpg
-f1.remove()  # Файл puppies.jpg был удален
-assert f1.is_deleted is True
-f1.read()  # ErrorReadFileDeleted(puppies.jpg)
+    @property
+    def balance(self):
+        return self.__balance
 
-passwords = File('pass.txt')
-assert passwords.name == 'pass.txt'
-assert passwords.in_trash is False
-assert passwords.is_deleted is False
+    @balance.setter
+    def balance(self, new_balance):
+        self.__balance = new_balance
 
-f3 = File('xxx.doc')
+    def __str__(self):
+        return f'Пользователь {self.login}, баланс - {self.balance}'
 
-assert f3.__dict__ == {'name': 'xxx.doc', 'in_trash': False, 'is_deleted': False}
-f3.read()
-f3.remove()
-assert f3.is_deleted is True
-f3.read()
-f3.in_trash = True
-f3.is_deleted = False
-f3.read()
-f3.write('hello')
-f3.restore_from_trash()
-assert f3.in_trash is False
-f3.write('hello')  # Записали значение «hello» в файл cat.jpg
+    def deposit(self, new_deposit):
+        self.__balance += new_deposit
 
-f2 = File('cat.jpg')
-f2.write('hello')  # Записали значение «hello» в файл cat.jpg
-f2.write([1, 2, 3])  # Записали значение «hello» в файл cat.jpg
-f2.remove()  # Файл cat.jpg был удален
-f2.write('world')  # ErrorWriteFileDeleted(cat.jpg)
+    def is_money_enough(self, required_amount_of_money) -> bool:
+        return self.__balance >= required_amount_of_money
+
+    def payment(self, amount_to_be_debited):
+        if self.is_money_enough(amount_to_be_debited):
+            self.__balance -= amount_to_be_debited
+        else:
+            print('Не хватает средств на балансе. Пополните счет')
+
+# billy = User('billy@rambler.ru')
+# print(billy)
+# print(billy.is_money_enough(350))
+# billy.deposit(100)
+# billy.deposit(300)
+# print(billy.is_money_enough(350))
+# print(billy)
+# billy.payment(500)
+# billy.payment(150)
+# print(billy)
+
+# jack = User('jack@gmail.ru', 800)
+# print(jack)
+# print(jack.balance)
+# jack.payment(600)
+# jack.payment(200)
+# jack.payment(1)
+# jack.balance = 1
+# jack.payment(1)
+# print(jack)
