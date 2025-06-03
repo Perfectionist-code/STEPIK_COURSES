@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 4_9_2">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 4_9_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -390,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748959899733</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Задача 4_9_3">
+      <option name="closed" value="true" />
+      <created>1748960335787</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1748960335787</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задачи 3_11_6-6 Making an order parts 1-2" />
     <MESSAGE value="Задачи 3_11_8 Making an order part 3" />
     <MESSAGE value="Задача 4_2_1" />
     <MESSAGE value="Задача 4_2_2" />
@@ -442,7 +450,8 @@
     <MESSAGE value="Задача 4_8_5" />
     <MESSAGE value="Задача 4_9_1" />
     <MESSAGE value="Задача 4_9_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 4_9_2" />
+    <MESSAGE value="Задача 4_9_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 4_9_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
