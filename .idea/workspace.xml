@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_1_1">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_1_2">
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +58,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.1 The principle of inheritance in OOP" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.9 Methods __getitem__ , __setitem__ and __getitem__" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.8 Polymorphism in Python" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.7 Магический метод __call__" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.6 The magic method __bool__" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -446,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749316359877</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Задача 5_1_2">
+      <option name="closed" value="true" />
+      <created>1749316608370</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1749316608370</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_4_2" />
     <MESSAGE value="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__" />
     <MESSAGE value="Задача 4_4_3 (v2)" />
     <MESSAGE value="Задача 4_5_1" />
@@ -498,7 +505,8 @@
     <MESSAGE value="Задача 4_9_7" />
     <MESSAGE value="Задача 4_9_8_Разреженный массив" />
     <MESSAGE value="Задача 5_1_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_1_1" />
+    <MESSAGE value="Задача 5_1_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_1_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
