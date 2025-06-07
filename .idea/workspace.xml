@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_1_3" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_1_4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -460,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749317160643</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Задача 5_1_4">
+      <option name="closed" value="true" />
+      <created>1749317423836</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1749317423836</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_4_3 (v2)" />
     <MESSAGE value="Задача 4_5_1" />
     <MESSAGE value="Задача 4_5_2" />
     <MESSAGE value="Задача 4_5_3" />
@@ -512,7 +522,8 @@
     <MESSAGE value="Задача 5_1_1" />
     <MESSAGE value="Задача 5_1_2" />
     <MESSAGE value="Задача 5_1_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_1_3" />
+    <MESSAGE value="Задача 5_1_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_1_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
