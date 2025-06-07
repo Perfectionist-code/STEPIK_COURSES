@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 4_9_8_Разреженный массив">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_1_1">
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,19 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.3_11_4_Trash_part_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_8_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task 1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/4.9 Methods __getitem__ , __setitem__ and __getitem__&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.3_11_4_Trash_part_1.executor": "Run",
+    "Python.4_2_4.executor": "Run",
+    "Python.4_8_2.executor": "Run",
+    "Python.task 1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.1 The principle of inheritance in OOP"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.9 Methods __getitem__ , __setitem__ and __getitem__" />
@@ -439,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749221981977</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Задача 5_1_1">
+      <option name="closed" value="true" />
+      <created>1749316359877</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1749316359877</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -466,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_3_1" />
     <MESSAGE value="Задача 4_4_2" />
     <MESSAGE value="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__" />
     <MESSAGE value="Задача 4_4_3 (v2)" />
@@ -491,7 +497,8 @@
     <MESSAGE value="Задача 4_9_6" />
     <MESSAGE value="Задача 4_9_7" />
     <MESSAGE value="Задача 4_9_8_Разреженный массив" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 4_9_8_Разреженный массив" />
+    <MESSAGE value="Задача 5_1_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_1_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
