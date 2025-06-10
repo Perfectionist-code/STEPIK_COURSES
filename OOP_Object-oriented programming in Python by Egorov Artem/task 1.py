@@ -1,38 +1,55 @@
-class Date():
-    def __init__(self, day, month, year):
-        self._day = day
-        self._month = month
-        self._year = year
+class PrettyPrint:
 
-    def isoformat(self):
-        return f"{self._year:04}-{self._month:02}-{self._day:02}"
-
-    def format(self):
-        return f"{self._day:02}/{self._month:02}/{self._year:04}"
+    def __str__(self):
+        res = ', '.join([str(key) + '=' + str(value) for key, value in self.__dict__.items()])
+        return f'{self.__class__.__name__}({res})'
 
 
-class DateEurope(Date):
-    pass
+# class Person(PrettyPrint):
+#     def __init__(self, first_name, last_name, age):
+#         self.first_name = first_name
+#         self.last_name = last_name
+#         self.age = age
 
 
-class DateUSA(Date):
+# artem = Person('Artem', 'Egorov', 33)
+# ivan = Person('Ivan', 'Ivanov', 45)
+# print(artem)
+# print(ivan)
 
-    def format(self):
-        return f"{self._month:02}/{self._day:02}/{self._year:04}"
+# class Student(PrettyPrint):
+#     def __init__(self, name, surname, student_id, faculty, specialty):
+#         self.student_id = student_id
+#         self.name = name
+#         self.surname = surname
+#         self.faculty = faculty
+#         self.specialty = specialty
 
-
-# print(issubclass(DateUSA, Date))
-# print(issubclass(DateEurope, Date))
+# student_1 = Student("Иван", "Иванов", 12345, "Физический", "Математика")
+# student_2 = Student("Анна", "Смирнова", 67890, "Химический", "Биология")
+# print(student_1)
+# print(student_2)
 #
-# d = DateEurope(5, 12, 2001)
-# print(d.format())
-# print(d.isoformat())
-# print(isinstance(d, DateEurope))
-# print(isinstance(d, Date))
+# class Student(PrettyPrint):
+#     def __init__(self, name, surname, student_id, faculty, specialty):
+#         self.student_id = student_id
+#         self.name = name
+#         self.surname = surname
+#         self.faculty = faculty
+#         self.specialty = specialty
 #
-# d = DateUSA(1, 5, 890)
-# print(d.format())
-# print(d.isoformat())
-# print(isinstance(d, DateEurope))
-# print(isinstance(d, Date))
-# print(isinstance(d, DateUSA))
+#     def __str__(self):
+#         return f"{self.name} {self.surname}"
+#
+#
+# student_1 = Student("Иван", "Иванов", 12345, "Физический", "Математика")
+# student_2 = Student("Анна", "Смирнова", 67890, "Химический", "Биология")
+# print(student_1)
+# print(student_2)
+
+# class Person(PrettyPrint):
+#     pass
+#
+#
+# p = Person()
+# print(p)
