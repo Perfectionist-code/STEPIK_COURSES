@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_4_1" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_4_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,22 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Задача 3_11_1 Пицца">
-      <option name="closed" value="true" />
-      <created>1746259408845</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1746259408845</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Задача 3_11_2 Registration">
-      <option name="closed" value="true" />
-      <created>1746262818739</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1746262818739</updated>
     </task>
     <task id="LOCAL-00006" summary="Задача 3_11_3 Registration_part_2">
       <option name="closed" value="true" />
@@ -580,7 +564,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749411433887</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Задача 5_4_2">
+      <option name="closed" value="true" />
+      <created>1749587177472</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1749587177472</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Задача 5_4_2">
+      <option name="closed" value="true" />
+      <created>1749587188640</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1749587188640</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -607,7 +607,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_6_2" />
     <MESSAGE value="Задача 4_7_1" />
     <MESSAGE value="Задача 4_7_3" />
     <MESSAGE value="Задача 4_7_2" />
@@ -632,7 +631,8 @@
     <MESSAGE value="Задача 5_2_1" />
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_4_1" />
+    <MESSAGE value="Задача 5_4_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_4_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
