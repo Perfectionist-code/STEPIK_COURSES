@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_1_var_1">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_1_var_2">
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_22_13_[Changes]/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_22_13_[Changes]1/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_22_13__Changes_.xml" afterDir="false" />
@@ -197,14 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Задачи 3_11">
-      <option name="closed" value="true" />
-      <created>1746301672360</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1746301672360</updated>
     </task>
     <task id="LOCAL-00010" summary="Задачи 3_11_6-6 Making an order parts 1-2">
       <option name="closed" value="true" />
@@ -590,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749983713159</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Задача 5_8_1_var_2">
+      <option name="closed" value="true" />
+      <created>1749984693142</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1749984693142</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -617,7 +617,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_8_1" />
     <MESSAGE value="Задача 4_8_2" />
     <MESSAGE value="Задача 4_8_2 - 4_8_3" />
     <MESSAGE value="Задача 4_8_4" />
@@ -642,7 +641,8 @@
     <MESSAGE value="Задача 5_6_1" />
     <MESSAGE value="Задача 5_6_3" />
     <MESSAGE value="Задача 5_8_1_var_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_1_var_1" />
+    <MESSAGE value="Задача 5_8_1_var_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_1_var_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
