@@ -50,13 +50,14 @@ class AppConfigMixin:
 class AppConfig(AppConfigMixin):
     @classmethod
     def get_config(cls, key: str):
-        if '.' in key:
-            key1, key2 = key.split('.', 1)
-            if key1 in cls.config:
-                return cls.config[key1].get(key2, None)
+        obj = cls.config
+        keys = key.split('.')
+        for key in keys:
+            if isinstance(obj, dict):
+                obj = obj.get(key, None)
             else:
                 return None
-        return cls.config.get(key, None)
+        return obj
 
 
 # Загрузка конфигурации при запуске приложения
