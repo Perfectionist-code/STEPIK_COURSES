@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_1_var_2">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_22_13_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_22_13_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_22_13__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_23_28_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2025_23_28__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_06_2025_17_41_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_06_2025_17_41__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/Working with JSON in Python/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/Working with JSON in Python/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/Working with JSON in Python/task_Анализ продаж.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/Working with JSON in Python/task_Група людей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/app_config.json" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_5_4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -42,12 +30,12 @@
     &quot;assignee&quot;: &quot;Perfectionist-code&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Perfectionist-code/STEPIK_COURSES.git",
-    "accountId": "0493bf47-e0a2-43ca-a91c-fe61f99c4a67"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
+    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -65,23 +53,19 @@
     "Python.4_8_2.executor": "Run",
     "Python.7.executor": "Run",
     "Python.task 1.executor": "Run",
-    "Python.task_1.executor": "Run",
-    "Python.task_3.executor": "Run",
-    "Python.task_Анализ продаж.executor": "Run",
-    "Python.task_Група людей.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ProjectsPy/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/Working with JSON in Python"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.5 Delegation in Python"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ProjectsPy\OOP_Object-oriented programming in Python by Egorov Artem\3.9 Classmethod и staticmethod\Working with JSON in Python" />
-      <recent name="D:\ProjectsPy\OOP_Object-oriented programming in Python by Egorov Artem\5.8 Mixins" />
-      <recent name="D:\ProjectsPy\OOP_Object-oriented programming in Python by Egorov Artem\5.6 Multiple inheritance" />
-      <recent name="D:\ProjectsPy\OOP_Object-oriented programming in Python by Egorov Artem\5.5 Delegation in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.5 Delegation in Python" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.4 Extending a class in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.3 Redefining methods in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.2 Inheritance from object and other built-in types" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.1 The principle of inheritance in OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -208,6 +192,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Задачи 3_11_6-6 Making an order parts 1-2">
+      <option name="closed" value="true" />
+      <created>1746349435103</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349435103</updated>
     </task>
     <task id="LOCAL-00011" summary="Задачи 3_11_8 Making an order part 3">
       <option name="closed" value="true" />
@@ -545,63 +537,55 @@
       <option name="project" value="LOCAL" />
       <updated>1749411433887</updated>
     </task>
-    <task id="LOCAL-00053" summary="Задача 5_5_6">
+    <task id="LOCAL-00053" summary="Задача 5_4_2">
       <option name="closed" value="true" />
-      <created>1749828081797</created>
+      <created>1749587177472</created>
       <option name="number" value="00053" />
       <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
-      <updated>1749828081797</updated>
+      <updated>1749587177472</updated>
     </task>
-    <task id="LOCAL-00054" summary="Задача 5_6_1">
+    <task id="LOCAL-00054" summary="Задача 5_4_2">
       <option name="closed" value="true" />
-      <created>1749830185339</created>
+      <created>1749587188640</created>
       <option name="number" value="00054" />
       <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1749830185339</updated>
+      <updated>1749587188640</updated>
     </task>
-    <task id="LOCAL-00055" summary="Задача 5_6_1">
+    <task id="LOCAL-00055" summary="Задача 5_5_1">
       <option name="closed" value="true" />
-      <created>1749831834498</created>
+      <created>1749648318806</created>
       <option name="number" value="00055" />
       <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1749831834498</updated>
+      <updated>1749648318806</updated>
     </task>
-    <task id="LOCAL-00056" summary="Задача 5_6_3">
+    <task id="LOCAL-00056" summary="Задача 5_5_2">
       <option name="closed" value="true" />
-      <created>1749833669948</created>
+      <created>1749648764502</created>
       <option name="number" value="00056" />
       <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1749833669948</updated>
+      <updated>1749648764502</updated>
     </task>
-    <task id="LOCAL-00057" summary="Задача 5_8_1_var_1">
+    <task id="LOCAL-00057" summary="Задача 5_5_3">
       <option name="closed" value="true" />
-      <created>1749983713159</created>
+      <created>1749649201270</created>
       <option name="number" value="00057" />
       <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1749983713159</updated>
+      <updated>1749649201270</updated>
     </task>
-    <task id="LOCAL-00058" summary="Задача 5_8_1_var_2">
+    <task id="LOCAL-00058" summary="Задача 5_5_4">
       <option name="closed" value="true" />
-      <created>1749984693142</created>
+      <created>1749650255603</created>
       <option name="number" value="00058" />
       <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1749984693142</updated>
+      <updated>1749650255603</updated>
     </task>
-    <task id="LOCAL-00059" summary="Задача 5_8_1_var_2">
-      <option name="closed" value="true" />
-      <created>1749986772361</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1749986772361</updated>
-    </task>
-    <option name="localTasksCounter" value="60" />
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -648,12 +632,12 @@
     <MESSAGE value="Задача 5_2_1" />
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
-    <MESSAGE value="Задача 5_5_6" />
-    <MESSAGE value="Задача 5_6_1" />
-    <MESSAGE value="Задача 5_6_3" />
-    <MESSAGE value="Задача 5_8_1_var_1" />
-    <MESSAGE value="Задача 5_8_1_var_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_1_var_2" />
+    <MESSAGE value="Задача 5_4_2" />
+    <MESSAGE value="Задача 5_5_1" />
+    <MESSAGE value="Задача 5_5_2" />
+    <MESSAGE value="Задача 5_5_3" />
+    <MESSAGE value="Задача 5_5_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_5_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -662,10 +646,6 @@
           <url>file://$PROJECT_DIR$/task 1.py</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/Working with JSON in Python/task_Анализ продаж.py</url>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

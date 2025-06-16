@@ -40,16 +40,30 @@ import json
 
 
 # Напишите определение класса AppConfig
-class AppConfig:
-    def load_config(self, file_name):
+class AppConfigMixin:
+    @classmethod
+    def load_config(cls, file_name):
         with open(file_name) as file:
-            return json.load(file)
+            cls.config = json.load(file)
+
+
+class AppConfig(AppConfigMixin):
+    @classmethod
+    def get_config(cls, key: str):
+        if '.' in key:
+            key1, key2 = key.split('.', 1)
+            if key1 in cls.config:
+                return cls.config[key1].get(key2, None)
+            else:
+                return None
+        return cls.config.get(key, None)
 
 
 # Загрузка конфигурации при запуске приложения
 AppConfig.load_config('app_config.json')
 
 # Получение значения конфигурации
+
 assert AppConfig.get_config('database') == {
     'host': '127.0.0.1', 'port': 5432,
     'database_name': 'postgres_db',
