@@ -41,6 +41,9 @@ import json
 
 # Напишите определение класса AppConfig
 class AppConfig:
+    def load_config(self, file_name):
+        with open(file_name) as file:
+            return json.load(file)
 
 
 # Загрузка конфигурации при запуске приложения
@@ -68,5 +71,3 @@ assert conf.get_config('database.host') == '127.0.0.1'
 assert conf.get_config('host') is None
 
 print('Good')
-
-

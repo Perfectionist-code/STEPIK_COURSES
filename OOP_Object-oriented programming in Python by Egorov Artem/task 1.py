@@ -1,58 +1,32 @@
-# Напишите определение класса PermissionMixin     
-class PermissionMixin:
-    def __init__(self):
-        self.permissions = set()
+import json
 
 
-    def grant_permission(self, permission: str):
-        self.permissions.add(permission)
+# Напишите определение класса AppConfig
 
-    def revoke_permission(self, permission):
-        if self.has_permission(permission):
-            self.permissions.remove(permission)
-        # else:
-        #     print(f'Разрешения {permission} нет во множестве {self.__class__.__name__}. Операция удаления отклонена')
 
-    def has_permission(self, permission):
-        return permission in self.permissions
 
-class User(PermissionMixin):
-    def __init__(self, name , email):
-        self.name = name
-        self.email = email
-        super().__init__()
-# Ниже код для проверки миксина PermissionMixin
+# Загрузка конфигурации при запуске приложения
+AppConfig.load_config('app_config.json')
 
-user1 = User('Alice', 'alice@example.com')
-user2 = User('Bob', 'bob@example.com')
+# Получение значения конфигурации
+assert AppConfig.get_config('database') == {
+    'host': '127.0.0.1', 'port': 5432,
+    'database_name': 'postgres_db',
+    'user': 'owner',
+    'password': 'ya_vorona_ya_vorona'}
+assert AppConfig.get_config('database.user') == 'owner'
+assert AppConfig.get_config('database.password') == 'ya_vorona_ya_vorona'
+assert AppConfig.get_config('database.pass') is None
+assert AppConfig.get_config('password.database') is None
 
-assert user1.email == 'alice@example.com'
-assert user1.name == 'Alice'
-assert user1.permissions == set()
+config = AppConfig()
+assert config.get_config('max_connections') == 10
+assert config.get_config('min_connections') is None
 
-assert user2.email == 'bob@example.com'
-assert user2.name == 'Bob'
-assert user2.permissions == set()
-
-user1.grant_permission('read')
-user1.grant_permission('write')
-user2.grant_permission('read')
-assert user1.permissions == {'read', 'write'}
-assert user2.permissions == {'read'}
-
-assert user1.has_permission('read') is True
-assert user1.has_permission('write') is True
-assert user1.has_permission('execute') is False
-
-assert user2.has_permission('read') is True
-assert user2.has_permission('write') is False
-assert user2.has_permission('execute') is False
-
-user1.revoke_permission('write')
-user1.revoke_permission('execute')
-
-assert user1.has_permission('read') is True
-assert user1.has_permission('write') is False
-assert user1.has_permission('execute') is False
+conf = AppConfig()
+assert conf.get_config('max_connections') == 10
+assert conf.get_config('database.user') == 'owner'
+assert conf.get_config('database.host') == '127.0.0.1'
+assert conf.get_config('host') is None
 
 print('Good')
