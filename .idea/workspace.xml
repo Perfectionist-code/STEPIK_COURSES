@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_3_Serializing a class_JSON_">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
@@ -45,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.3_11_4_Trash_part_1.executor": "Run",
-    "Python.4_2_4.executor": "Run",
-    "Python.4_8_2.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.task 1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.8 Mixins"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.3_11_4_Trash_part_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.8 Mixins&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.8 Mixins" />
@@ -192,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Задача 4_2_2">
-      <option name="closed" value="true" />
-      <created>1746470878502</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1746470878502</updated>
     </task>
     <task id="LOCAL-00014" summary="Задача 4_2_3">
       <option name="closed" value="true" />
@@ -585,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750070218695</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Задача 5_8_4">
+      <option name="closed" value="true" />
+      <created>1750184797743</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1750184797743</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_8_5" />
     <MESSAGE value="Задача 4_9_1" />
     <MESSAGE value="Задача 4_9_2" />
     <MESSAGE value="Задача 4_9_3" />
@@ -637,7 +636,8 @@
     <MESSAGE value="Задача 3_9_7_JSON" />
     <MESSAGE value="Задача 3_9_7_JSON var 2" />
     <MESSAGE value="Задача 5_8_3_Serializing a class_JSON_" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_3_Serializing a class_JSON_" />
+    <MESSAGE value="Задача 5_8_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -649,7 +649,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py</url>
-          <line>4</line>
+          <line>2</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
