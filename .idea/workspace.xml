@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_4">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_8_5 Serialization of class - 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
@@ -192,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Задача 4_2_3">
-      <option name="closed" value="true" />
-      <created>1746636181358</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1746636181358</updated>
     </task>
     <task id="LOCAL-00015" summary="Задача 4_2_4">
       <option name="closed" value="true" />
@@ -585,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750184797743</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Задача 5_8_5 Serialization of class - 2">
+      <option name="closed" value="true" />
+      <created>1750185498030</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1750185498030</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_9_1" />
     <MESSAGE value="Задача 4_9_2" />
     <MESSAGE value="Задача 4_9_3" />
     <MESSAGE value="Задача 4_9_4" />
@@ -637,7 +636,8 @@
     <MESSAGE value="Задача 3_9_7_JSON var 2" />
     <MESSAGE value="Задача 5_8_3_Serializing a class_JSON_" />
     <MESSAGE value="Задача 5_8_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_4" />
+    <MESSAGE value="Задача 5_8_5 Serialization of class - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_8_5 Serialization of class - 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,11 +646,6 @@
           <url>file://$PROJECT_DIR$/task 1.py</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
