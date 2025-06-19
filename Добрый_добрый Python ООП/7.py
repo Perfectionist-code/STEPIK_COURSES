@@ -40,31 +40,13 @@ import json
 
 
 # Напишите определение класса AppConfig
-class AppConfigMixin:
-    @classmethod
-    def load_config(cls, file_name):
-        with open(file_name) as file:
-            cls.config = json.load(file)
-
-
-class AppConfig(AppConfigMixin):
-    @classmethod
-    def get_config(cls, key: str):
-        obj = cls.config
-        keys = key.split('.')
-        for key in keys:
-            if isinstance(obj, dict):
-                obj = obj.get(key, None)
-            else:
-                return None
-        return obj
+class AppConfig:
 
 
 # Загрузка конфигурации при запуске приложения
 AppConfig.load_config('app_config.json')
 
 # Получение значения конфигурации
-
 assert AppConfig.get_config('database') == {
     'host': '127.0.0.1', 'port': 5432,
     'database_name': 'postgres_db',
@@ -86,3 +68,5 @@ assert conf.get_config('database.host') == '127.0.0.1'
 assert conf.get_config('host') is None
 
 print('Good')
+
+
