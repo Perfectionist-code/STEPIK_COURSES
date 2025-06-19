@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_10_1 Slots: properties and inheritances">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Хрень">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +55,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.10 Slots properties and inheritances"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/6.1 Exceptions in Python"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.1 Exceptions in Python" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.10 Slots properties and inheritances" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.9 Slots" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.8 Mixins" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.5 Delegation in Python" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.4 Extending a class in Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -192,22 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Задача 4_3_1">
-      <option name="closed" value="true" />
-      <created>1746990566188</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1746990566188</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Задача 4_4_2">
-      <option name="closed" value="true" />
-      <created>1747123802817</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1747123802817</updated>
     </task>
     <task id="LOCAL-00019" summary="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__">
       <option name="closed" value="true" />
@@ -585,7 +568,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750243706671</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Задача 6_1_1">
+      <option name="closed" value="true" />
+      <created>1750272409322</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1750272409322</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Хрень">
+      <option name="closed" value="true" />
+      <created>1750272459358</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1750272459358</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,8 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_9_4" />
-    <MESSAGE value="Задача 4_9_5" />
     <MESSAGE value="Задача 4_9_6" />
     <MESSAGE value="Задача 4_9_7" />
     <MESSAGE value="Задача 4_9_8_Разреженный массив" />
@@ -637,7 +634,9 @@
     <MESSAGE value="Задача 5_8_5 Serialization of class - 2" />
     <MESSAGE value="Задача 5_9_1 __slots__" />
     <MESSAGE value="Задача 5_10_1 Slots: properties and inheritances" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_10_1 Slots: properties and inheritances" />
+    <MESSAGE value="Задача 6_1_1" />
+    <MESSAGE value="Хрень" />
+    <option name="LAST_COMMIT_MESSAGE" value="Хрень" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
