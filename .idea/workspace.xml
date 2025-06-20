@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="1_6_2_ООП_Балакирев">
-      <change beforePath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.6 The magic method __new__. An example of a Singleton pattern/1_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Добрый_добрый Python ООП/1.6 The magic method __new__. An example of a Singleton pattern/1_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,14 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Задача 4_5_1">
-      <option name="closed" value="true" />
-      <created>1747941131504</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1747941131504</updated>
     </task>
     <task id="LOCAL-00023" summary="Задача 4_5_2">
       <option name="closed" value="true" />
@@ -583,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750366464636</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="1_6_2_ООП_Балакирев">
+      <option name="closed" value="true" />
+      <created>1750366517026</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1750366517026</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
