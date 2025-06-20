@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="1_6_2_ООП_Балакирев">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="6_3_1">
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Добрый_добрый Python ООП/1.6 The magic method __new__. An example of a Singleton pattern"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/6.3 Try-except exception handling"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -191,14 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Задача 4_5_2">
-      <option name="closed" value="true" />
-      <created>1747942427645</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942427645</updated>
     </task>
     <task id="LOCAL-00024" summary="Задача 4_5_3">
       <option name="closed" value="true" />
@@ -584,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750366517026</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="6_3_1">
+      <option name="closed" value="true" />
+      <created>1750433650189</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1750433650189</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -611,7 +610,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_9_8_Разреженный массив" />
     <MESSAGE value="Задача 5_1_1" />
     <MESSAGE value="Задача 5_1_2" />
     <MESSAGE value="Задача 5_1_3" />
@@ -636,7 +634,8 @@
     <MESSAGE value="Хрень" />
     <MESSAGE value="1_6_1_ООП_Балакирев" />
     <MESSAGE value="1_6_2_ООП_Балакирев" />
-    <option name="LAST_COMMIT_MESSAGE" value="1_6_2_ООП_Балакирев" />
+    <MESSAGE value="6_3_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="6_3_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
