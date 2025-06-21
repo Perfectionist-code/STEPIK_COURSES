@@ -1,3 +1,4 @@
+import math
 from abc import ABC, abstractmethod
 from math import sqrt
 
@@ -33,7 +34,23 @@ class Triangle(Shape):
         p = self.perimetr(a, b, c) / 2
         return sqrt(p * (p - a) * (p - b) * (p - c))
 
-t = Triangle()
-triangle = (int(input()), int(input()), int(input()))
-print(t.perimetr(*triangle))
-print(t.area(*triangle))
+
+class Rhomb(Shape):
+
+    def get_rib_length(self, d1, d2, alpha):
+        return sqrt(self.area(d1, d2) / math.sin(math.radians(alpha)))
+
+    def perimetr(self, d1, d2, alpha):
+        return 4 * self.get_rib_length(d1, d2, alpha)
+
+    def area(self, d1, d2):
+        return d1 * d2 / 2
+
+# t = Triangle()
+# triangle = (int(input()), int(input()), int(input()))
+# print(t.perimetr(*triangle))
+# print(t.area(*triangle))
+
+r = Rhomb()
+rhomb_diagonals = (float(input()), float(input()))
+print(int(r_area :=r.area(*rhomb_diagonals)), round(r_area,1), r_area, sep='\n')
