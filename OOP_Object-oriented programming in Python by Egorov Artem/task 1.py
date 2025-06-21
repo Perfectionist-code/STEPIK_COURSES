@@ -1,38 +1,25 @@
-from abc import ABC, abstractmethod
+from typing import Protocol
 
 
-# Создайте классы Employee HourlyEmployee и SalariedEmployee
-class Employee(ABC):
-    @abstractmethod
-    def calculate_salary(self):
-        pass
+class Animal(Protocol):
+    def walk(self) -> None:
+        ...
+
+    def speak(self) -> None:
+        ...
 
 
-class HourlyEmployee(Employee):
-    def __init__(self, hours_worked, hourly_rate):
-        self.hours_worked = hours_worked
-        self.hourly_rate = hourly_rate
+class Dog:
+    def walk(self) -> None:
+        print("This is a dog walking")
 
-    def calculate_salary(self):
-        return self.hours_worked * self.hourly_rate
-
-
-class SalariedEmployee(Employee):
-    def __init__(self, monthly_salary):
-        self.monthly_salary = monthly_salary
-
-    def calculate_salary(self):
-        return self.monthly_salary
+    def speak(self) -> None:
+        print("Woof!")
 
 
-# Код для проверки
+def make_animal_speak(animal: Animal) -> None:
+    animal.speak()
 
-hourly_employee = HourlyEmployee(100, 25)
-assert hourly_employee.hours_worked == 100
-assert hourly_employee.hourly_rate == 25
-assert hourly_employee.calculate_salary() == 2500
 
-salaried_employee = SalariedEmployee(4000)
-assert salaried_employee.monthly_salary == 4000
-assert salaried_employee.calculate_salary() == 4000
-print('Good')
+dog = Dog()
+make_animal_speak(dog)
