@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_10_1 Slots: properties and inheritances">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="6_5_3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
@@ -22,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -45,27 +44,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.3_11_4_Trash_part_1.executor": "Run",
-    "Python.4_2_4.executor": "Run",
-    "Python.4_8_2.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.task 1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.10 Slots properties and inheritances"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.3_11_4_Trash_part_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/6.5 Custom exceptions in Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.10 Slots properties and inheritances" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.9 Slots" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.8 Mixins" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.5 Delegation in Python" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.4 Extending a class in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.5 Custom exceptions in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.4 Raise instructions" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.3 Try-except exception handling" />
+      <recent name="D:\Python313\Projects\Stepik\Добрый_добрый Python ООП\1.6 The magic method __new__. An example of a Singleton pattern" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.1 Exceptions in Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -192,118 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Задача 4_3_1">
-      <option name="closed" value="true" />
-      <created>1746990566188</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1746990566188</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Задача 4_4_2">
-      <option name="closed" value="true" />
-      <created>1747123802817</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1747123802817</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__">
-      <option name="closed" value="true" />
-      <created>1747749159003</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1747749159003</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Задача 4_4_3 (v2)">
-      <option name="closed" value="true" />
-      <created>1747772782240</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1747772782240</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Задача 4_5_1">
-      <option name="closed" value="true" />
-      <created>1747843447759</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1747843447759</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Задача 4_5_1">
-      <option name="closed" value="true" />
-      <created>1747941131504</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1747941131504</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Задача 4_5_2">
-      <option name="closed" value="true" />
-      <created>1747942427645</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942427645</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Задача 4_5_3">
-      <option name="closed" value="true" />
-      <created>1747942462908</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942462908</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Задача 4_6_1">
-      <option name="closed" value="true" />
-      <created>1748287036841</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1748287036841</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Задача 4_6_2">
-      <option name="closed" value="true" />
-      <created>1748287949489</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1748287949489</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Задача 4_7_1">
-      <option name="closed" value="true" />
-      <created>1748433494783</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1748433494783</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Задача 4_7_3">
-      <option name="closed" value="true" />
-      <created>1748452480107</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1748452480107</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Задача 4_7_2">
-      <option name="closed" value="true" />
-      <created>1748452530094</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1748452530094</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Задача 4_8_1">
-      <option name="closed" value="true" />
-      <created>1748461282156</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1748461282156</updated>
     </task>
     <task id="LOCAL-00031" summary="Задача 4_8_2">
       <option name="closed" value="true" />
@@ -585,7 +473,119 @@
       <option name="project" value="LOCAL" />
       <updated>1750243706671</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Задача 6_1_1">
+      <option name="closed" value="true" />
+      <created>1750272409322</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1750272409322</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Хрень">
+      <option name="closed" value="true" />
+      <created>1750272459358</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1750272459358</updated>
+    </task>
+    <task id="LOCAL-00068" summary="1_6_1_ООП_Балакирев">
+      <option name="closed" value="true" />
+      <created>1750362786208</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1750362786208</updated>
+    </task>
+    <task id="LOCAL-00069" summary="1_6_1_ООП_Балакирев">
+      <option name="closed" value="true" />
+      <created>1750362790490</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1750362790490</updated>
+    </task>
+    <task id="LOCAL-00070" summary="1_6_2_ООП_Балакирев">
+      <option name="closed" value="true" />
+      <created>1750366464636</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1750366464636</updated>
+    </task>
+    <task id="LOCAL-00071" summary="1_6_2_ООП_Балакирев">
+      <option name="closed" value="true" />
+      <created>1750366517026</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1750366517026</updated>
+    </task>
+    <task id="LOCAL-00072" summary="6_3_1">
+      <option name="closed" value="true" />
+      <created>1750433650189</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1750433650189</updated>
+    </task>
+    <task id="LOCAL-00073" summary="6_3_2">
+      <option name="closed" value="true" />
+      <created>1750433796604</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1750433796604</updated>
+    </task>
+    <task id="LOCAL-00074" summary="6_3_2 - 6_3_5">
+      <option name="closed" value="true" />
+      <created>1750436264743</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1750436264743</updated>
+    </task>
+    <task id="LOCAL-00075" summary="6_4_1">
+      <option name="closed" value="true" />
+      <created>1750441211246</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1750441211246</updated>
+    </task>
+    <task id="LOCAL-00076" summary="6_4_2">
+      <option name="closed" value="true" />
+      <created>1750441879298</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1750441879298</updated>
+    </task>
+    <task id="LOCAL-00077" summary="6_5_1">
+      <option name="closed" value="true" />
+      <created>1750450792780</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1750450792780</updated>
+    </task>
+    <task id="LOCAL-00078" summary="6_5_1">
+      <option name="closed" value="true" />
+      <created>1750451811189</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1750451811189</updated>
+    </task>
+    <task id="LOCAL-00079" summary="6_5_3">
+      <option name="closed" value="true" />
+      <created>1750452984517</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1750452984517</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,17 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_9_4" />
-    <MESSAGE value="Задача 4_9_5" />
-    <MESSAGE value="Задача 4_9_6" />
-    <MESSAGE value="Задача 4_9_7" />
-    <MESSAGE value="Задача 4_9_8_Разреженный массив" />
-    <MESSAGE value="Задача 5_1_1" />
-    <MESSAGE value="Задача 5_1_2" />
-    <MESSAGE value="Задача 5_1_3" />
-    <MESSAGE value="Задача 5_1_4" />
-    <MESSAGE value="Задача 5_1_5" />
-    <MESSAGE value="Задача 5_2_1" />
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
     <MESSAGE value="Задача 5_4_2" />
@@ -637,7 +626,18 @@
     <MESSAGE value="Задача 5_8_5 Serialization of class - 2" />
     <MESSAGE value="Задача 5_9_1 __slots__" />
     <MESSAGE value="Задача 5_10_1 Slots: properties and inheritances" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_10_1 Slots: properties and inheritances" />
+    <MESSAGE value="Задача 6_1_1" />
+    <MESSAGE value="Хрень" />
+    <MESSAGE value="1_6_1_ООП_Балакирев" />
+    <MESSAGE value="1_6_2_ООП_Балакирев" />
+    <MESSAGE value="6_3_1" />
+    <MESSAGE value="6_3_2" />
+    <MESSAGE value="6_3_2 - 6_3_5" />
+    <MESSAGE value="6_4_1" />
+    <MESSAGE value="6_4_2" />
+    <MESSAGE value="6_5_1" />
+    <MESSAGE value="6_5_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="6_5_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
