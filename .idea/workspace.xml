@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="7_1_1">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="7_3_1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
@@ -56,16 +56,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/7.1 Abstract classes"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/7.3 Iterator Protocol magic methods __iter__ and __next__"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\7.3 Iterator Protocol magic methods __iter__ and __next__" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\7.1 Abstract classes" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.5 Custom exceptions in Python" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.4 Raise instructions" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\6.3 Try-except exception handling" />
-      <recent name="D:\Python313\Projects\Stepik\Добрый_добрый Python ООП\1.6 The magic method __new__. An example of a Singleton pattern" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -192,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Задача 4_8_2 - 4_8_3">
-      <option name="closed" value="true" />
-      <created>1748462413678</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1748462413678</updated>
     </task>
     <task id="LOCAL-00033" summary="Задача 4_8_2 - 4_8_3">
       <option name="closed" value="true" />
@@ -585,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750508723118</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="7_3_1">
+      <option name="closed" value="true" />
+      <created>1750616033047</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1750616033047</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 5_4_1" />
     <MESSAGE value="Задача 5_4_2" />
     <MESSAGE value="Задача 5_5_1" />
     <MESSAGE value="Задача 5_5_2" />
@@ -637,7 +636,8 @@
     <MESSAGE value="6_5_1" />
     <MESSAGE value="6_5_3" />
     <MESSAGE value="7_1_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_1_1" />
+    <MESSAGE value="7_3_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="7_3_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
