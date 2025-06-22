@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="7_3_1">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="7_3_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
@@ -192,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Задача 4_8_2 - 4_8_3">
-      <option name="closed" value="true" />
-      <created>1748462724111</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1748462724111</updated>
     </task>
     <task id="LOCAL-00034" summary="Задача 4_8_2 - 4_8_3">
       <option name="closed" value="true" />
@@ -585,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750616033047</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="7_3_2">
+      <option name="closed" value="true" />
+      <created>1750617510225</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1750617510225</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 5_4_2" />
     <MESSAGE value="Задача 5_5_1" />
     <MESSAGE value="Задача 5_5_2" />
     <MESSAGE value="Задача 5_5_3" />
@@ -637,7 +636,8 @@
     <MESSAGE value="6_5_3" />
     <MESSAGE value="7_1_1" />
     <MESSAGE value="7_3_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_3_1" />
+    <MESSAGE value="7_3_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="7_3_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
