@@ -1,0 +1,1 @@
+print(('YES', 'NO')[bool(len((num:=input())) - set(num).__len__())])

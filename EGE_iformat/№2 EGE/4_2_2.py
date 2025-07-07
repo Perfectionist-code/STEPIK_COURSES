@@ -1,0 +1,1 @@
+print(('NO', 'YES')[(not (year:=int(input())) % 400) or bool(not year % 4 and year % 100)])

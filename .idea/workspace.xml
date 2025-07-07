@@ -4,9 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_10_1 Slots: properties and inheritances">
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_9_1 __slots__">
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/1_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/5_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/5_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/5_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_5_var_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2025_20_42_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2025_20_42__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_06_2025_23_39_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +66,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -33,7 +76,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;
+    &quot;accountId&quot;: &quot;0493bf47-e0a2-43ca-a91c-fe61f99c4a67&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -48,24 +91,61 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1_.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.2_2.executor": "Run",
+    "Python.2_3.executor": "Run",
+    "Python.3_1.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
+    "Python.3_2.executor": "Run",
+    "Python.3_3_3.executor": "Run",
+    "Python.3_3_4.executor": "Run",
+    "Python.3_3_5.executor": "Run",
+    "Python.3_3_7.executor": "Run",
+    "Python.4_1_2.executor": "Run",
+    "Python.4_1_3.executor": "Run",
+    "Python.4_1_4.executor": "Run",
+    "Python.4_1_5.executor": "Run",
+    "Python.4_2_1.executor": "Run",
+    "Python.4_2_2.executor": "Run",
+    "Python.4_2_3.executor": "Run",
     "Python.4_2_4.executor": "Run",
+    "Python.4_2_5.executor": "Run",
+    "Python.4_2_6.executor": "Run",
     "Python.4_8_2.executor": "Run",
+    "Python.5_2_1.executor": "Run",
+    "Python.5_2_2.executor": "Run",
+    "Python.5_2_3.executor": "Run",
+    "Python.5_2_6.executor": "Run",
+    "Python.5_2_7.executor": "Run",
+    "Python.5_2_8.executor": "Run",
+    "Python.5_3_1.executor": "Run",
+    "Python.5_3_2.executor": "Run",
+    "Python.5_3_4.executor": "Run",
+    "Python.5_3_5.executor": "Run",
+    "Python.5_5_1.executor": "Run",
+    "Python.5_5_2.executor": "Run",
+    "Python.5_5_3.executor": "Run",
+    "Python.5_5_4.executor": "Run",
+    "Python.5_5_4_var_2.executor": "Run",
+    "Python.5_5_5.executor": "Run",
+    "Python.5_5_6.executor": "Run",
+    "Python.5_5_7.executor": "Run",
     "Python.7.executor": "Run",
     "Python.task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.10 Slots properties and inheritances"
+    "last_opened_file_path": "D:/ProjectsPy/EGE_iformat/№2 EGE"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectsPy\EGE_iformat\№2 EGE" />
+      <recent name="D:\ProjectsPy\EGE_iformat" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.10 Slots properties and inheritances" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.9 Slots" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.8 Mixins" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.5 Delegation in Python" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.4 Extending a class in Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -192,14 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Задача 4_3_1">
-      <option name="closed" value="true" />
-      <created>1746990566188</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1746990566188</updated>
     </task>
     <task id="LOCAL-00018" summary="Задача 4_4_2">
       <option name="closed" value="true" />
@@ -585,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750243706671</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Задача 5_9_1 __slots__">
+      <option name="closed" value="true" />
+      <created>1751229616542</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1751229616542</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,9 +715,9 @@
     <MESSAGE value="Задача 5_8_3_Serializing a class_JSON_" />
     <MESSAGE value="Задача 5_8_4" />
     <MESSAGE value="Задача 5_8_5 Serialization of class - 2" />
-    <MESSAGE value="Задача 5_9_1 __slots__" />
     <MESSAGE value="Задача 5_10_1 Slots: properties and inheritances" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_10_1 Slots: properties and inheritances" />
+    <MESSAGE value="Задача 5_9_1 __slots__" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_9_1 __slots__" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,6 +726,11 @@
           <url>file://$PROJECT_DIR$/task 1.py</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_7.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
