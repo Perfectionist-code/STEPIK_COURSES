@@ -4,52 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задача 5_9_1 __slots__">
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/1_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/5_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/5_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/5_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/3_3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_2_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_5_var_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_2_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_5_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2025_20_42_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2025_20_42__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_06_2025_23_39_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике">
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/4_3_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +72,10 @@
     "Python.4_2_4.executor": "Run",
     "Python.4_2_5.executor": "Run",
     "Python.4_2_6.executor": "Run",
+    "Python.4_3_2.executor": "Run",
+    "Python.4_3_3.executor": "Run",
+    "Python.4_3_4.executor": "Run",
+    "Python.4_3_5.executor": "Run",
     "Python.4_8_2.executor": "Run",
     "Python.5_2_1.executor": "Run",
     "Python.5_2_2.executor": "Run",
@@ -272,14 +236,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Задача 4_4_2">
-      <option name="closed" value="true" />
-      <created>1747123802817</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1747123802817</updated>
     </task>
     <task id="LOCAL-00019" summary="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__">
       <option name="closed" value="true" />
@@ -665,7 +621,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751229616542</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1751918276877</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1751918276877</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -692,7 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_9_4" />
     <MESSAGE value="Задача 4_9_5" />
     <MESSAGE value="Задача 4_9_6" />
     <MESSAGE value="Задача 4_9_7" />
@@ -717,7 +680,8 @@
     <MESSAGE value="Задача 5_8_5 Serialization of class - 2" />
     <MESSAGE value="Задача 5_10_1 Slots: properties and inheritances" />
     <MESSAGE value="Задача 5_9_1 __slots__" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_9_1 __slots__" />
+    <MESSAGE value="Задачи курса подготовки к ЕГЭ по информатике" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи курса подготовки к ЕГЭ по информатике" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
