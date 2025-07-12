@@ -1,0 +1,1 @@
+print((d:=input())[d.find('tail') + 4:])
