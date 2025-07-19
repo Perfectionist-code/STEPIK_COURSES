@@ -4,39 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике раздел 4.3">
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№14 EGE/6_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№14 EGE/6_5_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№14 EGE/6_5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/5_4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_2_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_2_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№2 EGE/6_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№5 EGE/6_5_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№5 EGE/6_5_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№5 EGE/6_5_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Добрый_добрый Python с Сергеем Балакиревым/5.9 Вложенные циклы и вложенные генераторы списков/ex1_0.py" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике раздел 6.5">
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№12 EGE/6_6_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№12 EGE/6_6_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№12 EGE/6_6_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/17_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/17_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/17_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№25 EGE/10_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№25 EGE/10_1_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№25 EGE/10_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№8 EGE/6_6_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/9_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/9_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/9_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/9_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/o_9_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/o_9_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/o_9_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/o_9_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/o_9_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№9 EGE/o_9_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Jura/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +74,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.executor": "Run",
+    "Python.17_1.executor": "Run",
+    "Python.17_2.executor": "Run",
     "Python.1_.executor": "Run",
     "Python.2.executor": "Run",
     "Python.2_2.executor": "Run",
@@ -149,22 +148,36 @@
     "Python.6_5_6.executor": "Run",
     "Python.6_5_8.executor": "Run",
     "Python.6_5_9.executor": "Run",
+    "Python.6_6_1.executor": "Run",
+    "Python.6_6_1_3.executor": "Run",
+    "Python.6_6_2.executor": "Run",
+    "Python.6_6_3.executor": "Run",
+    "Python.6_6_4.executor": "Run",
+    "Python.6_6_5.executor": "Run",
+    "Python.6_6_6.executor": "Run",
+    "Python.6_6_7.executor": "Run",
+    "Python.6_6_8.executor": "Run",
     "Python.7.executor": "Run",
+    "Python.9_1.executor": "Run",
+    "Python.9_2.executor": "Run",
     "Python.ex1_0.executor": "Run",
+    "Python.o_9_1.executor": "Run",
+    "Python.o_9_2.executor": "Run",
+    "Python.o_9_3.executor": "Run",
     "Python.task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ProjectsPy/EGE_iformat/№5 EGE"
+    "last_opened_file_path": "D:/ProjectsPy/EGE_iformat/№17 EGE"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ProjectsPy\EGE_iformat\№5 EGE" />
-      <recent name="D:\ProjectsPy\EGE_iformat\№14 EGE" />
-      <recent name="D:\ProjectsPy\EGE_iformat\№2 EGE" />
-      <recent name="D:\ProjectsPy\Добрый_добрый Python с Сергеем Балакиревым\5.9 Вложенные циклы и вложенные генераторы списков" />
-      <recent name="D:\ProjectsPy\EGE_iformat" />
+      <recent name="D:\ProjectsPy\EGE_iformat\№17 EGE" />
+      <recent name="D:\ProjectsPy\EGE_iformat\№9 EGE" />
+      <recent name="D:\ProjectsPy\EGE_iformat\№25 EGE" />
+      <recent name="D:\ProjectsPy\For Jura" />
+      <recent name="D:\ProjectsPy\EGE_iformat\№12 EGE" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProjectsPy\EGE_iformat\№5 EGE" />
@@ -292,14 +305,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Задача 4_4_3 (v2)">
-      <option name="closed" value="true" />
-      <created>1747772782240</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1747772782240</updated>
     </task>
     <task id="LOCAL-00021" summary="Задача 4_5_1">
       <option name="closed" value="true" />
@@ -685,7 +690,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752003187721</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Задачи курса подготовки к ЕГЭ по информатике раздел 6.5">
+      <option name="closed" value="true" />
+      <created>1752353880361</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1752353880361</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -712,7 +725,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_9_6" />
     <MESSAGE value="Задача 4_9_7" />
     <MESSAGE value="Задача 4_9_8_Разреженный массив" />
     <MESSAGE value="Задача 5_1_1" />
@@ -737,7 +749,8 @@
     <MESSAGE value="Задача 5_9_1 __slots__" />
     <MESSAGE value="Задачи курса подготовки к ЕГЭ по информатике" />
     <MESSAGE value="Задачи курса подготовки к ЕГЭ по информатике раздел 4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачи курса подготовки к ЕГЭ по информатике раздел 4.3" />
+    <MESSAGE value="Задачи курса подготовки к ЕГЭ по информатике раздел 6.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи курса подготовки к ЕГЭ по информатике раздел 6.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
