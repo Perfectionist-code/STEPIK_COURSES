@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/o_17_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/o_17_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/o_17_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE_iformat/№17 EGE/o_17_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№16 EGE/16_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№16 EGE/16_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№16 EGE/16_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№16 EGE/o_16_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№16 EGE/o_16_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE_iformat/№16 EGE/o_16_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +53,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.executor": "Run",
+    "Python.16_1.executor": "Run",
+    "Python.16_2.executor": "Run",
+    "Python.16_3.executor": "Run",
     "Python.17_1.executor": "Run",
     "Python.17_2.executor": "Run",
     "Python.1_.executor": "Run",
@@ -137,6 +142,9 @@
     "Python.9_1.executor": "Run",
     "Python.9_2.executor": "Run",
     "Python.ex1_0.executor": "Run",
+    "Python.o_16_4.executor": "Run",
+    "Python.o_16_5.executor": "Run",
+    "Python.o_16_6.executor": "Run",
     "Python.o_17_1.executor": "Run",
     "Python.o_17_2.executor": "Run",
     "Python.o_17_3.executor": "Run",
@@ -147,16 +155,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ProjectsPy/EGE_iformat/№17 EGE"
+    "last_opened_file_path": "D:/ProjectsPy/EGE_iformat/№16 EGE"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectsPy\EGE_iformat\№16 EGE" />
       <recent name="D:\ProjectsPy\EGE_iformat\№17 EGE" />
       <recent name="D:\ProjectsPy\EGE_iformat\№9 EGE" />
       <recent name="D:\ProjectsPy\EGE_iformat\№25 EGE" />
       <recent name="D:\ProjectsPy\For Jura" />
-      <recent name="D:\ProjectsPy\EGE_iformat\№12 EGE" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProjectsPy\EGE_iformat\№5 EGE" />
@@ -284,14 +292,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Задача 4_5_2">
-      <option name="closed" value="true" />
-      <created>1747942427645</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942427645</updated>
     </task>
     <task id="LOCAL-00024" summary="Задача 4_5_3">
       <option name="closed" value="true" />
@@ -677,7 +677,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752952869442</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1752954586928</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1752954586928</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
