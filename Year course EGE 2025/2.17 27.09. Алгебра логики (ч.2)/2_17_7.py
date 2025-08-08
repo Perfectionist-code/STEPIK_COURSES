@@ -1,3 +1,3 @@
-for x in range(1, 1000):
-    if not ((not ((x < 5) or (x > 100))) <= ((not x % 2) <= (x < 20))):
+for x in range(2, 1000):
+    if not x % 30 or not 15 % x:
         print(x)

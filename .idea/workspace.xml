@@ -5,24 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.13 24.09. Системы счисления. Задачи №8 на списки слов/2_13_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.13 24.09. Системы счисления. Задачи №8 на списки слов/2_13_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.13 24.09. Системы счисления. Задачи №8 на списки слов/2_13_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.16 27.09. Алгебра логики (ч.1)/2_16_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.2 (Б) Домашнее задание 10.09 (№4)/2_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/2_3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +93,11 @@
     "Python.1_1_1.executor": "Run",
     "Python.1_1_2.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.2_10_1.executor": "Run",
+    "Python.2_10_2.executor": "Run",
+    "Python.2_10_3.executor": "Run",
+    "Python.2_10_4.executor": "Run",
+    "Python.2_10_5.executor": "Run",
     "Python.2_13_1.executor": "Run",
     "Python.2_13_10.executor": "Run",
     "Python.2_13_11.executor": "Run",
@@ -89,12 +114,41 @@
     "Python.2_16_7.executor": "Run",
     "Python.2_16_8.executor": "Run",
     "Python.2_17_1.executor": "Run",
+    "Python.2_17_10.executor": "Run",
+    "Python.2_17_11.executor": "Run",
+    "Python.2_17_12.executor": "Run",
     "Python.2_17_2.executor": "Run",
     "Python.2_17_3.executor": "Run",
     "Python.2_17_4.executor": "Run",
     "Python.2_17_6.executor": "Run",
+    "Python.2_17_7.executor": "Run",
+    "Python.2_17_8.executor": "Run",
+    "Python.2_18_1.executor": "Run",
+    "Python.2_18_10.executor": "Run",
+    "Python.2_18_13.executor": "Run",
+    "Python.2_18_2.executor": "Run",
+    "Python.2_18_3.executor": "Run",
+    "Python.2_18_4.executor": "Run",
+    "Python.2_18_5.executor": "Run",
+    "Python.2_18_6.executor": "Run",
+    "Python.2_18_7.executor": "Run",
+    "Python.2_18_8.executor": "Run",
+    "Python.2_18_9.executor": "Run",
+    "Python.2_19_1.executor": "Run",
+    "Python.2_19_2.executor": "Run",
+    "Python.2_19_3.executor": "Run",
+    "Python.2_19_4.executor": "Run",
+    "Python.2_19_5.executor": "Run",
+    "Python.2_19_6.executor": "Run",
+    "Python.2_19_7.executor": "Run",
+    "Python.2_1_1.executor": "Run",
+    "Python.2_1_10.executor": "Run",
+    "Python.2_1_7.executor": "Run",
+    "Python.2_1_8.executor": "Run",
+    "Python.2_1_9.executor": "Run",
     "Python.2_2.executor": "Run",
     "Python.2_3.executor": "Run",
+    "Python.2_3_1.executor": "Run",
     "Python.3_1.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.3_2.executor": "Run",
@@ -188,16 +242,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ProjectsPy/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)"
+    "last_opened_file_path": "D:/ProjectsPy/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ProjectsPy\Year course EGE 2025\2.17 27.09. Алгебра логики (ч.2)" />
-      <recent name="D:\ProjectsPy\Year course EGE 2025\2.16 27.09. Алгебра логики (ч.1)" />
-      <recent name="D:\ProjectsPy\Year course EGE 2025\2.13 24.09. Системы счисления. Задачи №8 на списки слов" />
-      <recent name="D:\ProjectsPy\Year course EGE 2025\1.1 Входной пробник (задания 1-15)" />
-      <recent name="D:\ProjectsPy\EGE_iformat\№1 EGE" />
+      <recent name="D:\ProjectsPy\Year course EGE 2025\2.10 20.09. Кодирование звуковой информации. Передача информации (№7)" />
+      <recent name="D:\ProjectsPy\Year course EGE 2025\2.3 (П) Домашнее задание 10.09 (№4)" />
+      <recent name="D:\ProjectsPy\Year course EGE 2025\2.2 (Б) Домашнее задание 10.09 (№4)" />
+      <recent name="D:\ProjectsPy\Year course EGE 2025\2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ" />
+      <recent name="D:\ProjectsPy\Year course EGE 2025\2.19 (П) Домашнее задание 27.09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProjectsPy\EGE_iformat\№5 EGE" />
@@ -325,14 +379,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Задача 4_6_2">
-      <option name="closed" value="true" />
-      <created>1748287949489</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1748287949489</updated>
     </task>
     <task id="LOCAL-00027" summary="Задача 4_7_1">
       <option name="closed" value="true" />
@@ -718,7 +764,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754077196672</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1754167723531</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1754167723531</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
