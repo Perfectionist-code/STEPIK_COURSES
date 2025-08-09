@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ/2_1_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.18 (Б) Домашнее задание 27.09/2_18_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.19 (П) Домашнее задание 27.09/2_19_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.2 (Б) Домашнее задание 10.09 (№4)/2_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/2_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)/2_10_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/2.17 27.09. Алгебра логики (ч.2)/2_17_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +64,9 @@
     "Python.2_10_3.executor": "Run",
     "Python.2_10_4.executor": "Run",
     "Python.2_10_5.executor": "Run",
+    "Python.2_10_6.executor": "Run",
+    "Python.2_10_7.executor": "Run",
+    "Python.2_10_8.executor": "Run",
     "Python.2_13_1.executor": "Run",
     "Python.2_13_10.executor": "Run",
     "Python.2_13_11.executor": "Run",
@@ -379,14 +348,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Задача 4_7_1">
-      <option name="closed" value="true" />
-      <created>1748433494783</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1748433494783</updated>
     </task>
     <task id="LOCAL-00028" summary="Задача 4_7_3">
       <option name="closed" value="true" />
@@ -772,7 +733,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754167723531</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1754688389437</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1754688389437</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
