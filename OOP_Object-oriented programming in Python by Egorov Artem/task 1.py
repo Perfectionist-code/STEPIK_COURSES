@@ -1,16 +1,8 @@
-class FileReader:
-    def __init__(self, filename):
-        self.file = open(filename)
+from functools import reduce
 
-    def __iter__(self):
-        return self
 
-    def __next__(self):
-        try:
-            return self.file.__next__().strip()
-        except:
-            self.file.close()
-            raise StopIteration
+def product(*args):
+    return reduce(lambda a, b: a * b, args)
 
-for line in FileReader('lorem.txt'):
-    print(line)
+
+print(product(2,5,10))
