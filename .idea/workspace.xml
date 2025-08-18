@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике">
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.3 (П) Домашнее задание 04.10/3_3_5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +137,19 @@
     "Python.3_3_4.executor": "Run",
     "Python.3_3_5.executor": "Run",
     "Python.3_3_7.executor": "Run",
+    "Python.3_7_1.executor": "Run",
+    "Python.3_7_10.executor": "Run",
+    "Python.3_7_11.executor": "Run",
+    "Python.3_7_12.executor": "Run",
+    "Python.3_7_13.executor": "Run",
+    "Python.3_7_2.executor": "Run",
+    "Python.3_7_3.executor": "Run",
+    "Python.3_7_4.executor": "Run",
+    "Python.3_7_5.executor": "Run",
+    "Python.3_7_6.executor": "Run",
+    "Python.3_7_7.executor": "Run",
+    "Python.3_7_8.executor": "Run",
+    "Python.3_7_9.executor": "Run",
     "Python.4_1_2.executor": "Run",
     "Python.4_1_3.executor": "Run",
     "Python.4_1_4.executor": "Run",
@@ -215,16 +236,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ProjectsPy/Year course EGE 2025/2.10 20.09. Кодирование звуковой информации. Передача информации (№7)"
+    "last_opened_file_path": "D:/ProjectsPy/Year course EGE 2025/3.7 11.10 Решение задач №9"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectsPy\Year course EGE 2025\3.7 11.10 Решение задач №9" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\2.10 20.09. Кодирование звуковой информации. Передача информации (№7)" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\2.3 (П) Домашнее задание 10.09 (№4)" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\2.2 (Б) Домашнее задание 10.09 (№4)" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\2.1 10.09. Неравномерное кодирование. Условие Фано. №4 ЕГЭ" />
-      <recent name="D:\ProjectsPy\Year course EGE 2025\2.19 (П) Домашнее задание 27.09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProjectsPy\EGE_iformat\№5 EGE" />
@@ -352,22 +373,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Задача 4_7_3">
-      <option name="closed" value="true" />
-      <created>1748452480107</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1748452480107</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Задача 4_7_2">
-      <option name="closed" value="true" />
-      <created>1748452530094</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1748452530094</updated>
     </task>
     <task id="LOCAL-00030" summary="Задача 4_8_1">
       <option name="closed" value="true" />
@@ -745,7 +750,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754688389437</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1755538750363</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1755538750363</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1755538766870</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1755538766870</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
