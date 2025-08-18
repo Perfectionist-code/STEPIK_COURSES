@@ -11,4 +11,4 @@ with open('DZ_HL.txt', 'r') as file:
             cnt += 1
             print(a, b)
         a = b
-print(cnt)
+print('Ответ:', cnt)

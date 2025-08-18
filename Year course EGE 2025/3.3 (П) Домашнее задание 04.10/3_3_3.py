@@ -9,4 +9,4 @@ with open('DZ_HL.txt', 'r') as file:
             print((tup := (a, b, c)), min_tup := min(tup))
             res_lst.append(min_tup)
         a = b
-print(min(res_lst))
+print('Ответ:', min(res_lst))
