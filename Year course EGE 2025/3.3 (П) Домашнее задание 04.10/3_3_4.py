@@ -5,9 +5,10 @@ with open('DZ_HL.txt', 'r') as file:
     for i in range(1, lst.__len__() - 1):
         b = lst[i]
         c = lst[i + 1]
-        if any([9 < a < 100 and 9 < b < 100, 9 < b < 100 and 9 < c < 100, 9 < c < 100 and 9 < a < 100]):
+        if any([9 < abs(a) < 100 and 9 < abs(b) < 100, 9 < abs(b) < 100 and 9 < abs(c) < 100,
+                9 < abs(c) < 100 and 9 < abs(a) < 100]):
             print((tup := (a, b, c)))
             res_lst.extend(tup)
             print(res_lst)
         a = b
-print(sum(res_lst))
+print('Ответ:', sum(res_lst))
