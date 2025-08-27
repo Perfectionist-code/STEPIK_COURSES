@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_08_2025_20_26_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_08_2025_20_26__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/3_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/3_13_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/3_13_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/3_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/3_13_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/kompege_8_zn2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ/kompege_8_zn2_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +54,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.3_11_4_Trash_part_1.executor": "Run",
+    "Python.3_13_2.executor": "Run",
+    "Python.3_13_3.executor": "Run",
+    "Python.3_13_4.executor": "Run",
+    "Python.3_13_5.executor": "Run",
+    "Python.3_13_6.executor": "Run",
     "Python.3_15_1.executor": "Run",
     "Python.3_15_2.executor": "Run",
     "Python.3_15_3.executor": "Run",
@@ -65,20 +67,22 @@
     "Python.3_15_6.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_2.executor": "Run",
+    "Python.kompege_8_zn2_4.executor": "Run",
+    "Python.kompege_8_zn2_6.executor": "Run",
     "Python.task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/3.13 18.10. Графы. №1 ЕГЭ"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.13 18.10. Графы. №1 ЕГЭ" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.15 (П) Домашнее задание 18.10 (№1, №11)" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.4 Extending a class in Python" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.3 Redefining methods in Python" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.2 Inheritance from object and other built-in types" />
-      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.1 The principle of inheritance in OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -205,14 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Задача 3_11_1 Пицца">
-      <option name="closed" value="true" />
-      <created>1746259408845</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1746259408845</updated>
     </task>
     <task id="LOCAL-00005" summary="Задача 3_11_2 Registration">
       <option name="closed" value="true" />
@@ -598,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749411433887</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756316697693</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1756316697694</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -625,7 +629,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_6_2" />
     <MESSAGE value="Задача 4_7_1" />
     <MESSAGE value="Задача 4_7_3" />
     <MESSAGE value="Задача 4_7_2" />
@@ -650,7 +653,8 @@
     <MESSAGE value="Задача 5_2_1" />
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 5_4_1" />
+    <MESSAGE value="Решение задач для подготовки к ЕГЭ по информатике" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задач для подготовки к ЕГЭ по информатике" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
