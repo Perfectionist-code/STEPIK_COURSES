@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/2_3_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/2_3_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/Домашнее задание.flipchart" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/Домашнее задание.flipchart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,22 +78,33 @@
     "Python.4_2_4.executor": "Run",
     "Python.4_8_2.executor": "Run",
     "Python.8_1_1.executor": "Run",
+    "Python.8_1_3.executor": "Run",
+    "Python.8_1_4.executor": "Run",
+    "Python.8_1_5.executor": "Run",
+    "Python.8_1_6.executor": "Run",
+    "Python.8_1_7.executor": "Run",
+    "Python.8_1_8.executor": "Run",
+    "Python.8_1_9.executor": "Run",
     "Python.kompege_8_zn2_4.executor": "Run",
     "Python.kompege_8_zn2_6.executor": "Run",
     "Python.task 1.executor": "Run",
+    "Python.ЗАНЯТИЕ_1_11_1.executor": "Run",
+    "Python.ЗАНЯТИЕ_1_11_2.executor": "Run",
+    "Python.ЗАНЯТИЕ_1_11_3.executor": "Run",
+    "Python.ЗАНЯТИЕ_1_11_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\kompege\1. Равномерное кодирование информации ЗАДАНИЕ 11" />
+      <recent name="D:\Python313\Projects\Stepik\kompege\8. Графы. Матрица смежности ЗАДАНИЕ 1" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.3 (П) Домашнее задание 10.09 (№4)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.2 (Б) Домашнее задание 10.09 (№4)" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\8. Графы. Матрица смежности ЗАДАНИЕ 1" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.13 18.10. Графы. №1 ЕГЭ" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.15 (П) Домашнее задание 18.10 (№1, №11)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -210,14 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Задача 3_11_4 Trash_part_1 до DRY">
-      <option name="closed" value="true" />
-      <created>1746293124907</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1746293124907</updated>
     </task>
     <task id="LOCAL-00008" summary="Задача 3_11_4 Trash_part_1 c DRY">
       <option name="closed" value="true" />
@@ -603,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756414605967</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756476776070</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1756476776070</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
