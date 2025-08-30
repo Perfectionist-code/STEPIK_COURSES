@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ЗАНЯТИЕ_1_11_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_08_2025_22_25_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_08_2025_22_25__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2025,_08_50_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2025__08_50__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/Домашнее задание.flipchart" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/2.3 (П) Домашнее задание 10.09 (№4)/Домашнее задание.flipchart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/8. Графы. Матрица смежности ЗАДАНИЕ 1/8_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +68,17 @@
     "Python.3_15_5.executor": "Run",
     "Python.3_15_6.executor": "Run",
     "Python.3_7_1.executor": "Run",
+    "Python.3_7_10.executor": "Run",
+    "Python.3_7_13.executor": "Run",
+    "Python.3_7_2.executor": "Run",
+    "Python.3_7_3.executor": "Run",
+    "Python.3_7_5.executor": "Run",
+    "Python.3_7_6.executor": "Run",
+    "Python.3_7_8.executor": "Run",
+    "Python.3_7_9.executor": "Run",
+    "Python.3_8_4.executor": "Run",
+    "Python.3_8_5.executor": "Run",
+    "Python.3_8_6.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_2.executor": "Run",
     "Python.8_1_1.executor": "Run",
@@ -231,14 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Задача 3_11_4 Trash_part_1 c DRY">
-      <option name="closed" value="true" />
-      <created>1746294622217</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1746294622217</updated>
     </task>
     <task id="LOCAL-00009" summary="Задачи 3_11">
       <option name="closed" value="true" />
@@ -624,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756476776070</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756503009840</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1756503009841</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
