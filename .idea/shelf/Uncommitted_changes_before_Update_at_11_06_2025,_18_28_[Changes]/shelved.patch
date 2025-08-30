@@ -1,0 +1,75 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c03bf4e6-c37d-4faa-a6f0-42df1b1e4629\" name=\"Changes\" comment=\"3.9 Classmethod и staticmethod task 1\">\n      <change afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace/3_10_1.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace/3_10_2.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/task 1.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/task 1.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Добрый_добрый Python ООП/4.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/4.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Добрый_добрый Python ООП/5.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/5.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Добрый_добрый Python ООП/6.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/6.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Добрый_добрый Python ООП/7.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/7.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;Perfectionist-code&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,\n    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2wMRTOXwHjVLYcAGPzGyaAJat5P\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"Python.task 1.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"last_opened_file_path\": \"D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"D:\\Python313\\Projects\\Stepik\\OOP_Object-oriented programming in Python by Egorov Artem\\3.10 Class namespace\" />\n      <recent name=\"D:\\Python313\\Projects\\Stepik\\OOP_Object-oriented programming in Python by Egorov Artem\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"D:\\Python313\\Projects\\Stepik\\OOP_Object-oriented programming in Python by Egorov Artem\\3.9 Classmethod и staticmethod\" />\n      <recent name=\"D:\\Python313\\Projects\\Stepik\\OOP_Object-oriented programming in Python by Egorov Artem\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c03bf4e6-c37d-4faa-a6f0-42df1b1e4629\" name=\"Changes\" comment=\"\" />\n      <created>1745849462271</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1745849462271</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Add file to repository\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745851864487</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745851864487</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"3.9 Classmethod и staticmethod task 1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1746072228249</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1746072228249</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Add file to repository\" />\n    <MESSAGE value=\"3.9 Classmethod и staticmethod task 1\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"3.9 Classmethod и staticmethod task 1\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$PROJECT_DIR$/task 1.py</url>\n          <line>22</line>\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d47f9adbcaa7f65ecf880ab81f1b50d35e0ef5c6)
++++ b/.idea/workspace.xml	(date 1746599649079)
+@@ -4,16 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="3.9 Classmethod и staticmethod task 1">
+-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace/3_10_1.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace/3_10_2.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/task 1.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task 1.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Добрый_добрый Python ООП/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/4.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Добрый_добрый Python ООП/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/5.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Добрый_добрый Python ООП/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/6.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Добрый_добрый Python ООП/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Object-oriented programming in Python by Egorov Artem/3.9 Classmethod и staticmethod/7.py" afterDir="false" />
++    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -51,16 +43,16 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.task 1.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master",
+-    "last_opened_file_path": "D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;Python.task 1.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/3.10 Class namespace&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\3.10 Class namespace" />
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectModuleManager\">\n    <modules>\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/Stepik.iml\" filepath=\"$PROJECT_DIR$/.idea/Stepik.iml\" />\n    </modules>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	(revision d47f9adbcaa7f65ecf880ab81f1b50d35e0ef5c6)
++++ b/.idea/modules.xml	(date 1746599595085)
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/Stepik.iml" filepath="$PROJECT_DIR$/.idea/Stepik.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file

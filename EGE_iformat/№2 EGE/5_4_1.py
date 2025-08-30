@@ -1,0 +1,2 @@
+for _ in range(n := int(input())):
+    print('*' * n)

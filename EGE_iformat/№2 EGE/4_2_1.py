@@ -1,0 +1,1 @@
+print(('NO', 'YES')[99 < abs(int(input())) < 1000])

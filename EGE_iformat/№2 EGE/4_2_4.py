@@ -1,0 +1,1 @@
+print(('NO', 'YES')[(num:=input()) == num[::-1]])
