@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_08_2025_22_25_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_08_2025_22_25__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2025,_08_50_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2025__08_50__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.22 29.10. Сложные задачи №9 уровня ЕГЭ/3_22_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.22 29.10. Сложные задачи №9 уровня ЕГЭ/3_22_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.22 29.10. Сложные задачи №9 уровня ЕГЭ/3_22_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/3.22 29.10. Сложные задачи №9 уровня ЕГЭ/3_22_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2025_21_58_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2025_21_58__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/3.7 11.10 Решение задач №9/3_7_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +61,11 @@
     "Python.2_3_12.executor": "Run",
     "Python.2_3_14.executor": "Run",
     "Python.2_3_7.executor": "Run",
+    "Python.2_6_4.executor": "Run",
+    "Python.2_6_5.executor": "Run",
+    "Python.2_6_6.executor": "Run",
+    "Python.2_6_7.executor": "Run",
+    "Python.2_6_8.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.3_13_2.executor": "Run",
     "Python.3_13_3.executor": "Run",
@@ -67,6 +78,8 @@
     "Python.3_15_4.executor": "Run",
     "Python.3_15_5.executor": "Run",
     "Python.3_15_6.executor": "Run",
+    "Python.3_22_1.executor": "Run",
+    "Python.3_22_2.executor": "Run",
     "Python.3_7_1.executor": "Run",
     "Python.3_7_10.executor": "Run",
     "Python.3_7_13.executor": "Run",
@@ -99,16 +112,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.6 (П) Домашнее задание 13.09 (№11)" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.22 29.10. Сложные задачи №9 уровня ЕГЭ" />
       <recent name="D:\Python313\Projects\Stepik\kompege\1. Равномерное кодирование информации ЗАДАНИЕ 11" />
       <recent name="D:\Python313\Projects\Stepik\kompege\8. Графы. Матрица смежности ЗАДАНИЕ 1" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.3 (П) Домашнее задание 10.09 (№4)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.2 (Б) Домашнее задание 10.09 (№4)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.13 18.10. Графы. №1 ЕГЭ" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -235,14 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Задачи 3_11">
-      <option name="closed" value="true" />
-      <created>1746301672360</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1746301672360</updated>
     </task>
     <task id="LOCAL-00010" summary="Задачи 3_11_6-6 Making an order parts 1-2">
       <option name="closed" value="true" />
@@ -628,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756503009841</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756540831864</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1756540831864</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
