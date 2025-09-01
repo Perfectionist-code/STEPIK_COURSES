@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_08_2025_21_05__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +57,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2_11_10.executor": "Run",
+    "Python.2_11_11.executor": "Run",
+    "Python.2_11_13.executor": "Run",
+    "Python.2_11_2.executor": "Run",
+    "Python.2_11_3.executor": "Run",
+    "Python.2_11_4.executor": "Run",
+    "Python.2_11_5.executor": "Run",
+    "Python.2_11_6.executor": "Run",
+    "Python.2_11_7.executor": "Run",
+    "Python.2_11_9.executor": "Run",
     "Python.2_1_6.executor": "Run",
     "Python.2_3_12.executor": "Run",
     "Python.2_3_14.executor": "Run",
@@ -133,16 +147,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.11 (Б) Домашнее задание 20.09 (№7)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.9 (П) Домашнее задание 17.09 (№7)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\1. Равномерное кодирование информации ЗАДАНИЕ 11" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.6 (П) Домашнее задание 13.09 (№11)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.22 29.10. Сложные задачи №9 уровня ЕГЭ" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\8. Графы. Матрица смежности ЗАДАНИЕ 1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -269,14 +283,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Задача 4_2_1">
-      <option name="closed" value="true" />
-      <created>1746384870470</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1746384870470</updated>
     </task>
     <task id="LOCAL-00013" summary="Задача 4_2_2">
       <option name="closed" value="true" />
@@ -662,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756677167116</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756757940539</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1756757940539</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
