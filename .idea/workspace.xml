@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.6 (П) Домашнее задание 13.09 (№11)/2_6_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/1. Равномерное кодирование информации ЗАДАНИЕ 11/ДЗ_1_11_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_08_2025_21_05__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +66,12 @@
     "Python.2_6_9.executor": "Run",
     "Python.2_9_1.executor": "Run",
     "Python.2_9_2.executor": "Run",
+    "Python.2_9_3.executor": "Run",
+    "Python.2_9_4.executor": "Run",
+    "Python.2_9_5.executor": "Run",
+    "Python.2_9_6.executor": "Run",
+    "Python.2_9_7.executor": "Run",
+    "Python.2_9_8.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.3_13_2.executor": "Run",
     "Python.3_13_3.executor": "Run",
@@ -275,14 +269,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Задачи 3_11_8 Making an order part 3">
-      <option name="closed" value="true" />
-      <created>1746369784562</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746369784562</updated>
     </task>
     <task id="LOCAL-00012" summary="Задача 4_2_1">
       <option name="closed" value="true" />
@@ -668,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756631332215</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756677167116</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1756677167116</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -733,6 +727,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_1.py</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_7.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
