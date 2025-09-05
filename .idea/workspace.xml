@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)/2_11_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +107,10 @@
     "Python.3_8_6.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_2.executor": "Run",
+    "Python.7_15_1.executor": "Run",
+    "Python.7_15_2.executor": "Run",
+    "Python.7_15_3.executor": "Run",
+    "Python.7_15_4.executor": "Run",
     "Python.8_1_1.executor": "Run",
     "Python.8_1_3.executor": "Run",
     "Python.8_1_4.executor": "Run",
@@ -147,16 +144,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/2.11 (Б) Домашнее задание 20.09 (№7)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/7. Исследование логических выражений"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\kompege\7. Исследование логических выражений" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.11 (Б) Домашнее задание 20.09 (№7)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.9 (П) Домашнее задание 17.09 (№7)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\1. Равномерное кодирование информации ЗАДАНИЕ 11" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.6 (П) Домашнее задание 13.09 (№11)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.22 29.10. Сложные задачи №9 уровня ЕГЭ" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -283,14 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Задача 4_2_2">
-      <option name="closed" value="true" />
-      <created>1746470878502</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1746470878502</updated>
     </task>
     <task id="LOCAL-00014" summary="Задача 4_2_3">
       <option name="closed" value="true" />
@@ -676,7 +665,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756757940539</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1756762449490</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1756762449490</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
