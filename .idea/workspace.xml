@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/7. Исследование логических выражений/7_15_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика/4_8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика/4_8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика/4_8_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +105,9 @@
     "Python.3_8_5.executor": "Run",
     "Python.3_8_6.executor": "Run",
     "Python.4_2_4.executor": "Run",
+    "Python.4_8_1.executor": "Run",
     "Python.4_8_2.executor": "Run",
+    "Python.4_8_3.executor": "Run",
     "Python.7_15_1.executor": "Run",
     "Python.7_15_2.executor": "Run",
     "Python.7_15_3.executor": "Run",
@@ -144,16 +145,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/7. Исследование логических выражений"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/4. Комбинаторика"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика" />
       <recent name="D:\Python313\Projects\Stepik\kompege\7. Исследование логических выражений" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.11 (Б) Домашнее задание 20.09 (№7)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.9 (П) Домашнее задание 17.09 (№7)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\1. Равномерное кодирование информации ЗАДАНИЕ 11" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\2.6 (П) Домашнее задание 13.09 (№11)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -280,14 +281,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Задача 4_2_3">
-      <option name="closed" value="true" />
-      <created>1746636181358</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1746636181358</updated>
     </task>
     <task id="LOCAL-00015" summary="Задача 4_2_4">
       <option name="closed" value="true" />
@@ -673,7 +666,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756762449490</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1757107710984</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1757107710984</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
