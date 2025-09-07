@@ -1,0 +1,1 @@
+print(d:=list(input()[::2]))
