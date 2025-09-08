@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика/4_8_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика/4_8_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика/4_8_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,14 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__">
-      <option name="closed" value="true" />
-      <created>1747749159003</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1747749159003</updated>
     </task>
     <task id="LOCAL-00020" summary="Задача 4_4_3 (v2)">
       <option name="closed" value="true" />
@@ -702,7 +692,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757360278828</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1757365834407</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1757365834407</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
