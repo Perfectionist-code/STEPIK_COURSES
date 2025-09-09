@@ -5,8 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.52 11.02. IP-адресация. База для задания №13/6_52_13_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.53 (Б) Домашнее задание 11.02 (№13 база)/6_53_13_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)/6_54_13_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +163,33 @@
     "Python.4_8_5.executor": "Run",
     "Python.5_14_1.executor": "Run",
     "Python.5_14_2.executor": "Run",
+    "Python.6_52_13_1.executor": "Run",
+    "Python.6_52_13_10.executor": "Run",
+    "Python.6_52_13_11.executor": "Run",
+    "Python.6_52_13_2.executor": "Run",
+    "Python.6_52_13_3.executor": "Run",
+    "Python.6_52_13_4.executor": "Run",
+    "Python.6_52_13_6.executor": "Run",
+    "Python.6_52_13_7.executor": "Run",
+    "Python.6_52_13_8.executor": "Run",
+    "Python.6_52_13_9.executor": "Run",
+    "Python.6_53_13_1.executor": "Run",
+    "Python.6_53_13_10.executor": "Run",
+    "Python.6_53_13_11.executor": "Run",
+    "Python.6_53_13_2.executor": "Run",
+    "Python.6_53_13_3.executor": "Run",
+    "Python.6_53_13_4.executor": "Run",
+    "Python.6_53_13_5.executor": "Run",
+    "Python.6_53_13_6.executor": "Run",
+    "Python.6_53_13_7.executor": "Run",
+    "Python.6_53_13_8.executor": "Run",
+    "Python.6_53_13_9.executor": "Run",
+    "Python.6_54_13_1.executor": "Run",
+    "Python.6_54_13_2.executor": "Run",
+    "Python.6_54_13_3.executor": "Run",
+    "Python.6_54_13_4.executor": "Run",
+    "Python.6_54_13_5.executor": "Run",
+    "Python.6_54_13_7.executor": "Run",
     "Python.7_15_1.executor": "Run",
     "Python.7_15_2.executor": "Run",
     "Python.7_15_3.executor": "Run",
@@ -146,6 +202,7 @@
     "Python.8_1_7.executor": "Run",
     "Python.8_1_8.executor": "Run",
     "Python.8_1_9.executor": "Run",
+    "Python.9_13_1.executor": "Run",
     "Python.kompege_8_zn2_4.executor": "Run",
     "Python.kompege_8_zn2_6.executor": "Run",
     "Python.task 1.executor": "Run",
@@ -171,16 +228,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/4. Комбинаторика"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/6.54 (П) Домашнее задание 11.02 (№13 база)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.54 (П) Домашнее задание 11.02 (№13 база)" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.53 (Б) Домашнее задание 11.02 (№13 база)" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.52 11.02. IP-адресация. База для задания №13" />
       <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\3.22 29.10. Сложные задачи №9 уровня ЕГЭ" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\5. Системы счисления" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\3. Кодирование графики и звука" />
-      <recent name="D:\Python313\Projects\Stepik\PG-Step1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -307,14 +364,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Задача 4_4_3 (v2)">
-      <option name="closed" value="true" />
-      <created>1747772782240</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1747772782240</updated>
     </task>
     <task id="LOCAL-00021" summary="Задача 4_5_1">
       <option name="closed" value="true" />
@@ -700,7 +749,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757365834407</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1757367408966</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1757367408966</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
