@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/5. Системы счисления ЗАДАНИЕ 14/5_14_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/5. Системы счисления ЗАДАНИЕ 14/5_14_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_9.py" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,12 +31,9 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;
+    &quot;accountId&quot;: &quot;150dab1d-72ca-445e-b807-a7d6d8c941ea&quot;
   }
 }</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/kompege/5. Системы счисления/5_14_2.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -59,184 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.11_1_3.executor": "Run",
-    "Python.11_1_4.executor": "Run",
-    "Python.2_11_10.executor": "Run",
-    "Python.2_11_11.executor": "Run",
-    "Python.2_11_13.executor": "Run",
-    "Python.2_11_2.executor": "Run",
-    "Python.2_11_3.executor": "Run",
-    "Python.2_11_4.executor": "Run",
-    "Python.2_11_5.executor": "Run",
-    "Python.2_11_6.executor": "Run",
-    "Python.2_11_7.executor": "Run",
-    "Python.2_11_9.executor": "Run",
-    "Python.2_1_6.executor": "Run",
-    "Python.2_3_12.executor": "Run",
-    "Python.2_3_14.executor": "Run",
-    "Python.2_3_7.executor": "Run",
-    "Python.2_6_10.executor": "Run",
-    "Python.2_6_4.executor": "Run",
-    "Python.2_6_5.executor": "Run",
-    "Python.2_6_6.executor": "Run",
-    "Python.2_6_7.executor": "Run",
-    "Python.2_6_8.executor": "Run",
-    "Python.2_6_9.executor": "Run",
-    "Python.2_9_1.executor": "Run",
-    "Python.2_9_2.executor": "Run",
-    "Python.2_9_3.executor": "Run",
-    "Python.2_9_4.executor": "Run",
-    "Python.2_9_5.executor": "Run",
-    "Python.2_9_6.executor": "Run",
-    "Python.2_9_7.executor": "Run",
-    "Python.2_9_8.executor": "Run",
-    "Python.3_11_4_Trash_part_1.executor": "Run",
-    "Python.3_13_2.executor": "Run",
-    "Python.3_13_3.executor": "Run",
-    "Python.3_13_4.executor": "Run",
-    "Python.3_13_5.executor": "Run",
-    "Python.3_13_6.executor": "Run",
-    "Python.3_15_1.executor": "Run",
-    "Python.3_15_2.executor": "Run",
-    "Python.3_15_3.executor": "Run",
-    "Python.3_15_4.executor": "Run",
-    "Python.3_15_5.executor": "Run",
-    "Python.3_15_6.executor": "Run",
-    "Python.3_22_1.executor": "Run",
-    "Python.3_22_2.executor": "Run",
-    "Python.3_22_3.executor": "Run",
-    "Python.3_22_4.executor": "Run",
-    "Python.3_22_5.executor": "Run",
-    "Python.3_22_6.executor": "Run",
-    "Python.3_7_1.executor": "Run",
-    "Python.3_7_10.executor": "Run",
-    "Python.3_7_11.executor": "Run",
-    "Python.3_7_12.executor": "Run",
-    "Python.3_7_13.executor": "Run",
-    "Python.3_7_14.executor": "Run",
-    "Python.3_7_15.executor": "Run",
-    "Python.3_7_16.executor": "Run",
-    "Python.3_7_17.executor": "Run",
-    "Python.3_7_19.executor": "Run",
-    "Python.3_7_2.executor": "Run",
-    "Python.3_7_20.executor": "Run",
-    "Python.3_7_21.executor": "Run",
-    "Python.3_7_22.executor": "Run",
-    "Python.3_7_23.executor": "Run",
-    "Python.3_7_24.executor": "Run",
-    "Python.3_7_3.executor": "Run",
-    "Python.3_7_4.executor": "Run",
-    "Python.3_7_5.executor": "Run",
-    "Python.3_7_6.executor": "Run",
-    "Python.3_7_7.executor": "Run",
-    "Python.3_7_8.executor": "Run",
-    "Python.3_7_9.executor": "Run",
-    "Python.3_8_4.executor": "Run",
-    "Python.3_8_5.executor": "Run",
-    "Python.3_8_6.executor": "Run",
-    "Python.4_2_4.executor": "Run",
-    "Python.4_8_1.executor": "Run",
-    "Python.4_8_2.executor": "Run",
-    "Python.4_8_21.executor": "Run",
-    "Python.4_8_3.executor": "Run",
-    "Python.4_8_4.executor": "Run",
-    "Python.4_8_5.executor": "Run",
-    "Python.4_8_6.executor": "Run",
-    "Python.5_14_1.executor": "Run",
-    "Python.5_14_2.executor": "Run",
-    "Python.5_14_3.executor": "Run",
-    "Python.5_14_4.executor": "Run",
-    "Python.6_52_13_1.executor": "Run",
-    "Python.6_52_13_10.executor": "Run",
-    "Python.6_52_13_11.executor": "Run",
-    "Python.6_52_13_2.executor": "Run",
-    "Python.6_52_13_3.executor": "Run",
-    "Python.6_52_13_4.executor": "Run",
-    "Python.6_52_13_6.executor": "Run",
-    "Python.6_52_13_7.executor": "Run",
-    "Python.6_52_13_8.executor": "Run",
-    "Python.6_52_13_9.executor": "Run",
-    "Python.6_53_13_1.executor": "Run",
-    "Python.6_53_13_10.executor": "Run",
-    "Python.6_53_13_11.executor": "Run",
-    "Python.6_53_13_2.executor": "Run",
-    "Python.6_53_13_3.executor": "Run",
-    "Python.6_53_13_4.executor": "Run",
-    "Python.6_53_13_5.executor": "Run",
-    "Python.6_53_13_6.executor": "Run",
-    "Python.6_53_13_7.executor": "Run",
-    "Python.6_53_13_8.executor": "Run",
-    "Python.6_53_13_9.executor": "Run",
-    "Python.6_54_13_1.executor": "Run",
-    "Python.6_54_13_2.executor": "Run",
-    "Python.6_54_13_3.executor": "Run",
-    "Python.6_54_13_4.executor": "Run",
-    "Python.6_54_13_5.executor": "Run",
-    "Python.6_54_13_7.executor": "Run",
-    "Python.6_57_13_1.executor": "Run",
-    "Python.6_57_13_2.executor": "Run",
-    "Python.7_15_1.executor": "Run",
-    "Python.7_15_2.executor": "Run",
-    "Python.7_15_3.executor": "Run",
-    "Python.7_15_4.executor": "Run",
-    "Python.8_1_1.executor": "Run",
-    "Python.8_1_3.executor": "Run",
-    "Python.8_1_4.executor": "Run",
-    "Python.8_1_5.executor": "Run",
-    "Python.8_1_6.executor": "Run",
-    "Python.8_1_7.executor": "Run",
-    "Python.8_1_8.executor": "Run",
-    "Python.8_1_9.executor": "Run",
-    "Python.9_13_1.executor": "Run",
-    "Python.9_13_10.executor": "Run",
-    "Python.9_13_11.executor": "Run",
-    "Python.9_13_12.executor": "Run",
-    "Python.9_13_2.executor": "Run",
-    "Python.9_13_3.executor": "Run",
-    "Python.9_13_4.executor": "Run",
-    "Python.9_13_5.executor": "Run",
-    "Python.9_13_6.executor": "Run",
-    "Python.9_13_7.executor": "Run",
-    "Python.9_13_8.executor": "Run",
-    "Python.9_13_9.executor": "Run",
-    "Python.kompege_8_zn2_4.executor": "Run",
-    "Python.kompege_8_zn2_6.executor": "Run",
-    "Python.task 1.executor": "Run",
-    "Python.ДЗ_1_11_1.executor": "Run",
-    "Python.ДЗ_1_11_10.executor": "Run",
-    "Python.ДЗ_1_11_11.executor": "Run",
-    "Python.ДЗ_1_11_12.executor": "Run",
-    "Python.ДЗ_1_11_13.executor": "Run",
-    "Python.ДЗ_1_11_14.executor": "Run",
-    "Python.ДЗ_1_11_15.executor": "Run",
-    "Python.ДЗ_1_11_2.executor": "Run",
-    "Python.ДЗ_1_11_3.executor": "Run",
-    "Python.ДЗ_1_11_4.executor": "Run",
-    "Python.ДЗ_1_11_5.executor": "Run",
-    "Python.ДЗ_1_11_6.executor": "Run",
-    "Python.ДЗ_1_11_7.executor": "Run",
-    "Python.ДЗ_1_11_8.executor": "Run",
-    "Python.ДЗ_1_11_9.executor": "Run",
-    "Python.ЗАНЯТИЕ_1_11_1.executor": "Run",
-    "Python.ЗАНЯТИЕ_1_11_2.executor": "Run",
-    "Python.ЗАНЯТИЕ_1_11_3.executor": "Run",
-    "Python.ЗАНЯТИЕ_1_11_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/4. Комбинаторика ЗАДАНИЕ 8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2_15_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_19_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_11_4_Trash_part_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python313/Projects/Stepik/OOP_Object-oriented programming in Python by Egorov Artem/5.4 Extending a class in Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика ЗАДАНИЕ 8" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\5. Системы счисления ЗАДАНИЕ 14" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\9. IP адреса. Маска сети ЗАДАНИЕ 13" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.57 (П) Домашнее задание 14.02 (№13 Python)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.54 (П) Домашнее задание 11.02 (№13 база)" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.4 Extending a class in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.3 Redefining methods in Python" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.2 Inheritance from object and other built-in types" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\5.1 The principle of inheritance in OOP" />
+      <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.9 Methods __getitem__ , __setitem__ and __getitem__" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -352,7 +180,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -363,6 +191,110 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Задачи 3_11_6-6 Making an order parts 1-2">
+      <option name="closed" value="true" />
+      <created>1746349435103</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349435103</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Задачи 3_11_8 Making an order part 3">
+      <option name="closed" value="true" />
+      <created>1746369784562</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746369784562</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Задача 4_2_1">
+      <option name="closed" value="true" />
+      <created>1746384870470</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746384870470</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Задача 4_2_2">
+      <option name="closed" value="true" />
+      <created>1746470878502</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746470878502</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Задача 4_2_3">
+      <option name="closed" value="true" />
+      <created>1746636181358</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746636181358</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Задача 4_2_4">
+      <option name="closed" value="true" />
+      <created>1746728135049</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746728135049</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Задача 4_3_1">
+      <option name="closed" value="true" />
+      <created>1746801981157</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746801981157</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Задача 4_3_1">
+      <option name="closed" value="true" />
+      <created>1746990566188</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1746990566188</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Задача 4_4_2">
+      <option name="closed" value="true" />
+      <created>1747123802817</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747123802817</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__">
+      <option name="closed" value="true" />
+      <created>1747749159003</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747749159003</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Задача 4_4_3 (v2)">
+      <option name="closed" value="true" />
+      <created>1747772782240</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747772782240</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Задача 4_5_1">
+      <option name="closed" value="true" />
+      <created>1747843447759</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747843447759</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Задача 4_5_1">
+      <option name="closed" value="true" />
+      <created>1747941131504</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1747941131504</updated>
     </task>
     <task id="LOCAL-00023" summary="Задача 4_5_2">
       <option name="closed" value="true" />
@@ -606,157 +538,53 @@
     </task>
     <task id="LOCAL-00053" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1756316697693</created>
+      <created>1755930784156</created>
       <option name="number" value="00053" />
       <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
-      <updated>1756316697694</updated>
+      <updated>1755930784157</updated>
     </task>
     <task id="LOCAL-00054" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1756331253539</created>
+      <created>1755962264440</created>
       <option name="number" value="00054" />
       <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1756331253539</updated>
+      <updated>1755962264440</updated>
     </task>
     <task id="LOCAL-00055" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1756414605967</created>
+      <created>1755963249866</created>
       <option name="number" value="00055" />
       <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1756414605967</updated>
+      <updated>1755963249866</updated>
     </task>
     <task id="LOCAL-00056" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1756476776070</created>
+      <created>1755982405304</created>
       <option name="number" value="00056" />
       <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1756476776070</updated>
+      <updated>1755982405305</updated>
     </task>
     <task id="LOCAL-00057" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1756503009840</created>
+      <created>1755982839452</created>
       <option name="number" value="00057" />
       <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1756503009841</updated>
+      <updated>1755982839452</updated>
     </task>
     <task id="LOCAL-00058" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1756540831864</created>
+      <created>1756046801812</created>
       <option name="number" value="00058" />
       <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1756540831864</updated>
+      <updated>1756046801813</updated>
     </task>
-    <task id="LOCAL-00059" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1756631332215</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1756631332215</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1756677167116</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1756677167116</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1756757940539</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1756757940539</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1756762449490</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1756762449490</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757107710984</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1757107710984</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757196233156</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1757196233156</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757277415424</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1757277415424</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757283316103</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1757283316103</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757360278828</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1757360278828</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757365834407</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1757365834407</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1757367408966</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1757367408966</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13">
-      <option name="closed" value="true" />
-      <created>1757445912944</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1757445912944</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13">
-      <option name="closed" value="true" />
-      <created>1757450202399</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1757450202399</updated>
-    </task>
-    <option name="localTasksCounter" value="72" />
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -783,6 +611,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задача 4_7_1" />
     <MESSAGE value="Задача 4_7_3" />
     <MESSAGE value="Задача 4_7_2" />
     <MESSAGE value="Задача 4_8_1" />
@@ -807,8 +636,7 @@
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
     <MESSAGE value="Решение задач для подготовки к ЕГЭ по информатике" />
-    <MESSAGE value="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задач для подготовки к ЕГЭ по информатике" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -817,15 +645,6 @@
           <url>file://$PROJECT_DIR$/task 1.py</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Year course EGE 2025/3.15 (П) Домашнее задание 18.10 (№1, №11)/3_15_1.py</url>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Year course EGE 2025/2.9 (П) Домашнее задание 17.09 (№7)/2_9_7.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
