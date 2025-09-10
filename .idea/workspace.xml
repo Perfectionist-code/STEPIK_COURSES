@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13">
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_3_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/5. Системы счисления ЗАДАНИЕ 14/5_14_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/5. Системы счисления ЗАДАНИЕ 14/5_14_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13/9_13_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,8 +144,11 @@
     "Python.4_8_3.executor": "Run",
     "Python.4_8_4.executor": "Run",
     "Python.4_8_5.executor": "Run",
+    "Python.4_8_6.executor": "Run",
     "Python.5_14_1.executor": "Run",
     "Python.5_14_2.executor": "Run",
+    "Python.5_14_3.executor": "Run",
+    "Python.5_14_4.executor": "Run",
     "Python.6_52_13_1.executor": "Run",
     "Python.6_52_13_10.executor": "Run",
     "Python.6_52_13_11.executor": "Run",
@@ -165,6 +176,8 @@
     "Python.6_54_13_4.executor": "Run",
     "Python.6_54_13_5.executor": "Run",
     "Python.6_54_13_7.executor": "Run",
+    "Python.6_57_13_1.executor": "Run",
+    "Python.6_57_13_2.executor": "Run",
     "Python.7_15_1.executor": "Run",
     "Python.7_15_2.executor": "Run",
     "Python.7_15_3.executor": "Run",
@@ -178,10 +191,17 @@
     "Python.8_1_8.executor": "Run",
     "Python.8_1_9.executor": "Run",
     "Python.9_13_1.executor": "Run",
+    "Python.9_13_10.executor": "Run",
+    "Python.9_13_11.executor": "Run",
+    "Python.9_13_12.executor": "Run",
     "Python.9_13_2.executor": "Run",
     "Python.9_13_3.executor": "Run",
     "Python.9_13_4.executor": "Run",
     "Python.9_13_5.executor": "Run",
+    "Python.9_13_6.executor": "Run",
+    "Python.9_13_7.executor": "Run",
+    "Python.9_13_8.executor": "Run",
+    "Python.9_13_9.executor": "Run",
     "Python.kompege_8_zn2_4.executor": "Run",
     "Python.kompege_8_zn2_6.executor": "Run",
     "Python.task 1.executor": "Run",
@@ -207,16 +227,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/9. IP адреса. Маска сети ЗАДАНИЕ 13"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/4. Комбинаторика ЗАДАНИЕ 8"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика ЗАДАНИЕ 8" />
+      <recent name="D:\Python313\Projects\Stepik\kompege\5. Системы счисления ЗАДАНИЕ 14" />
       <recent name="D:\Python313\Projects\Stepik\kompege\9. IP адреса. Маска сети ЗАДАНИЕ 13" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.57 (П) Домашнее задание 14.02 (№13 Python)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.54 (П) Домашнее задание 11.02 (№13 база)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.53 (Б) Домашнее задание 11.02 (№13 база)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.52 11.02. IP-адресация. База для задания №13" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -343,14 +363,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Задача 4_5_1">
-      <option name="closed" value="true" />
-      <created>1747941131504</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1747941131504</updated>
     </task>
     <task id="LOCAL-00023" summary="Задача 4_5_2">
       <option name="closed" value="true" />
@@ -736,7 +748,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757445912944</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Решение задач для подготовки к ЕГЭ по информатике ЗАДАНИЕ №13">
+      <option name="closed" value="true" />
+      <created>1757450202399</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1757450202399</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
