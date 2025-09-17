@@ -7,4 +7,4 @@ for i, per in enumerate(product(letters, repeat=15), 1):
         print(f'{i}. {word}')
         print('Ответ: ', i)
         break
-544673535870442
+# 544673535870442
