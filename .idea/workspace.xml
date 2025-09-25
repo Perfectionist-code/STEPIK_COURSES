@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)/6_62_1-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)/6_62_4-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)/6_62_6-9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)/6_63_1-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)/6_63_4-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)/6_63_7-9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/21. Теория игр (программное решение) ЗАДАНИЯ 19-21/21_19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/21. Теория игр (программное решение) ЗАДАНИЯ 19-21/21_22-24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/21. Теория игр (программное решение) ЗАДАНИЯ 19-21/21_25-27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_10-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_10-12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,14 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Задача 4_2_1">
-      <option name="closed" value="true" />
-      <created>1746384870470</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1746384870470</updated>
     </task>
     <task id="LOCAL-00013" summary="Задача 4_2_2">
       <option name="closed" value="true" />
@@ -631,7 +612,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758802662996</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1758837318713</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1758837318713</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
