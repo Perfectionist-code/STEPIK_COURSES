@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_1-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_10-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_4-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_7-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)/6_62_1-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)/6_62_4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)/6_62_6-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)/6_63_1-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)/6_63_4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)/6_63_7-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/21. Теория игр (программное решение) ЗАДАНИЯ 19-21/21_19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/21. Теория игр (программное решение) ЗАДАНИЯ 19-21/21_22-24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/21. Теория игр (программное решение) ЗАДАНИЯ 19-21/21_25-27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_10-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи/6_61_10-12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +67,9 @@
     "Python.21_10-12.executor": "Run",
     "Python.21_13-15.executor": "Run",
     "Python.21_16-18.executor": "Run",
+    "Python.21_19-21.executor": "Run",
+    "Python.21_22-24.executor": "Run",
+    "Python.21_25-27.executor": "Run",
     "Python.21_4-6.executor": "Run",
     "Python.21_7-9.executor": "Run",
     "Python.2_15_1.executor": "Run",
@@ -67,6 +77,7 @@
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_2.executor": "Run",
+    "Python.4_8_7.executor": "Run",
     "Python.6_55_10.executor": "Run",
     "Python.6_55_5.executor": "Run",
     "Python.6_55_6.executor": "Run",
@@ -81,20 +92,26 @@
     "Python.6_61_10-12.executor": "Run",
     "Python.6_61_4-6.executor": "Run",
     "Python.6_61_7-9.executor": "Run",
+    "Python.6_62_1-3.executor": "Run",
+    "Python.6_62_4-6.executor": "Run",
+    "Python.6_62_6-9.executor": "Run",
+    "Python.6_63_1-3.executor": "Run",
+    "Python.6_63_4-6.executor": "Run",
+    "Python.6_63_7-9.executor": "Run",
     "Python.task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/4. Комбинаторика ЗАДАНИЕ 8"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.61 21.02. Теория игр. Задачи 19-21 на 2 кучи" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\19. Динамический подсчёт (число программ) ЗАДАНИЕ 23" />
+      <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика ЗАДАНИЕ 8" />
       <recent name="D:\Python313\Projects\Stepik\kompege\21. Теория игр (программное решение) ЗАДАНИЯ 19-21" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.58 18.02. Теория игр. Задачи 19-21 на 1 кучу" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.55 14.02. Задачи №13 с помощью Python" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.63 (П) Домашнее задание 21.02 (19-21 2 кучи)" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи)" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.62 (Б) Домашнее задание 21.02 (19-21 2 кучи) " />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -221,14 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Задачи 3_11_8 Making an order part 3">
-      <option name="closed" value="true" />
-      <created>1746369784562</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746369784562</updated>
     </task>
     <task id="LOCAL-00012" summary="Задача 4_2_1">
       <option name="closed" value="true" />
@@ -614,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758744240201</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1758802662996</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1758802662996</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
