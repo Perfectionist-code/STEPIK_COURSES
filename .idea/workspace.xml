@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)/6_12_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.6 (П) Домашнее задание 06.12 (№23)/6_6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.6 (П) Домашнее задание 06.12 (№23)/6_6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.6 (П) Домашнее задание 06.12 (№23)/6_6_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.6 (П) Домашнее задание 06.12 (№23)/6_6_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.6 (П) Домашнее задание 06.12 (№23)/6_6_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.6 (П) Домашнее задание 06.12 (№23)/6_6_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/4. Комбинаторика ЗАДАНИЕ 8/4_8_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_1-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_11-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_13-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_3-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_5-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_7-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации/7_7_9-10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,20 +145,27 @@
     "Python.6_6_4.executor": "Run",
     "Python.6_6_5.executor": "Run",
     "Python.6_6_6.executor": "Run",
+    "Python.7_7_1.executor": "Run",
+    "Python.7_7_11-12.executor": "Run",
+    "Python.7_7_13-14.executor": "Run",
+    "Python.7_7_2.executor": "Run",
+    "Python.7_7_5-6.executor": "Run",
+    "Python.7_7_7-8.executor": "Run",
+    "Python.7_7_9-10.executor": "Run",
     "Python.task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/6.12 (П) Домашнее задание 13.12 (16 рекурсия)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.12 (П) Домашнее задание 13.12 (16 рекурсия)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.6 (П) Домашнее задание 06.12 (№23)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\4. Комбинаторика ЗАДАНИЕ 8" />
       <recent name="D:\Python313\Projects\Stepik\kompege\10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\5. Системы счисления ЗАДАНИЕ 14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -302,14 +292,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Задача 4_4_2">
-      <option name="closed" value="true" />
-      <created>1747123802817</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1747123802817</updated>
     </task>
     <task id="LOCAL-00019" summary="Задача 4_4_3 до оптимизации через декорирование и добавление __rmul__, __radd__">
       <option name="closed" value="true" />
@@ -695,7 +677,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758987636268</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1759013652644</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1759013652644</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
