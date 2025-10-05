@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Задачи курса подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)/6_56_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.57 (П) Домашнее задание 14.02 (№13 Python)/6_57_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_1-2_dbscan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_3-4_analit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_3-4_dbscan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_5-6_dbscan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_7-8_dbscan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -267,6 +261,7 @@
     "Python.6_4_1.executor": "Run",
     "Python.6_4_3.executor": "Run",
     "Python.6_56_1.executor": "Run",
+    "Python.6_56_10.executor": "Run",
     "Python.6_56_2.executor": "Run",
     "Python.6_56_3.executor": "Run",
     "Python.6_56_4.executor": "Run",
@@ -290,6 +285,10 @@
     "Python.6_6_7.executor": "Run",
     "Python.6_6_8.executor": "Run",
     "Python.7.executor": "Run",
+    "Python.7_10_1-2_dbscan.executor": "Run",
+    "Python.7_10_3-4_analit.executor": "Run",
+    "Python.7_10_3-4_dbscan.executor": "Run",
+    "Python.7_10_5-6_dbscan.executor": "Run",
     "Python.9_1.executor": "Run",
     "Python.9_2.executor": "Run",
     "Python.ex1_0.executor": "Run",
@@ -306,17 +305,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ProjectsPy/Year course EGE 2025/6.56 (Б) Домашнее задание 14.02 (№13 Python)",
+    "last_opened_file_path": "D:/ProjectsPy/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectsPy\Year course EGE 2025\7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\6.56 (Б) Домашнее задание 14.02 (№13 Python)" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\6.57 (П) Домашнее задание 14.02 (№13 Python)" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\5.1 01.11. Ввод-вывод. Арифметика и типы данных" />
       <recent name="D:\ProjectsPy\Year course EGE 2025\2.12 (П) Домашнее задание 20.09 (№7)" />
-      <recent name="D:\ProjectsPy\Year course EGE 2025\2.11 (Б) Домашнее задание 20.09 (№7)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProjectsPy\EGE_iformat\№5 EGE" />
@@ -444,14 +443,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Задача 4_8_5">
-      <option name="closed" value="true" />
-      <created>1748539299916</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1748539299916</updated>
     </task>
     <task id="LOCAL-00037" summary="Задача 4_9_1">
       <option name="closed" value="true" />
@@ -837,7 +828,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757620733437</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Задачи курса подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1759514795212</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1759514795212</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
