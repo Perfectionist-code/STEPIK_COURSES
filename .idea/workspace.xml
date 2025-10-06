@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_7-8_dbscan.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/7.10 14.03. Задачи №27 (ч.2). Аномалии в кластеризации/7_10_7-8_dbscan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.9 (П) Домашнее задание 11.03/.~lock.7_9_7_27a.xlsx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.9 (П) Домашнее задание 11.03/.~lock.7_9_7_27b.xlsx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +148,11 @@
     "Python.6_6_5.executor": "Run",
     "Python.6_6_6.executor": "Run",
     "Python.7_10_7-8_dbscan.executor": "Run",
+    "Python.7_11_1.executor": "Run",
+    "Python.7_11_2.executor": "Run",
+    "Python.7_11_3.executor": "Run",
+    "Python.7_11_4.executor": "Run",
+    "Python.7_11_5.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -179,16 +186,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/6.64 25.02. Чит-код для задач 19-21"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.11 (Б) Домашнее задание 14.03" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.64 25.02. Чит-код для задач 19-21" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.8 (Б) Домашнее задание 11.03" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.9 (П) Домашнее задание 11.03" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.12 (П) Домашнее задание 13.12 (16 рекурсия)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -315,14 +322,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Задача 4_5_1">
-      <option name="closed" value="true" />
-      <created>1747843447759</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1747843447759</updated>
     </task>
     <task id="LOCAL-00022" summary="Задача 4_5_1">
       <option name="closed" value="true" />
@@ -708,7 +707,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759182978815</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1759693616641</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1759693616641</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
