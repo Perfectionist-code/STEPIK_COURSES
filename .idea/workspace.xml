@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03/7_11_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_A_18314.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_A_18314.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_A_18314.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_A_18314.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_B_18314.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_B_18314.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_B_18314.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/04_27_B_18314.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/24. Кластеризация данных ЗАДАНИЕ 27/24_27_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +83,16 @@
     "Python.21_25-27.executor": "Run",
     "Python.21_4-6.executor": "Run",
     "Python.21_7-9.executor": "Run",
+    "Python.24_27_1.executor": "Run",
+    "Python.24_27_10.executor": "Run",
+    "Python.24_27_2.executor": "Run",
+    "Python.24_27_3.executor": "Run",
+    "Python.24_27_4.executor": "Run",
+    "Python.24_27_5.executor": "Run",
+    "Python.24_27_6.executor": "Run",
+    "Python.24_27_7.executor": "Run",
+    "Python.24_27_8.executor": "Run",
+    "Python.24_27_9.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
@@ -186,16 +202,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.11 (Б) Домашнее задание 14.03"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/24. Кластеризация данных ЗАДАНИЕ 27"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\kompege\24. Кластеризация данных ЗАДАНИЕ 27" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.11 (Б) Домашнее задание 14.03" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\6.64 25.02. Чит-код для задач 19-21" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.8 (Б) Домашнее задание 11.03" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.9 (П) Домашнее задание 11.03" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.7 11.03. Решение задач №27 (ч.1) Основы кластеризации" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -322,14 +338,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Задача 4_5_1">
-      <option name="closed" value="true" />
-      <created>1747941131504</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1747941131504</updated>
     </task>
     <task id="LOCAL-00023" summary="Задача 4_5_2">
       <option name="closed" value="true" />
@@ -715,7 +723,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759693616641</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1759756856361</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1759756856361</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
