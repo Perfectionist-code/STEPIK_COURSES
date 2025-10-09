@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход/7_37_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.38 (Б) Домашнее задание 11.04 (№24 ч.1)/7_38_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.39 (П) Домашнее задание 11.04 (№24 ч.1)/7_39_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.39 (П) Домашнее задание 11.04 (№24 ч.1)/7_39_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.39 (П) Домашнее задание 11.04 (№24 ч.1)/7_39_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.39 (П) Домашнее задание 11.04 (№24 ч.1)/7_39_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.39 (П) Домашнее задание 11.04 (№24 ч.1)/7_39_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.40 15.04. Задачи №24 (ч.2)/7_40_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.40 15.04. Задачи №24 (ч.2)/7_40_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.40 15.04. Задачи №24 (ч.2)/7_40_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,6 +183,9 @@
     "Python.7_39_3.executor": "Run",
     "Python.7_39_4.executor": "Run",
     "Python.7_39_5.executor": "Run",
+    "Python.7_40_1.executor": "Run",
+    "Python.7_40_2.executor": "Run",
+    "Python.7_40_3.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -235,16 +219,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.39 (П) Домашнее задание 11.04 (№24 ч.1)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.40 15.04. Задачи №24 (ч.2)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.40 15.04. Задачи №24 (ч.2)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.39 (П) Домашнее задание 11.04 (№24 ч.1)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.38 (Б) Домашнее задание 11.04 (№24 ч.1)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.37 11.04. Задачи №24 (ч.1). Простейший линейный проход" />
       <recent name="D:\Python313\Projects\Stepik\kompege\24. Кластеризация данных ЗАДАНИЕ 27" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.11 (Б) Домашнее задание 14.03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -371,14 +355,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Задача 4_5_3">
-      <option name="closed" value="true" />
-      <created>1747942462908</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942462908</updated>
     </task>
     <task id="LOCAL-00025" summary="Задача 4_6_1">
       <option name="closed" value="true" />
@@ -764,7 +740,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759933819229</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1760004652687</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1760004652687</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
