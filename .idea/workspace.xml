@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_10_2025_21_53_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_10_2025_21_53__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.46 22.04. Черепашки ниндзя! №6 ЕГЭ/7_46_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.46 22.04. Черепашки ниндзя! №6 ЕГЭ/7_46_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ/2_16_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;
+    &quot;accountId&quot;: &quot;4c3300cc-67bd-4c80-928f-c5645c27f47b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -118,6 +116,13 @@
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
     "Python.2_15_1.executor": "Run",
+    "Python.2_16_1.executor": "Run",
+    "Python.2_16_2.executor": "Run",
+    "Python.2_16_3.executor": "Run",
+    "Python.2_16_4.executor": "Run",
+    "Python.2_16_5.executor": "Run",
+    "Python.2_16_6.executor": "Run",
+    "Python.2_16_7.executor": "Run",
     "Python.2_19_1.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.4_2_4.executor": "Run",
@@ -261,6 +266,8 @@
     "Python.7_45_2.executor": "Run",
     "Python.7_45_3.executor": "Run",
     "Python.7_45_4.executor": "Run",
+    "Python.7_46_1.executor": "Run",
+    "Python.7_46_2.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -294,16 +301,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2026/2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2026\2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.46 22.04. Черепашки ниндзя! №6 ЕГЭ" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.45 (П) Домашнее задание 15.04 (№24 ч.3)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.44 (Б) Домашнее задание 15.04 (№24 ч.3)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\5. Системы счисления ЗАДАНИЕ 14" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.43 18.04. Задачи №24 (ч.3)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -419,7 +428,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
