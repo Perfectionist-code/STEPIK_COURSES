@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,8 @@
     "Python.10_9_6.executor": "Run",
     "Python.10_9_7.executor": "Run",
     "Python.10_9_8.executor": "Run",
+    "Python.17_5_2.executor": "Run",
+    "Python.17_5_3.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
@@ -77,6 +79,7 @@
     "Python.21_25-27.executor": "Run",
     "Python.21_4-6.executor": "Run",
     "Python.21_7-9.executor": "Run",
+    "Python.22_17_4.executor": "Run",
     "Python.24_27_1.executor": "Run",
     "Python.24_27_10.executor": "Run",
     "Python.24_27_2.executor": "Run",
@@ -214,6 +217,8 @@
     "Python.7_2_3.executor": "Run",
     "Python.7_2_4.executor": "Run",
     "Python.7_2_5.executor": "Run",
+    "Python.7_2_6.executor": "Run",
+    "Python.7_2_7.executor": "Run",
     "Python.7_37_1.executor": "Run",
     "Python.7_37_2.executor": "Run",
     "Python.7_37_3.executor": "Run",
@@ -320,17 +325,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)",
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\22. Линейная обработка целочисленных данных ЗАДАНИЕ 17" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\17. Анализ числовых алгоритмов ЗАДАНИЕ 5" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.1 28.02. Задачи №25 на делители (ч.1)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.46 22.04. Черепашки ниндзя! №6 ЕГЭ" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2026\2.31 14.10. Решение задач №9 в Либре" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2026\2.16 26.09. Два самых легких балла в твоей жизни. №1 и №10 ЕГЭ" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -457,14 +462,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Задача 4_8_4">
-      <option name="closed" value="true" />
-      <created>1748536666502</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1748536666502</updated>
     </task>
     <task id="LOCAL-00036" summary="Задача 4_8_5">
       <option name="closed" value="true" />
@@ -850,7 +847,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760562715463</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1760638676201</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1760638676204</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -8,8 +8,8 @@ def get_divisors(num: int):
 
 
 cnt = 0
-for n in range(800_000, 1_000_000):
-    divs = list(filter(lambda x: x > 9 and x % 10 == 9, get_divisors(n)))
+for n in range(700_000, 1_000_000):
+    divs = list(filter(lambda x: x > 7 and x % 10 == 7, get_divisors(n)))
     if divs:
         print(n, divs[0])
         cnt += 1
