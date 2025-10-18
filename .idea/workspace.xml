@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/14. Поиск в тексте ЗАДАНИЕ 10/15_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,6 +258,7 @@
     "Python.7_4_5.executor": "Run",
     "Python.7_4_6.executor": "Run",
     "Python.7_4_7.executor": "Run",
+    "Python.7_4_8.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -441,14 +428,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Задача 4_8_1">
-      <option name="closed" value="true" />
-      <created>1748461282156</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1748461282156</updated>
     </task>
     <task id="LOCAL-00031" summary="Задача 4_8_2">
       <option name="closed" value="true" />
@@ -834,7 +813,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760306955161</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1760804179762</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1760804179762</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
