@@ -9,6 +9,7 @@ def get_factors_fast(n):
         if n % i == 0:
             factors.appendleft(i)
             factors.append(n // i)
+        print(factors)
     return list(factors)
 
 print(len(get_factors_fast(int(input()))))
@@ -28,20 +29,20 @@ print(len(get_factors_fast(int(input()))))
 
 # print(__import__('sympy').divisor_count(int(input())))
 
-def count_divisors(n):
-    c = 1
-    for i in range(2, int(n ** .5)):
-        p = 1
-        while not n % i:
-            p += 1
-            n //= i
-        c *= p
-
-    if n > 1:
-        c *= 2
-
-    return c
-
-
-n = int(input())
-print(count_divisors(n))
+# def count_divisors(n):
+#     c = 1
+#     for i in range(2, int(n ** .5)):
+#         p = 1
+#         while not n % i:
+#             p += 1
+#             n //= i
+#         c *= p
+#
+#     if n > 1:
+#         c *= 2
+#
+#     return c
+#
+#
+# n = int(input())
+# print(count_divisors(n))
