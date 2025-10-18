@@ -5,20 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)/7_45_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_10_2025_21_53_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_10_2025_21_53__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)/7_2_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа/7_4_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/14. Поиск в тексте ЗАДАНИЕ 10/15_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/7.44 (Б) Домашнее задание 15.04 (№24 ч.3)/7_44_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
     "Python.10_9_6.executor": "Run",
     "Python.10_9_7.executor": "Run",
     "Python.10_9_8.executor": "Run",
+    "Python.15_10.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
@@ -196,6 +198,9 @@
     "Python.7_11_3.executor": "Run",
     "Python.7_11_4.executor": "Run",
     "Python.7_11_5.executor": "Run",
+    "Python.7_2_10.executor": "Run",
+    "Python.7_2_8.executor": "Run",
+    "Python.7_2_9.executor": "Run",
     "Python.7_37_1.executor": "Run",
     "Python.7_37_2.executor": "Run",
     "Python.7_37_3.executor": "Run",
@@ -261,6 +266,12 @@
     "Python.7_45_2.executor": "Run",
     "Python.7_45_3.executor": "Run",
     "Python.7_45_4.executor": "Run",
+    "Python.7_4_1.executor": "Run",
+    "Python.7_4_2.executor": "Run",
+    "Python.7_4_4.executor": "Run",
+    "Python.7_4_5.executor": "Run",
+    "Python.7_4_6.executor": "Run",
+    "Python.7_4_7.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -294,16 +305,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.45 (П) Домашнее задание 15.04 (№24 ч.3)"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.4 04.03. Задачи №25 (ч.2). Простые числа" />
+      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.45 (П) Домашнее задание 15.04 (№24 ч.3)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.44 (Б) Домашнее задание 15.04 (№24 ч.3)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\5. Системы счисления ЗАДАНИЕ 14" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.43 18.04. Задачи №24 (ч.3)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
