@@ -5,6 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_18_ver_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/22. Линейная обработка целочисленных данных ЗАДАНИЕ 17/22_17_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24/25_24_32.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +97,21 @@
     "Python.21_25-27.executor": "Run",
     "Python.21_4-6.executor": "Run",
     "Python.21_7-9.executor": "Run",
+    "Python.22_17_10.executor": "Run",
+    "Python.22_17_11.executor": "Run",
+    "Python.22_17_12.executor": "Run",
+    "Python.22_17_13.executor": "Run",
+    "Python.22_17_14.executor": "Run",
+    "Python.22_17_15.executor": "Run",
+    "Python.22_17_16.executor": "Run",
+    "Python.22_17_17.executor": "Run",
+    "Python.22_17_18.executor": "Run",
+    "Python.22_17_18_ver_2.executor": "Run",
+    "Python.22_17_5.executor": "Run",
+    "Python.22_17_6.executor": "Run",
+    "Python.22_17_7.executor": "Run",
+    "Python.22_17_8.executor": "Run",
+    "Python.22_17_9.executor": "Run",
     "Python.24_27_1.executor": "Run",
     "Python.24_27_10.executor": "Run",
     "Python.24_27_2.executor": "Run",
@@ -98,7 +137,16 @@
     "Python.25_24_21.executor": "Run",
     "Python.25_24_22.executor": "Run",
     "Python.25_24_23.executor": "Run",
+    "Python.25_24_24.executor": "Run",
+    "Python.25_24_25.executor": "Run",
+    "Python.25_24_26.executor": "Run",
+    "Python.25_24_27.executor": "Run",
+    "Python.25_24_28.executor": "Run",
+    "Python.25_24_29.executor": "Run",
     "Python.25_24_3.executor": "Run",
+    "Python.25_24_30.executor": "Run",
+    "Python.25_24_31.executor": "Run",
+    "Python.25_24_32.executor": "Run",
     "Python.25_24_4.executor": "Run",
     "Python.25_24_5.executor": "Run",
     "Python.25_24_6.executor": "Run",
@@ -259,6 +307,7 @@
     "Python.7_4_6.executor": "Run",
     "Python.7_4_7.executor": "Run",
     "Python.7_4_8.executor": "Run",
+    "Python.7_5_1.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -292,16 +341,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python313/Projects/Stepik/Year course EGE 2025/7.4 04.03. Задачи №25 (ч.2). Простые числа"
+    "last_opened_file_path": "D:/Python313/Projects/Stepik/kompege/25. Поиск максимальной подстроки ЗАДАНИЕ 24"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
+      <recent name="D:\Python313\Projects\Stepik\kompege\22. Линейная обработка целочисленных данных ЗАДАНИЕ 17" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.4 04.03. Задачи №25 (ч.2). Простые числа" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.2 (Б) Домашнее задание 28.02 (№25 делители ч.1)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.45 (П) Домашнее задание 15.04 (№24 ч.3)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.44 (Б) Домашнее задание 15.04 (№24 ч.3)" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -428,14 +477,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Задача 4_8_2">
-      <option name="closed" value="true" />
-      <created>1748461518293</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1748461518293</updated>
     </task>
     <task id="LOCAL-00032" summary="Задача 4_8_2 - 4_8_3">
       <option name="closed" value="true" />
@@ -821,7 +862,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760804179762</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1760808139361</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1760808139361</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
