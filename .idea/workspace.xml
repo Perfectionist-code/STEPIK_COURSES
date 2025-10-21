@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -466,14 +458,6 @@
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
     </task>
-    <task id="LOCAL-00034" summary="Задача 4_8_2 - 4_8_3">
-      <option name="closed" value="true" />
-      <created>1748462747150</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1748462747150</updated>
-    </task>
     <task id="LOCAL-00035" summary="Задача 4_8_4">
       <option name="closed" value="true" />
       <created>1748536666502</created>
@@ -858,7 +842,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760909627205</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1760953068406</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1760953068407</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
