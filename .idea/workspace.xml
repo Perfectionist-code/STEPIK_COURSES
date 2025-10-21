@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +31,12 @@
     &quot;assignee&quot;: &quot;Perfectionist-code&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Perfectionist-code/STEPIK_COURSES.git",
+    "accountId": "4c3300cc-67bd-4c80-928f-c5645c27f47b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -302,6 +298,9 @@
     "Python.7_5_5.executor": "Run",
     "Python.7_5_6.executor": "Run",
     "Python.7_6_1.executor": "Run",
+    "Python.7_6_2.executor": "Run",
+    "Python.7_6_3.executor": "Run",
+    "Python.7_6_4.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
@@ -335,16 +334,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.6 (П) Домашнее задание 04.03 (№25 простые числа)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.6 (П) Домашнее задание 04.03 (№25 простые числа)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.5 (Б) Домашнее задание 04.03 (№25 простые числа)" />
       <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\22. Линейная обработка целочисленных данных ЗАДАНИЕ 17" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -460,7 +460,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -471,14 +471,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Задача 4_8_2 - 4_8_3">
-      <option name="closed" value="true" />
-      <created>1748462747150</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1748462747150</updated>
     </task>
     <task id="LOCAL-00035" summary="Задача 4_8_4">
       <option name="closed" value="true" />
@@ -864,7 +856,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760909627205</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1760989784010</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1760989784010</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
