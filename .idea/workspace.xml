@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.5 (Б) Домашнее задание 04.03 (№25 простые числа)/7_5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.6 (П) Домашнее задание 04.03 (№25 простые числа)/7_6_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -296,6 +295,9 @@
     "Python.7_5_5.executor": "Run",
     "Python.7_5_6.executor": "Run",
     "Python.7_6_1.executor": "Run",
+    "Python.7_6_4.executor": "Run",
+    "Python.7_6_6.executor": "Run",
+    "Python.7_6_7.executor": "Run",
     "Python.7_7_1.executor": "Run",
     "Python.7_7_11-12.executor": "Run",
     "Python.7_7_13-14.executor": "Run",
