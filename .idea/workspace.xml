@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/3.6 (П) Домашнее задание 14.10 (№9 Либра)/3_6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/3.6 (П) Домашнее задание 14.10 (№9 Либра)/3_6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/3.6 (П) Домашнее задание 14.10 (№9 Либра)/3_6_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/3.6 (П) Домашнее задание 14.10 (№9 Либра)/3_6_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +136,7 @@
     "Python.3_6_1.executor": "Run",
     "Python.3_6_2.executor": "Run",
     "Python.3_6_3.executor": "Run",
+    "Python.3_6_4.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_10.executor": "Run",
     "Python.4_8_11.executor": "Run",
@@ -477,14 +474,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Задача 4_8_4">
-      <option name="closed" value="true" />
-      <created>1748536666502</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1748536666502</updated>
     </task>
     <task id="LOCAL-00036" summary="Задача 4_8_5">
       <option name="closed" value="true" />
@@ -870,7 +859,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760989784010</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761216402147</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1761216402147</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
