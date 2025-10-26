@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +76,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
+    "Python.09.executor": "Run",
+    "Python.10_2_9_10.executor": "Run",
+    "Python.10_2_9_11.executor": "Run",
+    "Python.10_2_9_12.executor": "Run",
     "Python.10_2_9_7.executor": "Run",
     "Python.10_2_9_8.executor": "Run",
+    "Python.10_2_9_9.executor": "Run",
     "Python.10_9_10.executor": "Run",
     "Python.10_9_11.executor": "Run",
     "Python.10_9_12.executor": "Run",
@@ -63,7 +97,14 @@
     "Python.10_9_6.executor": "Run",
     "Python.10_9_7.executor": "Run",
     "Python.10_9_8.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.15.executor": "Run",
     "Python.15_10.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.19.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
@@ -94,6 +135,8 @@
     "Python.22_17_7.executor": "Run",
     "Python.22_17_8.executor": "Run",
     "Python.22_17_9.executor": "Run",
+    "Python.23.executor": "Run",
+    "Python.24.executor": "Run",
     "Python.24_27_1.executor": "Run",
     "Python.24_27_10.executor": "Run",
     "Python.24_27_2.executor": "Run",
@@ -104,6 +147,7 @@
     "Python.24_27_7.executor": "Run",
     "Python.24_27_8.executor": "Run",
     "Python.24_27_9.executor": "Run",
+    "Python.25.executor": "Run",
     "Python.25_24_1.executor": "Run",
     "Python.25_24_10.executor": "Run",
     "Python.25_24_11.executor": "Run",
@@ -135,6 +179,7 @@
     "Python.25_24_7.executor": "Run",
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
+    "Python.27.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
@@ -178,6 +223,7 @@
     "Python.6_2_15.executor": "Run",
     "Python.6_2_16.executor": "Run",
     "Python.6_2_17.executor": "Run",
+    "Python.6_2_19.executor": "Run",
     "Python.6_55_10.executor": "Run",
     "Python.6_55_5.executor": "Run",
     "Python.6_55_6.executor": "Run",
@@ -344,10 +390,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Python314\STEPIK_COURSES\kompege\10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9\DZ2" />
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
+      <recent name="C:\Python314\STEPIK_COURSES\STATGRAD_2026\IN2510101" />
       <recent name="D:\Python313\Projects\Stepik\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.6 (П) Домашнее задание 04.03 (№25 простые числа)" />
-      <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.5 (Б) Домашнее задание 04.03 (№25 простые числа)" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -474,14 +520,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Задача 4_9_1">
-      <option name="closed" value="true" />
-      <created>1748958602708</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1748958602708</updated>
     </task>
     <task id="LOCAL-00038" summary="Задача 4_9_2">
       <option name="closed" value="true" />
@@ -867,7 +905,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761335777419</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761400219173</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1761400219174</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
