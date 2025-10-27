@@ -19,7 +19,7 @@ def f(x):
     return (((not P) and Q) <= A)
 
 
-ox = [dx for x in (1, 25, 42, 98) for dx in (x, x + 0.1, x - 0.1)]
+ox = [dx for x in (1, 25, 42, 98) for dx in (x - 0.01, x, x + 0.01)]
 
 for a1 in ox:
     for a2 in ox:
