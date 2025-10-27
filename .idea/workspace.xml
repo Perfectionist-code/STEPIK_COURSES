@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STATGRAD_2026/IN2510101/27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.22 03.10. Задачи №15 на отрезки и множества/2_22_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/26. Сортировка данных (в таблицах) ЗАДАНИЕ 26/09_26_2615.ods" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/26. Сортировка данных (в таблицах) ЗАДАНИЕ 26/09_26_2615.ods" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +157,7 @@
     "Python.27.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
+    "Python.2_22_6.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_10.executor": "Run",
@@ -520,14 +496,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Задача 4_9_2">
-      <option name="closed" value="true" />
-      <created>1748959899733</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1748959899733</updated>
     </task>
     <task id="LOCAL-00039" summary="Задача 4_9_3">
       <option name="closed" value="true" />
@@ -913,7 +881,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761400219174</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761486773322</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1761486773323</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
