@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.23 (Б) Домашнее задание 03.10 (№15)/2_23_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.23 (Б) Домашнее задание 03.10 (№15)/2_23_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/2.23 (Б) Домашнее задание 03.10 (№15)/2_23_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9/DZ2/10_2_9_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2/6_2_20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +69,7 @@
     "Python.10_2_9_16.executor": "Run",
     "Python.10_2_9_17.executor": "Run",
     "Python.10_2_9_18.executor": "Run",
+    "Python.10_2_9_19.executor": "Run",
     "Python.10_2_9_7.executor": "Run",
     "Python.10_2_9_8.executor": "Run",
     "Python.10_2_9_9.executor": "Run",
@@ -91,6 +88,9 @@
     "Python.15_10.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17.executor": "Run",
+    "Python.17_5_4.executor": "Run",
+    "Python.17_5_5.executor": "Run",
+    "Python.17_5_6.executor": "Run",
     "Python.19.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
@@ -380,17 +380,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/Year course EGE 2026/2.23 (Б) Домашнее задание 03.10 (№15)",
+    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2026\2.23 (Б) Домашнее задание 03.10 (№15)" />
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\17. Анализ числовых алгоритмов ЗАДАНИЕ 5" />
       <recent name="C:\Python314\STEPIK_COURSES\kompege\10. Электронные таблицы. Условный оператор ЗАДАНИЕ 9\DZ2" />
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2026\2.23 (Б) Домашнее задание 03.10 (№15)" />
       <recent name="C:\Python314\STEPIK_COURSES\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
       <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2026\2.22 03.10. Задачи №15 на отрезки и множества" />
-      <recent name="C:\Python314\STEPIK_COURSES\STATGRAD_2026\IN2510101" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -517,14 +517,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Задача 4_9_6">
-      <option name="closed" value="true" />
-      <created>1748975722396</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1748975722396</updated>
     </task>
     <task id="LOCAL-00043" summary="Задача 4_9_7">
       <option name="closed" value="true" />
@@ -910,7 +902,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761588479169</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761688933300</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1761688933300</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
