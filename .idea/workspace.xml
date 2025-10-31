@@ -397,6 +397,7 @@
       <recent name="C:\Python314\STEPIK_COURSES\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\12. Электронные таблицы. Динамический подсчёт ЗАДАНИЕ 18" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.4 Магические методы для математических операций " />
@@ -521,14 +522,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Задача 5_1_1">
-      <option name="closed" value="true" />
-      <created>1749316359877</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1749316359877</updated>
     </task>
     <task id="LOCAL-00046" summary="Задача 5_1_2">
       <option name="closed" value="true" />
@@ -914,7 +907,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761862640531</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761923993315</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1761923993316</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
