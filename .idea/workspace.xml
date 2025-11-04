@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;45252d5d-2bbc-4574-9b0c-fff5203f42fb&quot;
+    &quot;accountId&quot;: &quot;4c3300cc-67bd-4c80-928f-c5645c27f47b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -60,6 +61,9 @@
     "Python.10_9_7.executor": "Run",
     "Python.10_9_8.executor": "Run",
     "Python.15_10.executor": "Run",
+    "Python.17_5_12.executor": "Run",
+    "Python.17_5_13.executor": "Run",
+    "Python.17_5_14.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
@@ -131,8 +135,10 @@
     "Python.25_24_7.executor": "Run",
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
+    "Python.2_10_1.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
+    "Python.2_22_6.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_10.executor": "Run",
@@ -333,16 +339,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/kompege/6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\17. Анализ числовых алгоритмов ЗАДАНИЕ 5" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
       <recent name="D:\Python313\Projects\Stepik\kompege\6. Алгебра логики. Таблица истинности ЗАДАНИЕ 2" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.6 (П) Домашнее задание 04.03 (№25 простые числа)" />
       <recent name="D:\Python313\Projects\Stepik\Year course EGE 2025\7.5 (Б) Домашнее задание 04.03 (№25 простые числа)" />
-      <recent name="D:\Python313\Projects\Stepik\kompege\25. Поиск максимальной подстроки ЗАДАНИЕ 24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -458,7 +465,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -469,14 +476,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Задача 4_9_2">
-      <option name="closed" value="true" />
-      <created>1748959899733</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1748959899733</updated>
     </task>
     <task id="LOCAL-00039" summary="Задача 4_9_3">
       <option name="closed" value="true" />
@@ -862,7 +861,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761387020137</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761572988715</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1761572988716</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
