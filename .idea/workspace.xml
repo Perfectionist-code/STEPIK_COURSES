@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.21 (П) Домашнее задание 25.03/7_21_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2025_15_51_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2025_15_51__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.7 10.12. Рекурсивное решение задач 23/6_7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.7 10.12. Рекурсивное решение задач 23/6_7_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.7 10.12. Рекурсивное решение задач 23/6_7_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kompege/26. Сортировка данных (в таблицах) ЗАДАНИЕ 26/15_26_2255.ods" beforeDir="false" afterPath="$PROJECT_DIR$/kompege/26. Сортировка данных (в таблицах) ЗАДАНИЕ 26/15_26_2255.ods" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +60,7 @@
     "Python.07.executor": "Run",
     "Python.08.executor": "Run",
     "Python.09.executor": "Run",
+    "Python.1.executor": "Run",
     "Python.10_2_9_10.executor": "Run",
     "Python.10_2_9_11.executor": "Run",
     "Python.10_2_9_12.executor": "Run",
@@ -310,6 +307,9 @@
     "Python.6_6_4.executor": "Run",
     "Python.6_6_5.executor": "Run",
     "Python.6_6_6.executor": "Run",
+    "Python.6_7_4.executor": "Run",
+    "Python.6_7_5.executor": "Run",
+    "Python.6_7_6.executor": "Run",
     "Python.7_10_7-8_dbscan.executor": "Run",
     "Python.7_11_1.executor": "Run",
     "Python.7_11_2.executor": "Run",
@@ -466,17 +466,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5",
+    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/Year course EGE 2025/6.7 10.12. Рекурсивное решение задач 23",
     "settings.editor.selected.configurable": "memory.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.7 10.12. Рекурсивное решение задач 23" />
       <recent name="C:\Python314\STEPIK_COURSES\kompege\17. Анализ числовых алгоритмов ЗАДАНИЕ 5" />
       <recent name="C:\Python314\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25\DZ2" />
       <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.20 (Б) Домашнее задание 25.03" />
       <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.17 (Б) Домашнее задание 21.03 (№13)" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.16 21.03. Повторение №13" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python314\STEPIK_COURSES\kompege\12. Электронные таблицы. Динамический подсчёт ЗАДАНИЕ 18" />
@@ -604,14 +604,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Задача 5_3_1">
-      <option name="closed" value="true" />
-      <created>1749400542592</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1749400542592</updated>
     </task>
     <task id="LOCAL-00052" summary="Задача 5_4_1">
       <option name="closed" value="true" />
@@ -997,7 +989,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762282978381</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762636758175</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1762636758175</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
