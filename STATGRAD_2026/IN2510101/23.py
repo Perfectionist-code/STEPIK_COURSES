@@ -1,8 +1,10 @@
-def f(curr, end, not_num):
-    if curr > end or curr == not_num: return 0
-    if curr == end: return 1
-    return f(curr + 1, end, not_num) + f(curr * 2, end, not_num) + f(curr * 3, end, not_num)
+def f(curr, end, cnt):
+    if curr == 14 or curr == 18: cnt += 1
+    if curr > end: return 0
+    if curr == end: return cnt > 0
+    return f(curr + 1, end, cnt) + f(curr * 2, end, cnt) + f(curr * 3, end, cnt)
 
-print(f(6, 14, 18)*f(14, 48,18) + f(6, 18, 14)*f(18, 48,14))
 
-# Ответ: 45 3 часа 25 мин
+print(f(6, 48, 0))
+
+# Ответ: 69 3 часа 25 мин ВЕРНО!
