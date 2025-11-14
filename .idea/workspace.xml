@@ -5,19 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017/9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,12 +145,14 @@
     "Python.18_16_7.executor": "Run",
     "Python.18_16_8.executor": "Run",
     "Python.18_16_9.executor": "Run",
+    "Python.19-21.executor": "Run",
     "Python.19.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
     "Python.19_23_24_recurs.executor": "Run",
     "Python.19_23_25_recurs.executor": "Run",
+    "Python.2.executor": "Run",
     "Python.21_1-3.executor": "Run",
     "Python.21_1.executor": "Run",
     "Python.21_10-12.executor": "Run",
@@ -255,6 +263,7 @@
     "Python.4_8_20.executor": "Run",
     "Python.4_8_7.executor": "Run",
     "Python.4_8_9.executor": "Run",
+    "Python.5.executor": "Run",
     "Python.5_14_10.executor": "Run",
     "Python.5_14_11.executor": "Run",
     "Python.5_14_12.executor": "Run",
@@ -271,6 +280,7 @@
     "Python.5_14_7.executor": "Run",
     "Python.5_14_8.executor": "Run",
     "Python.5_14_9.executor": "Run",
+    "Python.6.executor": "Run",
     "Python.6_12_1.executor": "Run",
     "Python.6_12_3.executor": "Run",
     "Python.6_12_5.executor": "Run",
@@ -336,6 +346,7 @@
     "Python.6_7_4.executor": "Run",
     "Python.6_7_5.executor": "Run",
     "Python.6_7_6.executor": "Run",
+    "Python.7.executor": "Run",
     "Python.7_10_7-8_dbscan.executor": "Run",
     "Python.7_11_1.executor": "Run",
     "Python.7_11_2.executor": "Run",
@@ -487,6 +498,8 @@
     "Python.7_9_5-6.executor": "Run",
     "Python.7_9_7-8.executor": "Run",
     "Python.7_9_9-10.executor": "Run",
+    "Python.8.executor": "Run",
+    "Python.9.executor": "Run",
     "Python.task 1.executor": "Run",
     "Python.ДЗ_1_11_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -630,14 +643,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1755962264440</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1755962264440</updated>
     </task>
     <task id="LOCAL-00055" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
@@ -1023,7 +1028,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762976869055</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1763125935959</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1763125935959</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
