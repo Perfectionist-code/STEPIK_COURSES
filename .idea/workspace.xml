@@ -5,28 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/kompege/17. Анализ числовых алгоритмов ЗАДАНИЕ 5/17_5_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/18. Рекурсия ЗАДАНИЕ 16/DZ2/18_16_2_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/18. Рекурсия ЗАДАНИЕ 16/DZ2/18_16_2_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/DZ2/23_25_2_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/DZ2/23_25_2_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/DZ2/23_25_2_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -54,7 +44,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;4c3300cc-67bd-4c80-928f-c5645c27f47b&quot;
+    &quot;accountId&quot;: &quot;c6be2dac-d9a5-4fd9-88d5-8040bf058a7d&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -72,6 +62,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
+    "Python.09.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.10_2_9_10.executor": "Run",
+    "Python.10_2_9_11.executor": "Run",
+    "Python.10_2_9_12.executor": "Run",
+    "Python.10_2_9_13.executor": "Run",
+    "Python.10_2_9_14.executor": "Run",
+    "Python.10_2_9_15.executor": "Run",
+    "Python.10_2_9_16.executor": "Run",
+    "Python.10_2_9_17.executor": "Run",
+    "Python.10_2_9_18.executor": "Run",
+    "Python.10_2_9_19.executor": "Run",
+    "Python.10_2_9_20.executor": "Run",
+    "Python.10_2_9_7.executor": "Run",
+    "Python.10_2_9_8.executor": "Run",
+    "Python.10_2_9_9.executor": "Run",
     "Python.10_9_10.executor": "Run",
     "Python.10_9_11.executor": "Run",
     "Python.10_9_12.executor": "Run",
@@ -80,13 +92,54 @@
     "Python.10_9_6.executor": "Run",
     "Python.10_9_7.executor": "Run",
     "Python.10_9_8.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.15.executor": "Run",
     "Python.15_10.executor": "Run",
-    "Python.17_5_12.executor": "Run",
-    "Python.17_5_13.executor": "Run",
-    "Python.17_5_14.executor": "Run",
-    "Python.17_5_22.executor": "Run",
-    "Python.18_16_2_10.executor": "Run",
-    "Python.18_16_2_9.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.17_5_10.executor": "Run",
+    "Python.17_5_11.executor": "Run",
+    "Python.17_5_15.executor": "Run",
+    "Python.17_5_16.executor": "Run",
+    "Python.17_5_17.executor": "Run",
+    "Python.17_5_18.executor": "Run",
+    "Python.17_5_19.executor": "Run",
+    "Python.17_5_20.executor": "Run",
+    "Python.17_5_21.executor": "Run",
+    "Python.17_5_4.executor": "Run",
+    "Python.17_5_5.executor": "Run",
+    "Python.17_5_6.executor": "Run",
+    "Python.17_5_7.executor": "Run",
+    "Python.17_5_8.executor": "Run",
+    "Python.17_5_9.executor": "Run",
+    "Python.18_16_1.executor": "Run",
+    "Python.18_16_11.executor": "Run",
+    "Python.18_16_12.executor": "Run",
+    "Python.18_16_14.executor": "Run",
+    "Python.18_16_15.executor": "Run",
+    "Python.18_16_16.executor": "Run",
+    "Python.18_16_17.executor": "Run",
+    "Python.18_16_18.executor": "Run",
+    "Python.18_16_19.executor": "Run",
+    "Python.18_16_2.executor": "Run",
+    "Python.18_16_20.executor": "Run",
+    "Python.18_16_2_1.executor": "Run",
+    "Python.18_16_2_2.executor": "Run",
+    "Python.18_16_2_3.executor": "Run",
+    "Python.18_16_2_4.executor": "Run",
+    "Python.18_16_2_5.executor": "Run",
+    "Python.18_16_2_7.executor": "Run",
+    "Python.18_16_2_8.executor": "Run",
+    "Python.18_16_3.executor": "Run",
+    "Python.18_16_4.executor": "Run",
+    "Python.18_16_5.executor": "Run",
+    "Python.18_16_6.executor": "Run",
+    "Python.18_16_7.executor": "Run",
+    "Python.18_16_8.executor": "Run",
+    "Python.18_16_9.executor": "Run",
+    "Python.19.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
@@ -118,25 +171,13 @@
     "Python.22_17_8.executor": "Run",
     "Python.22_17_9.executor": "Run",
     "Python.23.executor": "Run",
-    "Python.23_25_10.executor": "Run",
-    "Python.23_25_11.executor": "Run",
-    "Python.23_25_12.executor": "Run",
-    "Python.23_25_13.executor": "Run",
-    "Python.23_25_14.executor": "Run",
-    "Python.23_25_15.executor": "Run",
-    "Python.23_25_16.executor": "Run",
-    "Python.23_25_17.executor": "Run",
-    "Python.23_25_2.executor": "Run",
-    "Python.23_25_2_7.executor": "Run",
-    "Python.23_25_2_8.executor": "Run",
-    "Python.23_25_2_9.executor": "Run",
-    "Python.23_25_3.executor": "Run",
-    "Python.23_25_4.executor": "Run",
-    "Python.23_25_5.executor": "Run",
-    "Python.23_25_6.executor": "Run",
-    "Python.23_25_7.executor": "Run",
-    "Python.23_25_8.executor": "Run",
-    "Python.23_25_9.executor": "Run",
+    "Python.23_25_2_1.executor": "Run",
+    "Python.23_25_2_2.executor": "Run",
+    "Python.23_25_2_3.executor": "Run",
+    "Python.23_25_2_4.executor": "Run",
+    "Python.23_25_2_5.executor": "Run",
+    "Python.23_25_2_6.executor": "Run",
+    "Python.24.executor": "Run",
     "Python.24_27_1.executor": "Run",
     "Python.24_27_10.executor": "Run",
     "Python.24_27_2.executor": "Run",
@@ -147,6 +188,7 @@
     "Python.24_27_7.executor": "Run",
     "Python.24_27_8.executor": "Run",
     "Python.24_27_9.executor": "Run",
+    "Python.25.executor": "Run",
     "Python.25_24_1.executor": "Run",
     "Python.25_24_10.executor": "Run",
     "Python.25_24_11.executor": "Run",
@@ -178,12 +220,26 @@
     "Python.25_24_7.executor": "Run",
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
-    "Python.2_10_1.executor": "Run",
+    "Python.27.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
+    "Python.2_22_10.executor": "Run",
+    "Python.2_22_11.executor": "Run",
+    "Python.2_22_12.executor": "Run",
     "Python.2_22_6.executor": "Run",
+    "Python.2_22_7.executor": "Run",
     "Python.2_22_9.executor": "Run",
+    "Python.2_23_1.executor": "Run",
+    "Python.2_23_2.executor": "Run",
+    "Python.2_23_3.executor": "Run",
     "Python.3_11_4_Trash_part_1.executor": "Run",
+    "Python.3_19_1.executor": "Run",
+    "Python.3_19_10.executor": "Run",
+    "Python.3_19_4.executor": "Run",
+    "Python.3_19_5.executor": "Run",
+    "Python.3_19_6.executor": "Run",
+    "Python.3_19_8.executor": "Run",
+    "Python.3_19_9.executor": "Run",
     "Python.4_2_4.executor": "Run",
     "Python.4_8_10.executor": "Run",
     "Python.4_8_11.executor": "Run",
@@ -220,34 +276,29 @@
     "Python.6_12_5.executor": "Run",
     "Python.6_12_6.executor": "Run",
     "Python.6_12_7.executor": "Run",
-    "Python.6_25_1.executor": "Run",
-    "Python.6_25_10.executor": "Run",
-    "Python.6_25_12.executor": "Run",
-    "Python.6_25_13.executor": "Run",
-    "Python.6_25_2.executor": "Run",
-    "Python.6_25_3.executor": "Run",
-    "Python.6_25_4.executor": "Run",
-    "Python.6_25_5.executor": "Run",
-    "Python.6_25_6.executor": "Run",
-    "Python.6_25_7.executor": "Run",
-    "Python.6_25_8.executor": "Run",
-    "Python.6_25_9.executor": "Run",
-    "Python.6_28_1.executor": "Run",
-    "Python.6_28_4.executor": "Run",
-    "Python.6_28_5.executor": "Run",
-    "Python.6_28_6.executor": "Run",
-    "Python.6_28_7.executor": "Run",
+    "Python.6_28_10.executor": "Run",
+    "Python.6_28_11.executor": "Run",
+    "Python.6_28_2.executor": "Run",
+    "Python.6_28_3.executor": "Run",
+    "Python.6_28_8.executor": "Run",
+    "Python.6_28_9.executor": "Run",
     "Python.6_2_14.executor": "Run",
     "Python.6_2_15.executor": "Run",
     "Python.6_2_16.executor": "Run",
     "Python.6_2_17.executor": "Run",
-    "Python.6_2_18.executor": "Run",
-    "Python.6_30_1.executor": "Run",
-    "Python.6_30_2.executor": "Run",
-    "Python.6_30_3.executor": "Run",
-    "Python.6_30_4.executor": "Run",
-    "Python.6_30_5.executor": "Run",
-    "Python.6_30_6.executor": "Run",
+    "Python.6_2_19.executor": "Run",
+    "Python.6_2_20.executor": "Run",
+    "Python.6_31_1.executor": "Run",
+    "Python.6_31_10.executor": "Run",
+    "Python.6_31_11.executor": "Run",
+    "Python.6_31_2.executor": "Run",
+    "Python.6_31_3.executor": "Run",
+    "Python.6_31_4.executor": "Run",
+    "Python.6_31_5.executor": "Run",
+    "Python.6_31_6.executor": "Run",
+    "Python.6_31_7.executor": "Run",
+    "Python.6_31_8.executor": "Run",
+    "Python.6_31_9.executor": "Run",
     "Python.6_55_10.executor": "Run",
     "Python.6_55_5.executor": "Run",
     "Python.6_55_6.executor": "Run",
@@ -282,25 +333,46 @@
     "Python.6_6_4.executor": "Run",
     "Python.6_6_5.executor": "Run",
     "Python.6_6_6.executor": "Run",
-    "Python.6_7_10.executor": "Run",
-    "Python.6_7_11.executor": "Run",
-    "Python.6_7_12.executor": "Run",
-    "Python.6_7_13.executor": "Run",
-    "Python.6_7_7.executor": "Run",
-    "Python.6_7_8.executor": "Run",
-    "Python.6_7_9.executor": "Run",
-    "Python.6_9_1.executor": "Run",
-    "Python.6_9_2.executor": "Run",
-    "Python.6_9_3.executor": "Run",
-    "Python.6_9_4.executor": "Run",
-    "Python.6_9_5.executor": "Run",
-    "Python.6_9_6.executor": "Run",
+    "Python.6_7_4.executor": "Run",
+    "Python.6_7_5.executor": "Run",
+    "Python.6_7_6.executor": "Run",
     "Python.7_10_7-8_dbscan.executor": "Run",
     "Python.7_11_1.executor": "Run",
     "Python.7_11_2.executor": "Run",
     "Python.7_11_3.executor": "Run",
     "Python.7_11_4.executor": "Run",
     "Python.7_11_5.executor": "Run",
+    "Python.7_16_1.executor": "Run",
+    "Python.7_16_10.executor": "Run",
+    "Python.7_16_11.executor": "Run",
+    "Python.7_16_12.executor": "Run",
+    "Python.7_16_13.executor": "Run",
+    "Python.7_16_14.executor": "Run",
+    "Python.7_16_2.executor": "Run",
+    "Python.7_16_3.executor": "Run",
+    "Python.7_16_4.executor": "Run",
+    "Python.7_16_5.executor": "Run",
+    "Python.7_16_6.executor": "Run",
+    "Python.7_16_7.executor": "Run",
+    "Python.7_16_8.executor": "Run",
+    "Python.7_16_9.executor": "Run",
+    "Python.7_17_1.executor": "Run",
+    "Python.7_17_10.executor": "Run",
+    "Python.7_17_2.executor": "Run",
+    "Python.7_17_3.executor": "Run",
+    "Python.7_17_4.executor": "Run",
+    "Python.7_17_5.executor": "Run",
+    "Python.7_17_6.executor": "Run",
+    "Python.7_17_7.executor": "Run",
+    "Python.7_17_8.executor": "Run",
+    "Python.7_17_9.executor": "Run",
+    "Python.7_19_5.executor": "Run",
+    "Python.7_20_1.executor": "Run",
+    "Python.7_20_2.executor": "Run",
+    "Python.7_20_3.executor": "Run",
+    "Python.7_20_4.executor": "Run",
+    "Python.7_20_5.executor": "Run",
+    "Python.7_21_6.executor": "Run",
     "Python.7_2_10.executor": "Run",
     "Python.7_2_8.executor": "Run",
     "Python.7_2_9.executor": "Run",
@@ -416,22 +488,24 @@
     "Python.7_9_7-8.executor": "Run",
     "Python.7_9_9-10.executor": "Run",
     "Python.task 1.executor": "Run",
+    "Python.ДЗ_1_11_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/kompege/23. Поиск делителей ЗАДАНИЕ 25"
+    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/Year course EGE 2025/6.31 17.01. Программирование задач №14",
+    "settings.editor.selected.configurable": "memory.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25\DZ2" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\18. Рекурсия ЗАДАНИЕ 16\DZ2" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\17. Анализ числовых алгоритмов ЗАДАНИЕ 5" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\6.30 (П) Домашнее задание 14.01 (№15 прога отрезки, множества)" />
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.31 17.01. Программирование задач №14" />
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.28 14.01. Программирование задач №15 на отрезки и множества" />
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.7 10.12. Рекурсивное решение задач 23" />
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\17. Анализ числовых алгоритмов ЗАДАНИЕ 5" />
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25\DZ2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\12. Электронные таблицы. Динамический подсчёт ЗАДАНИЕ 18" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.4 Магические методы для математических операций " />
@@ -556,102 +630,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Задача 4_9_6">
-      <option name="closed" value="true" />
-      <created>1748975722396</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1748975722396</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Задача 4_9_7">
-      <option name="closed" value="true" />
-      <created>1749154366734</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1749154366734</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Задача 4_9_8_Разреженный массив">
-      <option name="closed" value="true" />
-      <created>1749221981977</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1749221981977</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Задача 5_1_1">
-      <option name="closed" value="true" />
-      <created>1749316359877</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1749316359877</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Задача 5_1_2">
-      <option name="closed" value="true" />
-      <created>1749316608370</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1749316608370</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Задача 5_1_3">
-      <option name="closed" value="true" />
-      <created>1749317160643</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1749317160643</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Задача 5_1_4">
-      <option name="closed" value="true" />
-      <created>1749317423836</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1749317423836</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Задача 5_1_5">
-      <option name="closed" value="true" />
-      <created>1749318742348</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1749318742348</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Задача 5_2_1">
-      <option name="closed" value="true" />
-      <created>1749376567055</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1749376567055</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Задача 5_3_1">
-      <option name="closed" value="true" />
-      <created>1749400542592</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1749400542592</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Задача 5_4_1">
-      <option name="closed" value="true" />
-      <created>1749411433886</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1749411433887</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1755930784156</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1755930784157</updated>
     </task>
     <task id="LOCAL-00054" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
@@ -911,45 +889,141 @@
     </task>
     <task id="LOCAL-00086" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1761387020137</created>
+      <created>1761400219173</created>
       <option name="number" value="00086" />
       <option name="presentableId" value="LOCAL-00086" />
       <option name="project" value="LOCAL" />
-      <updated>1761387020137</updated>
+      <updated>1761400219174</updated>
     </task>
     <task id="LOCAL-00087" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1761572988715</created>
+      <created>1761486773322</created>
       <option name="number" value="00087" />
       <option name="presentableId" value="LOCAL-00087" />
       <option name="project" value="LOCAL" />
-      <updated>1761572988716</updated>
+      <updated>1761486773323</updated>
     </task>
     <task id="LOCAL-00088" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1762893305378</created>
+      <created>1761561178264</created>
       <option name="number" value="00088" />
       <option name="presentableId" value="LOCAL-00088" />
       <option name="project" value="LOCAL" />
-      <updated>1762893305378</updated>
+      <updated>1761561178264</updated>
     </task>
     <task id="LOCAL-00089" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1763029044913</created>
+      <created>1761561361027</created>
       <option name="number" value="00089" />
       <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1763029044914</updated>
+      <updated>1761561361027</updated>
     </task>
     <task id="LOCAL-00090" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1763055328164</created>
+      <created>1761588479169</created>
       <option name="number" value="00090" />
       <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1763055328165</updated>
+      <updated>1761588479169</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761688933300</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1761688933300</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761778799792</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1761778799792</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761862640531</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1761862640531</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761923993315</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1761923993316</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1761953272487</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1761953272487</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762034040897</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1762034040897</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762157531584</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1762157531584</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762194626925</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1762194626925</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762282978381</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1762282978381</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762636758175</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1762636758175</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762804390442</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1762804390442</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1762976869055</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1762976869055</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
