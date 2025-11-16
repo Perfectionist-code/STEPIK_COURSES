@@ -4,16 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение варианта на КЕГЭ информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/Bank/27/01_27_18678.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/Bank/27/02_27_18677.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/Bank/27/03_27_18625.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/Bank/27/04_27_18056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kompege/Bank/27/05_27_22625.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач №27 dbscan">
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.66 (П) Домашнее задание 13.05 (№24)/7_66_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.66 (П) Домашнее задание 13.05 (№24)/7_66_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kompege/23. Поиск делителей ЗАДАНИЕ 25/23_25_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kompege/Bank/27/.~lock.05_27B_22625.ods#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +184,8 @@
     "Python.22_17_8.executor": "Run",
     "Python.22_17_9.executor": "Run",
     "Python.23.executor": "Run",
+    "Python.23_25_18.executor": "Run",
+    "Python.23_25_20.executor": "Run",
     "Python.23_25_2_1.executor": "Run",
     "Python.23_25_2_2.executor": "Run",
     "Python.23_25_2_3.executor": "Run",
@@ -459,7 +472,14 @@
     "Python.7_5_4.executor": "Run",
     "Python.7_5_5.executor": "Run",
     "Python.7_5_6.executor": "Run",
+    "Python.7_64_11.executor": "Run",
+    "Python.7_64_12.executor": "Run",
     "Python.7_64_6.executor": "Run",
+    "Python.7_64_7.executor": "Run",
+    "Python.7_64_8.executor": "Run",
+    "Python.7_64_9.executor": "Run",
+    "Python.7_66_1.executor": "Run",
+    "Python.7_66_2.executor": "Run",
     "Python.7_6_1.executor": "Run",
     "Python.7_6_4.executor": "Run",
     "Python.7_6_6.executor": "Run",
@@ -500,17 +520,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/kompege/Bank/27",
+    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/kompege/23. Поиск делителей ЗАДАНИЕ 25",
     "settings.editor.selected.configurable": "memory.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python314\STEPIK_COURSES\kompege\Bank\27" />
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25" />
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.66 (П) Домашнее задание 13.05 (№24)" />
       <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ" />
+      <recent name="C:\Python314\STEPIK_COURSES\kompege\Bank\27" />
       <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.31 17.01. Программирование задач №14" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.28 14.01. Программирование задач №15 на отрезки и множества" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\6.7 10.12. Рекурсивное решение задач 23" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python314\STEPIK_COURSES\kompege\12. Электронные таблицы. Динамический подсчёт ЗАДАНИЕ 18" />
@@ -638,14 +658,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1755963249866</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1755963249866</updated>
     </task>
     <task id="LOCAL-00056" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
@@ -1031,7 +1043,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763125935959</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Решение задач №27 dbscan">
+      <option name="closed" value="true" />
+      <created>1763240171682</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1763240171682</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1058,7 +1078,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 4_7_1" />
     <MESSAGE value="Задача 4_7_3" />
     <MESSAGE value="Задача 4_7_2" />
     <MESSAGE value="Задача 4_8_1" />
@@ -1083,7 +1102,8 @@
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
     <MESSAGE value="Решение задач для подготовки к ЕГЭ по информатике" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задач для подготовки к ЕГЭ по информатике" />
+    <MESSAGE value="Решение задач №27 dbscan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задач №27 dbscan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
