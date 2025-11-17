@@ -15,7 +15,7 @@ num_best_row = 0
 cnt = 0
 for i, row in enumerate(hall, 1):
     for p in zip(row, row[1:], row[2:]):
-        if p[1] - p[0] == 5 and p[2] - p[1] == 5:
+        if p[1] - p[0] == 6 and p[2] - p[1] == 6:
             print(i,p[1])
             num_best_row = i
             cnt += 1
