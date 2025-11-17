@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение варианта и задач №24">
-      <change afterPath="$PROJECT_DIR$/КИМ № - БР № 2832503195017 (2)/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,6 +236,7 @@
     "Python.25_24_7.executor": "Run",
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
+    "Python.26.executor": "Run",
     "Python.27.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
@@ -641,14 +661,6 @@
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
     </task>
-    <task id="LOCAL-00057" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1755982839452</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1755982839452</updated>
-    </task>
     <task id="LOCAL-00058" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
       <created>1756046801812</created>
@@ -1033,7 +1045,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763322700602</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Решение варианта и задач №24">
+      <option name="closed" value="true" />
+      <created>1763323490436</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1763323490436</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
