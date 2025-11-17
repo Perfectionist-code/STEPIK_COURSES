@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)/7_65_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/БР № 2832503195017 2025_11_17/26.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -369,6 +379,16 @@
     "Python.7_64_3.executor": "Run",
     "Python.7_64_4.executor": "Run",
     "Python.7_64_5.executor": "Run",
+    "Python.7_65_1.executor": "Run",
+    "Python.7_65_10.executor": "Run",
+    "Python.7_65_11.executor": "Run",
+    "Python.7_65_2.executor": "Run",
+    "Python.7_65_3.executor": "Run",
+    "Python.7_65_4.executor": "Run",
+    "Python.7_65_5.executor": "Run",
+    "Python.7_65_6.executor": "Run",
+    "Python.7_65_7.executor": "Run",
+    "Python.7_65_8.executor": "Run",
     "Python.7_66_3.executor": "Run",
     "Python.7_6_1.executor": "Run",
     "Python.7_6_4.executor": "Run",
@@ -408,16 +428,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/7.66 (П) Домашнее задание 13.05 (№24)"
+    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.65 (Б) Домашнее задание 13.05 (№24)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.66 (П) Домашнее задание 13.05 (№24)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25\DZ2" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\18. Рекурсия ЗАДАНИЕ 16\DZ2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
