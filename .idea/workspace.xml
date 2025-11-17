@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/6.34 21.01. №8 комбинаторика. Мат.основы и программирование/6_34_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ/7_64_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/6.31 17.01. Программирование задач №14/6_31_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/7.42 (П) Домашнее задание 15.04 (№24 ч.2)/7_42_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/7.42 (П) Домашнее задание 15.04 (№24 ч.2)/7_42_4.py" afterDir="false" />
-    </list>
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -550,14 +538,6 @@
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
     </task>
-    <task id="LOCAL-00043" summary="Задача 4_9_7">
-      <option name="closed" value="true" />
-      <created>1749154366734</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1749154366734</updated>
-    </task>
     <task id="LOCAL-00044" summary="Задача 4_9_8_Разреженный массив">
       <option name="closed" value="true" />
       <created>1749221981977</created>
@@ -942,7 +922,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763113124084</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1763201387936</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1763201387936</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
