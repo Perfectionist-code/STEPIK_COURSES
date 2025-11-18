@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11/7_67_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -398,6 +388,12 @@
     "Python.7_67_7.executor": "Run",
     "Python.7_67_8.executor": "Run",
     "Python.7_67_9.executor": "Run",
+    "Python.7_69_1.executor": "Run",
+    "Python.7_69_2.executor": "Run",
+    "Python.7_69_3.executor": "Run",
+    "Python.7_69_4.executor": "Run",
+    "Python.7_69_5.executor": "Run",
+    "Python.7_69_6.executor": "Run",
     "Python.7_6_1.executor": "Run",
     "Python.7_6_4.executor": "Run",
     "Python.7_6_6.executor": "Run",
@@ -436,16 +432,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/7.67 16.05. Доп. способы решения №16, №7 и №11"
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.69 (П) Домашнее задание 16.05 (№16, №7, №11)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.67 16.05. Доп. способы решения №16, №7 и №11" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.66 (П) Домашнее задание 13.05 (№24)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25\DZ2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -572,14 +569,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Задача 5_1_2">
-      <option name="closed" value="true" />
-      <created>1749316608370</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1749316608370</updated>
     </task>
     <task id="LOCAL-00047" summary="Задача 5_1_3">
       <option name="closed" value="true" />
@@ -965,7 +954,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763387728266</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1763473329215</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1763473329215</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
