@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)/7_69_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/7.68 (Б) Домашнее задание 16.05 (№16, №7, №11)/7_68_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_11_2025_20_10_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_11_2025_20_10__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +33,12 @@
     &quot;assignee&quot;: &quot;Perfectionist-code&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;4c3300cc-67bd-4c80-928f-c5645c27f47b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Perfectionist-code/STEPIK_COURSES.git",
+    "accountId": "c6be2dac-d9a5-4fd9-88d5-8040bf058a7d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -373,27 +372,18 @@
     "Python.7_64_3.executor": "Run",
     "Python.7_64_4.executor": "Run",
     "Python.7_64_5.executor": "Run",
+    "Python.7_65_1.executor": "Run",
+    "Python.7_65_10.executor": "Run",
+    "Python.7_65_11.executor": "Run",
+    "Python.7_65_2.executor": "Run",
+    "Python.7_65_3.executor": "Run",
+    "Python.7_65_4.executor": "Run",
+    "Python.7_65_5.executor": "Run",
+    "Python.7_65_6.executor": "Run",
+    "Python.7_65_7.executor": "Run",
+    "Python.7_65_8.executor": "Run",
     "Python.7_66_3.executor": "Run",
-    "Python.7_67_1.executor": "Run",
-    "Python.7_67_10.executor": "Run",
-    "Python.7_67_11.executor": "Run",
-    "Python.7_67_12.executor": "Run",
-    "Python.7_67_13.executor": "Run",
-    "Python.7_67_14.executor": "Run",
-    "Python.7_67_2.executor": "Run",
-    "Python.7_67_3.executor": "Run",
-    "Python.7_67_4.executor": "Run",
-    "Python.7_67_5.executor": "Run",
-    "Python.7_67_6.executor": "Run",
-    "Python.7_67_7.executor": "Run",
-    "Python.7_67_8.executor": "Run",
-    "Python.7_67_9.executor": "Run",
-    "Python.7_69_1.executor": "Run",
-    "Python.7_69_2.executor": "Run",
-    "Python.7_69_3.executor": "Run",
-    "Python.7_69_4.executor": "Run",
-    "Python.7_69_5.executor": "Run",
-    "Python.7_69_6.executor": "Run",
+    "Python.7_68_1.executor": "Run",
     "Python.7_6_1.executor": "Run",
     "Python.7_6_4.executor": "Run",
     "Python.7_6_6.executor": "Run",
@@ -432,17 +422,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/7.69 (П) Домашнее задание 16.05 (№16, №7, №11)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/Year course EGE 2025/7.65 (Б) Домашнее задание 13.05 (№24)"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.69 (П) Домашнее задание 16.05 (№16, №7, №11)" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.67 16.05. Доп. способы решения №16, №7 и №11" />
+      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.65 (Б) Домашнее задание 13.05 (№24)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.66 (П) Домашнее задание 13.05 (№24)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.64 13.05. Шаблон для №24, который решает 90% задач с ЕГЭ" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\kompege\23. Поиск делителей ЗАДАНИЕ 25\DZ2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
@@ -569,6 +558,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Задача 5_1_2">
+      <option name="closed" value="true" />
+      <created>1749316608370</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1749316608370</updated>
     </task>
     <task id="LOCAL-00047" summary="Задача 5_1_3">
       <option name="closed" value="true" />
@@ -954,15 +951,7 @@
       <option name="project" value="LOCAL" />
       <updated>1763387728266</updated>
     </task>
-    <task id="LOCAL-00095" summary="Решение задач для подготовки к ЕГЭ по информатике">
-      <option name="closed" value="true" />
-      <created>1763473329215</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1763473329215</updated>
-    </task>
-    <option name="localTasksCounter" value="96" />
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
