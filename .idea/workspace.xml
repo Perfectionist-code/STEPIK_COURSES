@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач ЕГЭ">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/26.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,6 +144,7 @@
     "Python.24_27_7.executor": "Run",
     "Python.24_27_8.executor": "Run",
     "Python.24_27_9.executor": "Run",
+    "Python.25.executor": "Run",
     "Python.25_24_1.executor": "Run",
     "Python.25_24_10.executor": "Run",
     "Python.25_24_11.executor": "Run",
@@ -608,14 +598,6 @@
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
     </task>
-    <task id="LOCAL-00048" summary="Задача 5_1_4">
-      <option name="closed" value="true" />
-      <created>1749317423836</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1749317423836</updated>
-    </task>
     <task id="LOCAL-00049" summary="Задача 5_1_5">
       <option name="closed" value="true" />
       <created>1749318742348</created>
@@ -1000,7 +982,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763907044176</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Решение задач ЕГЭ">
+      <option name="closed" value="true" />
+      <created>1763935771409</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1763935771409</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
