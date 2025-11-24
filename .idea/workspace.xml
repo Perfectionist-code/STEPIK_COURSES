@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач ЕГЭ">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/26.py" afterDir="false" />
+    <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)/27_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectsPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +47,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Perfectionist-code/STEPIK_COURSES.git&quot;,
-    &quot;accountId&quot;: &quot;c6be2dac-d9a5-4fd9-88d5-8040bf058a7d&quot;
+    &quot;accountId&quot;: &quot;4c3300cc-67bd-4c80-928f-c5645c27f47b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,7 +67,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01.executor": "Run",
     "Python.02.executor": "Run",
-    "Python.04.executor": "Run",
+    "Python.05.executor": "Run",
     "Python.06.executor": "Run",
     "Python.07.executor": "Run",
     "Python.08.executor": "Run",
@@ -74,15 +86,12 @@
     "Python.14.executor": "Run",
     "Python.15.executor": "Run",
     "Python.15_10.executor": "Run",
-    "Python.16.executor": "Run",
-    "Python.17.executor": "Run",
     "Python.17_5_12.executor": "Run",
     "Python.17_5_13.executor": "Run",
     "Python.17_5_14.executor": "Run",
     "Python.17_5_22.executor": "Run",
     "Python.18_16_2_10.executor": "Run",
     "Python.18_16_2_9.executor": "Run",
-    "Python.19.executor": "Run",
     "Python.19_23_21_recurs.executor": "Run",
     "Python.19_23_22_recurs.executor": "Run",
     "Python.19_23_23_recurs.executor": "Run",
@@ -144,7 +153,6 @@
     "Python.24_27_7.executor": "Run",
     "Python.24_27_8.executor": "Run",
     "Python.24_27_9.executor": "Run",
-    "Python.25.executor": "Run",
     "Python.25_24_1.executor": "Run",
     "Python.25_24_10.executor": "Run",
     "Python.25_24_11.executor": "Run",
@@ -177,6 +185,8 @@
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
     "Python.26.executor": "Run",
+    "Python.27.executor": "Run",
+    "Python.27_B.executor": "Run",
     "Python.2_10_1.executor": "Run",
     "Python.2_15_1.executor": "Run",
     "Python.2_19_1.executor": "Run",
@@ -376,52 +386,55 @@
     "Python.7_4_6.executor": "Run",
     "Python.7_4_7.executor": "Run",
     "Python.7_4_8.executor": "Run",
-    "Python.7_57_1.executor": "Run",
-    "Python.7_57_2.executor": "Run",
     "Python.7_5_1.executor": "Run",
     "Python.7_5_2.executor": "Run",
     "Python.7_5_3.executor": "Run",
     "Python.7_5_4.executor": "Run",
     "Python.7_5_5.executor": "Run",
     "Python.7_5_6.executor": "Run",
-    "Python.7_60_1.executor": "Run",
-    "Python.7_60_2.executor": "Run",
-    "Python.7_60_3.executor": "Run",
-    "Python.7_60_4.executor": "Run",
-    "Python.7_61_10.executor": "Run",
-    "Python.7_61_11.executor": "Run",
-    "Python.7_61_5.executor": "Run",
-    "Python.7_61_6.executor": "Run",
-    "Python.7_61_7.executor": "Run",
-    "Python.7_61_8.executor": "Run",
-    "Python.7_61_9.executor": "Run",
-    "Python.7_62_1.executor": "Run",
-    "Python.7_62_10.executor": "Run",
-    "Python.7_62_2.executor": "Run",
-    "Python.7_62_3.executor": "Run",
-    "Python.7_62_4.executor": "Run",
-    "Python.7_62_5.executor": "Run",
-    "Python.7_62_6.executor": "Run",
-    "Python.7_62_7.executor": "Run",
-    "Python.7_62_8.executor": "Run",
-    "Python.7_62_9.executor": "Run",
+    "Python.7_60_5.executor": "Run",
+    "Python.7_60_6.executor": "Run",
+    "Python.7_61_1.executor": "Run",
+    "Python.7_61_2.executor": "Run",
+    "Python.7_61_3.executor": "Run",
+    "Python.7_61_4.executor": "Run",
+    "Python.7_63_1.executor": "Run",
+    "Python.7_63_2.executor": "Run",
     "Python.7_64_1.executor": "Run",
     "Python.7_64_2.executor": "Run",
     "Python.7_64_3.executor": "Run",
     "Python.7_64_4.executor": "Run",
     "Python.7_64_5.executor": "Run",
-    "Python.7_65_1.executor": "Run",
-    "Python.7_65_10.executor": "Run",
-    "Python.7_65_11.executor": "Run",
-    "Python.7_65_2.executor": "Run",
-    "Python.7_65_3.executor": "Run",
-    "Python.7_65_4.executor": "Run",
-    "Python.7_65_5.executor": "Run",
-    "Python.7_65_6.executor": "Run",
-    "Python.7_65_7.executor": "Run",
-    "Python.7_65_8.executor": "Run",
     "Python.7_66_3.executor": "Run",
-    "Python.7_68_1.executor": "Run",
+    "Python.7_67_1.executor": "Run",
+    "Python.7_67_10.executor": "Run",
+    "Python.7_67_11.executor": "Run",
+    "Python.7_67_12.executor": "Run",
+    "Python.7_67_13.executor": "Run",
+    "Python.7_67_14.executor": "Run",
+    "Python.7_67_2.executor": "Run",
+    "Python.7_67_3.executor": "Run",
+    "Python.7_67_4.executor": "Run",
+    "Python.7_67_5.executor": "Run",
+    "Python.7_67_6.executor": "Run",
+    "Python.7_67_7.executor": "Run",
+    "Python.7_67_8.executor": "Run",
+    "Python.7_67_9.executor": "Run",
+    "Python.7_68_10.executor": "Run",
+    "Python.7_68_11.executor": "Run",
+    "Python.7_68_3.executor": "Run",
+    "Python.7_68_4.executor": "Run",
+    "Python.7_68_5.executor": "Run",
+    "Python.7_68_6.executor": "Run",
+    "Python.7_68_7.executor": "Run",
+    "Python.7_68_8.executor": "Run",
+    "Python.7_68_9.executor": "Run",
+    "Python.7_69_1.executor": "Run",
+    "Python.7_69_2.executor": "Run",
+    "Python.7_69_3.executor": "Run",
+    "Python.7_69_4.executor": "Run",
+    "Python.7_69_5.executor": "Run",
+    "Python.7_69_6.executor": "Run",
     "Python.7_6_1.executor": "Run",
     "Python.7_6_4.executor": "Run",
     "Python.7_6_6.executor": "Run",
@@ -460,19 +473,19 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Python314/STEPIK_COURSES/Year course EGE 2025/7.57 (П) Домашнее задание 02.05 (№17)"
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.57 (П) Домашнее задание 02.05 (№17)" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.60 (П) Домашнее задание 06.05 (№9)" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.62 (Б) Домашнее задание 09.05 (№24)" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.61 09.05. Доп.способ решения задач №24. Регулярные выражения" />
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025\7.65 (Б) Домашнее задание 13.05 (№24)" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\8.1 Пробник №3 (задания 1-15)" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.60 (П) Домашнее задание 06.05 (№9)" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.61 09.05. Доп.способ решения задач №24. Регулярные выражения" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.63 (П) Домашнее задание 09.05 (№24)" />
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.68 (Б) Домашнее задание 16.05 (№16, №7, №11)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Python314\STEPIK_COURSES\Year course EGE 2025" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.4 Магические методы для математических операций " />
@@ -597,6 +610,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Задача 5_1_3">
+      <option name="closed" value="true" />
+      <created>1749317160643</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1749317160643</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Задача 5_1_4">
+      <option name="closed" value="true" />
+      <created>1749317423836</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1749317423836</updated>
     </task>
     <task id="LOCAL-00049" summary="Задача 5_1_5">
       <option name="closed" value="true" />
@@ -966,31 +995,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763387728266</updated>
     </task>
-    <task id="LOCAL-00095" summary="Решение задач ЕГЭ">
+    <task id="LOCAL-00095" summary="Решение задач для подготовки к ЕГЭ по информатике">
       <option name="closed" value="true" />
-      <created>1763726295496</created>
+      <created>1763473329215</created>
       <option name="number" value="00095" />
       <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1763726295496</updated>
+      <updated>1763473329215</updated>
     </task>
-    <task id="LOCAL-00096" summary="Решение задач ЕГЭ">
-      <option name="closed" value="true" />
-      <created>1763907044176</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1763907044176</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Решение задач ЕГЭ">
-      <option name="closed" value="true" />
-      <created>1763935771409</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1763935771409</updated>
-    </task>
-    <option name="localTasksCounter" value="98" />
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1017,6 +1030,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задача 4_7_1" />
     <MESSAGE value="Задача 4_7_3" />
     <MESSAGE value="Задача 4_7_2" />
     <MESSAGE value="Задача 4_8_1" />
@@ -1041,8 +1055,7 @@
     <MESSAGE value="Задача 5_3_1" />
     <MESSAGE value="Задача 5_4_1" />
     <MESSAGE value="Решение задач для подготовки к ЕГЭ по информатике" />
-    <MESSAGE value="Решение задач ЕГЭ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задач ЕГЭ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задач для подготовки к ЕГЭ по информатике" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
