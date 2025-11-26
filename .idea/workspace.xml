@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03bf4e6-c37d-4faa-a6f0-42df1b1e4629" name="Changes" comment="Решение задач для подготовки к ЕГЭ по информатике">
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2025_15_13_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2025_15_13__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/26_ver1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Year course EGE 2026/5.1 Пробник №1 (задания 1-15)/27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/26var01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)/26var01.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +195,7 @@
     "Python.25_24_8.executor": "Run",
     "Python.25_24_9.executor": "Run",
     "Python.26.executor": "Run",
+    "Python.26_ver1.executor": "Run",
     "Python.27.executor": "Run",
     "Python.27_B.executor": "Run",
     "Python.2_10_1.executor": "Run",
@@ -466,21 +482,23 @@
     "Python.task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/8.1 Пробник №3 (задания 1-15)",
+    "last_opened_file_path": "C:/Users/skird/PycharmProjects/STEPIK_COURSES/Year course EGE 2025/9.1 Пробник №4 (задания 1-15)",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\9.1 Пробник №4 (задания 1-15)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\8.1 Пробник №3 (задания 1-15)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.60 (П) Домашнее задание 06.05 (№9)" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.61 09.05. Доп.способ решения задач №24. Регулярные выражения" />
       <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.63 (П) Домашнее задание 09.05 (№24)" />
-      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2025\7.68 (Б) Домашнее задание 16.05 (№16, №7, №11)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\skird\PycharmProjects\STEPIK_COURSES\Year course EGE 2026\5.1 Пробник №1 (задания 1-15)" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.5 Magic methods for comparison operations" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem" />
       <recent name="D:\Python313\Projects\Stepik\OOP_Object-oriented programming in Python by Egorov Artem\4.4 Магические методы для математических операций " />
@@ -605,14 +623,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745849462271</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Задача 5_1_5">
-      <option name="closed" value="true" />
-      <created>1749318742348</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1749318742348</updated>
     </task>
     <task id="LOCAL-00050" summary="Задача 5_2_1">
       <option name="closed" value="true" />
@@ -998,7 +1008,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764067257432</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Решение задач для подготовки к ЕГЭ по информатике">
+      <option name="closed" value="true" />
+      <created>1764108731508</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1764108731508</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
