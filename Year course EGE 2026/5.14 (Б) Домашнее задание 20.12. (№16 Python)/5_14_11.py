@@ -1,5 +1,5 @@
 from functools import lru_cache
-
+from fractions import Fraction
 
 @lru_cache(None)
 def g(n: int):
@@ -9,7 +9,7 @@ def g(n: int):
 
 @lru_cache(None)
 def f(n: int):
-    if n >= 201208: return n // 4 + 150
+    if n >= 201208: return Fraction(n, 4) + 150
     return f(n + 7) - 91
 
 
