@@ -28,3 +28,4 @@
 #
 # print(counter)
 
+print(list(map(str.capitalize, input().split())))
