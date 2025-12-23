@@ -1,7 +1,7 @@
-def f(curr: int, end: int, cnt: int):
-    if curr > end or cnt > 2: return 0
+def f(curr: int, end: int):
+    if curr < end: return 0
     if curr == end: return 1
-    return f(curr + 1, end, cnt) + f(curr + 2, end, cnt) + f(curr * 2, end, cnt + 1)
+    return f(curr - 1, end) + f(curr >> 1, end)
 
 
-print(f(2, 12, 0))
+print(f(int('100001', 2), int('100', 2)))
