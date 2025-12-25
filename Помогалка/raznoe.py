@@ -28,4 +28,10 @@
 #
 # print(counter)
 
-print(list(map(str.capitalize, input().split())))
+# print(list(map(str.capitalize, input().split())))
+
+# print(input().lower())
+# print(input().lower() == input().lower())
+# print(list(map(str.lower, input().split())))
+
+print((s := input()) == s.lower() or s == s.capitalize())
