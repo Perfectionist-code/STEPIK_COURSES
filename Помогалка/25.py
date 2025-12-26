@@ -1,7 +1,1 @@
-language = 'Русский'
-
-if language != 'English' != 'Español':
-    print('Язык по умолчанию не является ни английским, ни испанским')
-
-if language != 'English' != 'Русский':
-    print('Язык по умолчанию не является ни английским, ни русским')
+from turtle import *
