@@ -1,24 +1,17 @@
-from math import ceil, prod
+from math import ceil
+
+def get_divisors(num):
+    divisors = set()
+    for d in range(1, int(num ** .5) + 1):
+        if not num % d:
+            divisors |= {d, num // d}
+    return divisors
 
 
-def find_dividers(num: int) -> tuple:
-    cnt = 0
-    res = []
-    for i in range(2, num // 2 + 1):
-        if not num % i:
-            cnt += 1
-            if cnt > 2:
-                return tuple()
-            res.append(i)
-    if cnt <= 1:
-        return tuple()
-    return tuple(res)
+for n in range(ceil((113_000_000 // 2) ** 0.5), ceil((114_000_000 // 2) ** 0.5)):
+    x = 2 * n ** 2
+    even_divisors = sorted(x for x in get_divisors(x) if x % 2 == 0)
+    if len(even_divisors) == 3:
+        print(x, even_divisors[1])
 
 
-lst = []
-for n in range(174457, 174505):
-    if (r := find_dividers(n)):
-        lst.append(r)
-    lst.sort(key=prod)
-for tup in lst:
-    print(*tup, prod(tup))
