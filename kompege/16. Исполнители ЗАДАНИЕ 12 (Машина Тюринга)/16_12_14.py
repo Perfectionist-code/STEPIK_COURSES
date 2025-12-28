@@ -21,3 +21,6 @@ def mt(s: str):
     return ''.join(s).strip()
 
 
+for x in range(1000,-1,0):
+    for y in range(1000):
+
